@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://e-manifest.ir/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://e-manifest.ir/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://e-manifest.ir/">
+      <s:element name="InsertData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Company" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="LineCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MachineCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="WinName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="WinVer" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="LicenseID" type="s:long" />
+            <s:element minOccurs="1" maxOccurs="1" name="Days" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="ExpireDate" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCompany">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="email" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mobile" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="qty" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="uniqueCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertCompanyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertCompanyResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Payment">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="uniqueCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PaymentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="PaymentResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertClient">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="machineCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="winName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="winVer" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertClientResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertClientResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsRenewLic">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IsRenewLicResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="IsRenewLicResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateManually">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ExpDate" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateManuallyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateManuallyResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExpireDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ExpireDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ExpireDateResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateDays">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateDaysResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidateDaysResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CompanyName">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CompanyNameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CompanyNameResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertDataSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertData" />
+  </wsdl:message>
+  <wsdl:message name="InsertDataSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertCompanySoapIn">
+    <wsdl:part name="parameters" element="tns:InsertCompany" />
+  </wsdl:message>
+  <wsdl:message name="InsertCompanySoapOut">
+    <wsdl:part name="parameters" element="tns:InsertCompanyResponse" />
+  </wsdl:message>
+  <wsdl:message name="PaymentSoapIn">
+    <wsdl:part name="parameters" element="tns:Payment" />
+  </wsdl:message>
+  <wsdl:message name="PaymentSoapOut">
+    <wsdl:part name="parameters" element="tns:PaymentResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertClientSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertClient" />
+  </wsdl:message>
+  <wsdl:message name="InsertClientSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertClientResponse" />
+  </wsdl:message>
+  <wsdl:message name="IsRenewLicSoapIn">
+    <wsdl:part name="parameters" element="tns:IsRenewLic" />
+  </wsdl:message>
+  <wsdl:message name="IsRenewLicSoapOut">
+    <wsdl:part name="parameters" element="tns:IsRenewLicResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateManuallySoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateManually" />
+  </wsdl:message>
+  <wsdl:message name="UpdateManuallySoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateManuallyResponse" />
+  </wsdl:message>
+  <wsdl:message name="ExpireDateSoapIn">
+    <wsdl:part name="parameters" element="tns:ExpireDate" />
+  </wsdl:message>
+  <wsdl:message name="ExpireDateSoapOut">
+    <wsdl:part name="parameters" element="tns:ExpireDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateDaysSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateDays" />
+  </wsdl:message>
+  <wsdl:message name="ValidateDaysSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateDaysResponse" />
+  </wsdl:message>
+  <wsdl:message name="CompanyNameSoapIn">
+    <wsdl:part name="parameters" element="tns:CompanyName" />
+  </wsdl:message>
+  <wsdl:message name="CompanyNameSoapOut">
+    <wsdl:part name="parameters" element="tns:CompanyNameResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ManifestWSSoap">
+    <wsdl:operation name="InsertData">
+      <wsdl:input message="tns:InsertDataSoapIn" />
+      <wsdl:output message="tns:InsertDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCompany">
+      <wsdl:input message="tns:InsertCompanySoapIn" />
+      <wsdl:output message="tns:InsertCompanySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Payment">
+      <wsdl:input message="tns:PaymentSoapIn" />
+      <wsdl:output message="tns:PaymentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertClient">
+      <wsdl:input message="tns:InsertClientSoapIn" />
+      <wsdl:output message="tns:InsertClientSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IsRenewLic">
+      <wsdl:input message="tns:IsRenewLicSoapIn" />
+      <wsdl:output message="tns:IsRenewLicSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateManually">
+      <wsdl:input message="tns:UpdateManuallySoapIn" />
+      <wsdl:output message="tns:UpdateManuallySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ExpireDate">
+      <wsdl:input message="tns:ExpireDateSoapIn" />
+      <wsdl:output message="tns:ExpireDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateDays">
+      <wsdl:input message="tns:ValidateDaysSoapIn" />
+      <wsdl:output message="tns:ValidateDaysSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CompanyName">
+      <wsdl:input message="tns:CompanyNameSoapIn" />
+      <wsdl:output message="tns:CompanyNameSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ManifestWSSoap" type="tns:ManifestWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertData">
+      <soap:operation soapAction="http://e-manifest.ir/InsertData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCompany">
+      <soap:operation soapAction="http://e-manifest.ir/InsertCompany" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Payment">
+      <soap:operation soapAction="http://e-manifest.ir/Payment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertClient">
+      <soap:operation soapAction="http://e-manifest.ir/InsertClient" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsRenewLic">
+      <soap:operation soapAction="http://e-manifest.ir/IsRenewLic" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateManually">
+      <soap:operation soapAction="http://e-manifest.ir/UpdateManually" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExpireDate">
+      <soap:operation soapAction="http://e-manifest.ir/ExpireDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateDays">
+      <soap:operation soapAction="http://e-manifest.ir/ValidateDays" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CompanyName">
+      <soap:operation soapAction="http://e-manifest.ir/CompanyName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ManifestWSSoap12" type="tns:ManifestWSSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertData">
+      <soap12:operation soapAction="http://e-manifest.ir/InsertData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCompany">
+      <soap12:operation soapAction="http://e-manifest.ir/InsertCompany" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Payment">
+      <soap12:operation soapAction="http://e-manifest.ir/Payment" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertClient">
+      <soap12:operation soapAction="http://e-manifest.ir/InsertClient" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsRenewLic">
+      <soap12:operation soapAction="http://e-manifest.ir/IsRenewLic" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateManually">
+      <soap12:operation soapAction="http://e-manifest.ir/UpdateManually" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExpireDate">
+      <soap12:operation soapAction="http://e-manifest.ir/ExpireDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateDays">
+      <soap12:operation soapAction="http://e-manifest.ir/ValidateDays" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CompanyName">
+      <soap12:operation soapAction="http://e-manifest.ir/CompanyName" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ManifestWS">
+    <wsdl:port name="ManifestWSSoap" binding="tns:ManifestWSSoap">
+      <soap:address location="https://e-manifest.ir/ManifestWS.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ManifestWSSoap12" binding="tns:ManifestWSSoap12">
+      <soap12:address location="https://e-manifest.ir/ManifestWS.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

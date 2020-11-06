@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Manifest</RootNamespace>
+    <AssemblyName>Manifest</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://e-manifest.ir/</InstallUrl>
+    <UpdateUrl>http://e-manifest.ir/</UpdateUrl>
+    <SupportUrl>ftp://e-manifest.ir</SupportUrl>
+    <ProductName>Manifest</ProductName>
+    <PublisherName>E-Commercial</PublisherName>
+    <SuiteName>e-manifest.ir</SuiteName>
+    <MinimumRequiredVersion>3.0.0.25</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>Setup.html</WebPage>
+    <ApplicationRevision>38</ApplicationRevision>
+    <ApplicationVersion>3.0.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>m2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4E1DC204748D3A50FBFF97E379B7B1175002E8D8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Manifest_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Manifest.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.60.6\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="LogicNP.CryptoLicensing, Version=8.0.0.0, Culture=neutral, PublicKeyToken=4a3c0a4c668b48b4">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\LogicNP Software\CryptoLicensing For .Net 2018\LogicNP.CryptoLicensing.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.111.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.111.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.111.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TxtProNetV3">
+      <HintPath>..\..\..\..\Downloads\Compressed\TxtProNetV3.dll</HintPath>
+    </Reference>
+    <Reference Include="zarinpal">
+      <HintPath>..\..\..\..\Downloads\Dot_Net_Frame_Work_ZarinPal_Pay_Action_Reference-master-master\Dot_Net_Frame_Work_ZarinPal_Pay_Action_Reference-master-master\Dot_Net_Frame_Work_ZarinPal\zarinpal\bin\Release\zarinpal.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Airlines.cs" />
+    <Compile Include="Classes\BOL.cs" />
+    <Compile Include="Classes\CONN.cs" />
+    <Compile Include="Classes\CountryCityCodes.cs" />
+    <Compile Include="Classes\CountryCodes.cs" />
+    <Compile Include="Classes\CTR.cs" />
+    <Compile Include="Classes\CustomsCode.cs" />
+    <Compile Include="Classes\DataAccess.cs" />
+    <Compile Include="Classes\EX_IM98.cs" />
+    <Compile Include="Classes\PackageCodes.cs" />
+    <Compile Include="Classes\PortCodes.cs" />
+    <Compile Include="Classes\PortCodes3.cs" />
+    <Compile Include="Classes\PortCodes5.cs" />
+    <Compile Include="Classes\PortCodesAir.cs" />
+    <Compile Include="Classes\ScreenCapture.cs" />
+    <Compile Include="Classes\Setting.cs" />
+    <Compile Include="Classes\Utilities.cs" />
+    <Compile Include="Classes\VOY.cs" />
+    <Compile Include="Classes\WriteClass.cs" />
+    <Compile Include="Classes\clsProgress.cs" />
+    <Compile Include="Connected Services\ManifestServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ZarinpalServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCpp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCpp1.Designer.cs">
+      <DependentUpon>frmCpp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCpp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCpp2.Designer.cs">
+      <DependentUpon>frmCpp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLic.Designer.cs">
+      <DependentUpon>frmLic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLicense.Designer.cs">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTel.Designer.cs">
+      <DependentUpon>frmTel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWaiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWaiting.Designer.cs">
+      <DependentUpon>frmWaiting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.en-US.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCpp1.resx">
+      <DependentUpon>frmCpp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCpp2.resx">
+      <DependentUpon>frmCpp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLic.resx">
+      <DependentUpon>frmLic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLicense.resx">
+      <DependentUpon>frmLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTel.resx">
+      <DependentUpon>frmTel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWaiting.resx">
+      <DependentUpon>frmWaiting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.ExpireTimeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.InsertClientResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.InsertCompanyResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.InsertDataResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.IsRenewLicResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.PaymentResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.UpdateManuallyResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ManifestServiceReference\ManifestWS.wsdl" />
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.GetUnverifiedTransactionsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.PaymentRequestResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.PaymentRequestWithExtraResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.PaymentVerificationResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.PaymentVerificationWithExtraResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\Manifest.ZarinpalServiceReference.RefreshAuthorityResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\PaymentGatewayImplementationService.wsdl" />
+    <None Include="Manifest_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heder1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ship1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ship2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Airplan2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Airplan1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heder2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tools\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heder3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forklift.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heder4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ManifestServiceReference\ManifestWS.disco" />
+    <None Include="Connected Services\ManifestServiceReference\configuration91.svcinfo" />
+    <None Include="Connected Services\ManifestServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\ManifestServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ZarinpalServiceReference\configuration91.svcinfo" />
+    <None Include="Connected Services\ZarinpalServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\ZarinpalServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="m2.ico" />
+    <None Include="Resources\ajaxloading.gif" />
+    <None Include="Resources\Heder01.jpg" />
+    <None Include="Resources\Heder02.jpg" />
+    <None Include="Resources\free.jpg" />
+    <None Include="Resources\Phone 1.jpg" />
+    <None Include="Resources\Phone 2.jpg" />
+    <None Include="Resources\Logo.bmp" />
+    <None Include="Resources\Customs Logo.png" />
+    <None Include="Resources\Cover 99 BW.jpg" />
+    <None Include="Resources\Cover 99 Color.jpg" />
+    <Content Include="x64\SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="x86\SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\Del.png" />
+    <None Include="Resources\Trial.png" />
+    <EmbeddedResource Include="System.Data.SQLite.dll" />
+    <Content Include="_db.db">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ManifestServiceReference\" />
+    <WCFMetadataStorage Include="Connected Services\ZarinpalServiceReference\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.111.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <CO_FirstProject>True</CO_FirstProject>
+    <CO_LastProject>True</CO_LastProject>
+    <CO_Config>Release|AnyCPU</CO_Config>
+    <CO_ProjectFilePath>..\Manifest_Release_AnyCPU.obproj</CO_ProjectFilePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <CO_FirstProject>True</CO_FirstProject>
+    <CO_LastProject>True</CO_LastProject>
+    <CO_Config>Debug|AnyCPU</CO_Config>
+    <CO_ProjectFilePath>..\Manifest_Debug_AnyCPU.obproj</CO_ProjectFilePath>
+  </PropertyGroup>
+  <Import Project="C:\Program Files (x86)\LogicNP Software\Crypto Obfuscator For .Net 2018\CryptoObfuscator.targets" />
+</Project>

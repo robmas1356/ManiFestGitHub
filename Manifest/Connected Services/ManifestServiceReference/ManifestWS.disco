@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://e-manifest.ir/ManifestWS.asmx?wsdl" docRef="https://e-manifest.ir/ManifestWS.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://e-manifest.ir/ManifestWS.asmx" xmlns:q1="http://e-manifest.ir/" binding="q1:ManifestWSSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://e-manifest.ir/ManifestWS.asmx" xmlns:q2="http://e-manifest.ir/" binding="q2:ManifestWSSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

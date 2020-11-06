@@ -1,0 +1,2029 @@
+﻿<Mappings><Entry OldName="&lt;&gt;f__AnonymousType0`1.&lt;ID&gt;i__Field" NewName="A.c650f225120800f8f80862041e114c540`1.c998ec8b6417621f3a04cffab36336590" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.&lt;BolRef&gt;i__Field" NewName="A.c023523def50e7ef1e04b45865247dbe7`1.c406a694a489a8f622bc538e1505f4364" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1.&lt;CtrRef&gt;i__Field" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1.cd7fcbf942a4cd4d70b82ab7988217d4f" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1.&lt;Ref&gt;i__Field" NewName="A.c71c66ca1d359f42921498078a1933c6b`1.c85d50b503685997c18707c100eb03254" />
+<Entry OldName="Manifest.AirLinesViewModel.&lt;Name&gt;k__BackingField" NewName="Manifest.AirLinesViewModel.c774270158601e4db651b2c66f9936884" />
+<Entry OldName="Manifest.BOLViewModel.&lt;ID&gt;k__BackingField" NewName="Manifest.BOLViewModel.c45cd8bd17aeee0295399feda2f770df3" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt1&gt;k__BackingField" NewName="Manifest.BOLViewModel.c3a0694ed990e940a5d1bfe20d4c2ffbd" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt2&gt;k__BackingField" NewName="Manifest.BOLViewModel.cfcc303ddc43e5143a76b8857729e4d57" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt3&gt;k__BackingField" NewName="Manifest.BOLViewModel.c0c8168d1f3b0208c3b2fb1936aa6ee2e" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt4&gt;k__BackingField" NewName="Manifest.BOLViewModel.c34a0939bac679beea14e2d869ae60a10" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt5&gt;k__BackingField" NewName="Manifest.BOLViewModel.cd80dca3b7c6de35bea2c47ab49527e87" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt6&gt;k__BackingField" NewName="Manifest.BOLViewModel.c4a14b20d12388691fef9782aa9e68d82" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt7&gt;k__BackingField" NewName="Manifest.BOLViewModel.cee34aec876128176df453948a1b994c3" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt8&gt;k__BackingField" NewName="Manifest.BOLViewModel.c4369aae6d90467a9539e710e287da6ef" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt9&gt;k__BackingField" NewName="Manifest.BOLViewModel.cd6a7b91bdab984480db22a3f962794c9" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt10&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc0a9fb8b3a70b66f3259417a3e697aa2" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt11&gt;k__BackingField" NewName="Manifest.BOLViewModel.c9960b664f0ef4d7fc70ec49b5f022f01" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt12&gt;k__BackingField" NewName="Manifest.BOLViewModel.c5a87c2711147454df46f91112abd223e" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt13&gt;k__BackingField" NewName="Manifest.BOLViewModel.c8086511771e85136aad5bfd7df8b4cf0" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt14&gt;k__BackingField" NewName="Manifest.BOLViewModel.ce69fa092605e4fa3849642c6a72eb944" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt15&gt;k__BackingField" NewName="Manifest.BOLViewModel.c1d07cdc97ae1771477e5c76036c67433" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt16&gt;k__BackingField" NewName="Manifest.BOLViewModel.cbd3d22fc0525e5157710ebd8d4d17cc3" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt17&gt;k__BackingField" NewName="Manifest.BOLViewModel.c2c88430f0bfb4db6e6ea355eedf44ff6" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt18&gt;k__BackingField" NewName="Manifest.BOLViewModel.c7efc971749f6f643005e8aa702306b91" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt19&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc62cd1a79cf11229706adc598f739735" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt20&gt;k__BackingField" NewName="Manifest.BOLViewModel.cb46a8e25f40b395c36ef58e041073c47" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt21&gt;k__BackingField" NewName="Manifest.BOLViewModel.c6de967fc44d33da2967c667d5241bf56" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt22&gt;k__BackingField" NewName="Manifest.BOLViewModel.c47780a04a74ed86bd91a46977502ab56" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt23&gt;k__BackingField" NewName="Manifest.BOLViewModel.c91905a586bb9809fb9b8691ad0adf698" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt24&gt;k__BackingField" NewName="Manifest.BOLViewModel.c6a17cab529c2467ca49a593166c4e854" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt25&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc2c7dc78ac9c35475e6444fe26627fd5" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt26&gt;k__BackingField" NewName="Manifest.BOLViewModel.ce088dffe26603041314b613f2649312a" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt27&gt;k__BackingField" NewName="Manifest.BOLViewModel.c34450124a93b895a4a5e11dccc06dfd7" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt28&gt;k__BackingField" NewName="Manifest.BOLViewModel.c5f587c641c93cc044d37ac2b60f157ec" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt29&gt;k__BackingField" NewName="Manifest.BOLViewModel.c438aad9c8bf536f52389e6326c441648" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt30&gt;k__BackingField" NewName="Manifest.BOLViewModel.c296f75ddadb2256e6a6acd5653163e6d" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt31&gt;k__BackingField" NewName="Manifest.BOLViewModel.c88700559767a0e057c28cb03b27c367e" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt32&gt;k__BackingField" NewName="Manifest.BOLViewModel.c83f612bdd16da216650aa7c6cf4572ca" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt33&gt;k__BackingField" NewName="Manifest.BOLViewModel.cd02e089395c592842ab5f4912682c2c4" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt34&gt;k__BackingField" NewName="Manifest.BOLViewModel.cfe4d0469ad8f4c27542a11764fa6b4c8" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt35&gt;k__BackingField" NewName="Manifest.BOLViewModel.ca54fa183d0f656bbd9647e38ef21d98d" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt36&gt;k__BackingField" NewName="Manifest.BOLViewModel.c5c275da26a23662bfd0690efb9c15292" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt37&gt;k__BackingField" NewName="Manifest.BOLViewModel.c85df9982e2620349e4a60d9d7516deb9" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt38&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc474f317200651cfed2a1f7238b9711a" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt39&gt;k__BackingField" NewName="Manifest.BOLViewModel.cf4838ef53cc7429e77e0d459a19e18d5" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt40&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc126755cd51c400ad13fc6838494f625" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt41&gt;k__BackingField" NewName="Manifest.BOLViewModel.cc651e23f7952b30dc53916e994970e39" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt42&gt;k__BackingField" NewName="Manifest.BOLViewModel.cf8500ee09a4787421a079793a1cfc4c0" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt43&gt;k__BackingField" NewName="Manifest.BOLViewModel.c792a3fde11df880ac11061cdd2da35c5" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt44&gt;k__BackingField" NewName="Manifest.BOLViewModel.c115aaea9cefae3e90e9cc82f00e38046" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt45&gt;k__BackingField" NewName="Manifest.BOLViewModel.c7e8cdb3faf16e18d69a4d6b90166cbd5" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt46&gt;k__BackingField" NewName="Manifest.BOLViewModel.c922f16a6a0fe6d04835274a18e83f515" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt47&gt;k__BackingField" NewName="Manifest.BOLViewModel.cda853a8e4a60075a9378c7a1aacd3f9e" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt48&gt;k__BackingField" NewName="Manifest.BOLViewModel.c0a6cdaf107f32933f79eb14e79eb0821" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt49&gt;k__BackingField" NewName="Manifest.BOLViewModel.c50acc5e6441db496ddf1372babbfc38d" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt50&gt;k__BackingField" NewName="Manifest.BOLViewModel.c10a291be130dbf99e5beec3a32a4ac22" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt51&gt;k__BackingField" NewName="Manifest.BOLViewModel.c5f9064755a3aa9e499a0dea8d19eef19" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt52&gt;k__BackingField" NewName="Manifest.BOLViewModel.cad7d0219c8812911f77da82528b241a9" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt53&gt;k__BackingField" NewName="Manifest.BOLViewModel.c11a17ba253ba776f28613a21904cfdfb" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt54&gt;k__BackingField" NewName="Manifest.BOLViewModel.cad880c57aa9bd5a712d766c2fdbfcce4" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt55&gt;k__BackingField" NewName="Manifest.BOLViewModel.c5b06ee3898272be1030d65f9d5df7b2f" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt56&gt;k__BackingField" NewName="Manifest.BOLViewModel.c9c274a2b73930e4fc6e1fc3ad900839c" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt57&gt;k__BackingField" NewName="Manifest.BOLViewModel.c7166efad44ceeb1baf7f6299bc45fa06" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt58&gt;k__BackingField" NewName="Manifest.BOLViewModel.c382985231b19d0c6d469f0d862d0c2c2" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt59&gt;k__BackingField" NewName="Manifest.BOLViewModel.cf76a25ef9e18ceef92dca869a5c1196e" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt60&gt;k__BackingField" NewName="Manifest.BOLViewModel.ca217be6862f0a022c528399c134747c3" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt61&gt;k__BackingField" NewName="Manifest.BOLViewModel.c1d196ebf0a19eadf8255712e8244b34b" />
+<Entry OldName="Manifest.BOLViewModel.&lt;txt62&gt;k__BackingField" NewName="Manifest.BOLViewModel.cb200e76842a99196336e1d6ce4dc8ec7" />
+<Entry OldName="Manifest.CONNViewModel.&lt;ID&gt;k__BackingField" NewName="Manifest.CONNViewModel.c45cd8bd17aeee0295399feda2f770df3" />
+<Entry OldName="Manifest.CONNViewModel.&lt;CTRRef&gt;k__BackingField" NewName="Manifest.CONNViewModel.c245911016da5d68a0d457d37fa09249c" />
+<Entry OldName="Manifest.CONNViewModel.&lt;CTRNo&gt;k__BackingField" NewName="Manifest.CONNViewModel.cf744379f3ac3db11842b727429388a45" />
+<Entry OldName="Manifest.CONNViewModel.&lt;BolRef&gt;k__BackingField" NewName="Manifest.CONNViewModel.cb9ded8bbeebbcbdbc81d99f2ca9e8a85" />
+<Entry OldName="Manifest.CONNViewModel.&lt;BolNo&gt;k__BackingField" NewName="Manifest.CONNViewModel.c25d179659102ee362e9de67f2066372c" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt1&gt;k__BackingField" NewName="Manifest.CONNViewModel.c3a0694ed990e940a5d1bfe20d4c2ffbd" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt2&gt;k__BackingField" NewName="Manifest.CONNViewModel.cfcc303ddc43e5143a76b8857729e4d57" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt3&gt;k__BackingField" NewName="Manifest.CONNViewModel.c0c8168d1f3b0208c3b2fb1936aa6ee2e" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt4&gt;k__BackingField" NewName="Manifest.CONNViewModel.c34a0939bac679beea14e2d869ae60a10" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt5&gt;k__BackingField" NewName="Manifest.CONNViewModel.cd80dca3b7c6de35bea2c47ab49527e87" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt6&gt;k__BackingField" NewName="Manifest.CONNViewModel.c4a14b20d12388691fef9782aa9e68d82" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt7&gt;k__BackingField" NewName="Manifest.CONNViewModel.cee34aec876128176df453948a1b994c3" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt8&gt;k__BackingField" NewName="Manifest.CONNViewModel.c4369aae6d90467a9539e710e287da6ef" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt9&gt;k__BackingField" NewName="Manifest.CONNViewModel.cd6a7b91bdab984480db22a3f962794c9" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt10&gt;k__BackingField" NewName="Manifest.CONNViewModel.cc0a9fb8b3a70b66f3259417a3e697aa2" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt11&gt;k__BackingField" NewName="Manifest.CONNViewModel.c9960b664f0ef4d7fc70ec49b5f022f01" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt12&gt;k__BackingField" NewName="Manifest.CONNViewModel.c5a87c2711147454df46f91112abd223e" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt13&gt;k__BackingField" NewName="Manifest.CONNViewModel.c8086511771e85136aad5bfd7df8b4cf0" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt14&gt;k__BackingField" NewName="Manifest.CONNViewModel.ce69fa092605e4fa3849642c6a72eb944" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt15&gt;k__BackingField" NewName="Manifest.CONNViewModel.c1d07cdc97ae1771477e5c76036c67433" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt16&gt;k__BackingField" NewName="Manifest.CONNViewModel.cbd3d22fc0525e5157710ebd8d4d17cc3" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt17&gt;k__BackingField" NewName="Manifest.CONNViewModel.c2c88430f0bfb4db6e6ea355eedf44ff6" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt18&gt;k__BackingField" NewName="Manifest.CONNViewModel.c7efc971749f6f643005e8aa702306b91" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt19&gt;k__BackingField" NewName="Manifest.CONNViewModel.cc62cd1a79cf11229706adc598f739735" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt20&gt;k__BackingField" NewName="Manifest.CONNViewModel.cb46a8e25f40b395c36ef58e041073c47" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt21&gt;k__BackingField" NewName="Manifest.CONNViewModel.c6de967fc44d33da2967c667d5241bf56" />
+<Entry OldName="Manifest.CONNViewModel.&lt;txt22&gt;k__BackingField" NewName="Manifest.CONNViewModel.c47780a04a74ed86bd91a46977502ab56" />
+<Entry OldName="Manifest.CountryCityCodesViewModel.&lt;Country&gt;k__BackingField" NewName="Manifest.CountryCityCodesViewModel.c49c31d29796bdb5fc2fece66c01c0c22" />
+<Entry OldName="Manifest.CountryCityCodesViewModel.&lt;City&gt;k__BackingField" NewName="Manifest.CountryCityCodesViewModel.c6b9a92ef767469998a3b5b61f356ef01" />
+<Entry OldName="Manifest.CountryCityCodesViewModel.&lt;Code&gt;k__BackingField" NewName="Manifest.CountryCityCodesViewModel.caa73b428cb9c435727f738fb2e0c9967" />
+<Entry OldName="Manifest.CountryCodesViewModel.&lt;EN&gt;k__BackingField" NewName="Manifest.CountryCodesViewModel.cbf04ea3626f55e19413f48088a94ca61" />
+<Entry OldName="Manifest.CountryCodesViewModel.&lt;FA&gt;k__BackingField" NewName="Manifest.CountryCodesViewModel.cc922a23922cf2b65bdb7267f0fa45e4b" />
+<Entry OldName="Manifest.CTRViewModel.&lt;ID&gt;k__BackingField" NewName="Manifest.CTRViewModel.c45cd8bd17aeee0295399feda2f770df3" />
+<Entry OldName="Manifest.CTRViewModel.&lt;BolRef&gt;k__BackingField" NewName="Manifest.CTRViewModel.cb9ded8bbeebbcbdbc81d99f2ca9e8a85" />
+<Entry OldName="Manifest.CTRViewModel.&lt;BolNo&gt;k__BackingField" NewName="Manifest.CTRViewModel.c25d179659102ee362e9de67f2066372c" />
+<Entry OldName="Manifest.CTRViewModel.&lt;txt1&gt;k__BackingField" NewName="Manifest.CTRViewModel.c3a0694ed990e940a5d1bfe20d4c2ffbd" />
+<Entry OldName="Manifest.CTRViewModel.&lt;txt2&gt;k__BackingField" NewName="Manifest.CTRViewModel.cfcc303ddc43e5143a76b8857729e4d57" />
+<Entry OldName="Manifest.CTRViewModel.&lt;txt3&gt;k__BackingField" NewName="Manifest.CTRViewModel.c0c8168d1f3b0208c3b2fb1936aa6ee2e" />
+<Entry OldName="Manifest.CTRViewModel.&lt;txt4&gt;k__BackingField" NewName="Manifest.CTRViewModel.c34a0939bac679beea14e2d869ae60a10" />
+<Entry OldName="Manifest.CTRViewModel.&lt;txt5&gt;k__BackingField" NewName="Manifest.CTRViewModel.cd80dca3b7c6de35bea2c47ab49527e87" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;GroupID&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.c4a9cc508c1b6b56a9478ce2872c50782" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TName&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.c9bbbaa5fba3ef2b83c0a03dbf26f8a5d" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TKalaName&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.cf6b12b36ba95474effd652d37ec23f80" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TVorodi&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.c38d06cdd7f9bcc2ba8762b181dc4090b" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TSUQ&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.cfa9d83f1fde28302d3fc847752a03d79" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TDesc&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.c76ab3de9fde95be0af1ab4827662cd65" />
+<Entry OldName="Manifest.EX_IM98ViewModel.&lt;TPreferential&gt;k__BackingField" NewName="Manifest.EX_IM98ViewModel.c914d8f41a17f6237b6a91655b0352fba" />
+<Entry OldName="Manifest.PCViewModel.&lt;Code&gt;k__BackingField" NewName="Manifest.PCViewModel.caa73b428cb9c435727f738fb2e0c9967" />
+<Entry OldName="Manifest.PCViewModel.&lt;Fa_Des&gt;k__BackingField" NewName="Manifest.PCViewModel.cb3f11de0dfaee5312407415dac89e4ce" />
+<Entry OldName="Manifest.PortCodes3ViewModel.&lt;EN&gt;k__BackingField" NewName="Manifest.PortCodes3ViewModel.cbf04ea3626f55e19413f48088a94ca61" />
+<Entry OldName="Manifest.PortCodes5ViewModel.&lt;EN&gt;k__BackingField" NewName="Manifest.PortCodes5ViewModel.cbf04ea3626f55e19413f48088a94ca61" />
+<Entry OldName="Manifest.SettingViewModel.&lt;ID&gt;k__BackingField" NewName="Manifest.SettingViewModel.c45cd8bd17aeee0295399feda2f770df3" />
+<Entry OldName="Manifest.SettingViewModel.&lt;Ver&gt;k__BackingField" NewName="Manifest.SettingViewModel.c250e4f1dac80ca066f53e0ce30fd2efc" />
+<Entry OldName="Manifest.SettingViewModel.&lt;Mode&gt;k__BackingField" NewName="Manifest.SettingViewModel.c6851e6a9722bbb0b5abc4d27e779c63a" />
+<Entry OldName="Manifest.SettingViewModel.&lt;S1&gt;k__BackingField" NewName="Manifest.SettingViewModel.cfb50cc0d4ba00e90668a21226e39db89" />
+<Entry OldName="Manifest.SettingViewModel.&lt;S2&gt;k__BackingField" NewName="Manifest.SettingViewModel.c115646667777142015e6f9729a99db74" />
+<Entry OldName="Manifest.SettingViewModel.&lt;S3&gt;k__BackingField" NewName="Manifest.SettingViewModel.c35c13004a0fd3412f67a5cc49eb14612" />
+<Entry OldName="Manifest.SettingViewModel.&lt;N1&gt;k__BackingField" NewName="Manifest.SettingViewModel.c191b45c1f73dee91c5f6d4254d511af8" />
+<Entry OldName="Manifest.SettingViewModel.&lt;N2&gt;k__BackingField" NewName="Manifest.SettingViewModel.c17c0e8cf98ef3538608109fa87b001f9" />
+<Entry OldName="Manifest.SettingViewModel.&lt;N3&gt;k__BackingField" NewName="Manifest.SettingViewModel.c4a6d04c29b880e6b7cd435c094872fc5" />
+<Entry OldName="Manifest.VOYViewModel.&lt;ID&gt;k__BackingField" NewName="Manifest.VOYViewModel.c45cd8bd17aeee0295399feda2f770df3" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt1&gt;k__BackingField" NewName="Manifest.VOYViewModel.c3a0694ed990e940a5d1bfe20d4c2ffbd" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt2&gt;k__BackingField" NewName="Manifest.VOYViewModel.cfcc303ddc43e5143a76b8857729e4d57" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt3&gt;k__BackingField" NewName="Manifest.VOYViewModel.c0c8168d1f3b0208c3b2fb1936aa6ee2e" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt4&gt;k__BackingField" NewName="Manifest.VOYViewModel.c34a0939bac679beea14e2d869ae60a10" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt5&gt;k__BackingField" NewName="Manifest.VOYViewModel.cd80dca3b7c6de35bea2c47ab49527e87" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt6&gt;k__BackingField" NewName="Manifest.VOYViewModel.c4a14b20d12388691fef9782aa9e68d82" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt7&gt;k__BackingField" NewName="Manifest.VOYViewModel.cee34aec876128176df453948a1b994c3" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt8&gt;k__BackingField" NewName="Manifest.VOYViewModel.c4369aae6d90467a9539e710e287da6ef" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt9&gt;k__BackingField" NewName="Manifest.VOYViewModel.cd6a7b91bdab984480db22a3f962794c9" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt10&gt;k__BackingField" NewName="Manifest.VOYViewModel.cc0a9fb8b3a70b66f3259417a3e697aa2" />
+<Entry OldName="Manifest.VOYViewModel.&lt;txt11&gt;k__BackingField" NewName="Manifest.VOYViewModel.c9960b664f0ef4d7fc70ec49b5f022f01" />
+<Entry OldName="Manifest.clsProgress.th" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6.c7cd51850e2b7c8d39ebaad0edc517dbe" />
+<Entry OldName="Manifest.Form1.ProgramMode" NewName="Manifest.Form1.c69ba18a53f5ce112dd3ddefd793fff21" />
+<Entry OldName="Manifest.Form1.license" NewName="Manifest.Form1.c658532e87d36a6a35052517e5e2ff309" />
+<Entry OldName="Manifest.Form1.ValidationKey" NewName="Manifest.Form1.c0d082abf14ee998f5b40e79c3a35eebf" />
+<Entry OldName="Manifest.Form1.upc" NewName="Manifest.Form1.cc71f89ffc77f81f66a501a3c5b18e375" />
+<Entry OldName="Manifest.Form1.components" NewName="Manifest.Form1.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form1.ListBox1" NewName="Manifest.Form1.c2552ace526baac1c92aff9bde4c02e65" />
+<Entry OldName="Manifest.Form1.PictureBox3" NewName="Manifest.Form1.cfb08d13eab7f50aee2102b9a208544cd" />
+<Entry OldName="Manifest.Form1.pbManifest" NewName="Manifest.Form1.c4ba2c1873bd287bcf94eebfefc497c52" />
+<Entry OldName="Manifest.Form1.pbCPP" NewName="Manifest.Form1.c00584f9aff6588b2c24930aef9d90196" />
+<Entry OldName="Manifest.Form1.chkAgreement" NewName="Manifest.Form1.c1701f782954635afaa736d2278a5e290" />
+<Entry OldName="Manifest.Form1.btnNext" NewName="Manifest.Form1.cc3c9562879796bbf4c5d3320c86e9855" />
+<Entry OldName="Manifest.Form1.lblCompany" NewName="Manifest.Form1.c9e3673dae510f7559bc8c382ccf820e5" />
+<Entry OldName="Manifest.Form1.lblVer" NewName="Manifest.Form1.c4f6fd53cf42cda5fa154d3b0136db81d" />
+<Entry OldName="Manifest.Form1.lblManifestVer" NewName="Manifest.Form1.c5b657ef5cf5e2b6d45bab9204196dc7a" />
+<Entry OldName="Manifest.Form1.lblValidationDays" NewName="Manifest.Form1.c85b03e617b9ff86b3f25c0760e73548f" />
+<Entry OldName="Manifest.Form1.lblLicTitle" NewName="Manifest.Form1.c6024f8b0309971bc6cb26e9d40cc4945" />
+<Entry OldName="Manifest.Form2.mode" NewName="Manifest.Form2.cf5ae94a8167e8abe76f65cc8edb87d93" />
+<Entry OldName="Manifest.Form2.reload" NewName="Manifest.Form2.c0f5f3823eccfcc917f576aa648c68bf3" />
+<Entry OldName="Manifest.Form2.components" NewName="Manifest.Form2.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form2.pbHeader" NewName="Manifest.Form2.c18627f5159ac8114b1b27341807439b6" />
+<Entry OldName="Manifest.Form2.ProgressBar1" NewName="Manifest.Form2.ca1206260fbc29b2952144f8120d145d3" />
+<Entry OldName="Manifest.Form2.progressBar2" NewName="Manifest.Form2.c401bd0238aefc883803b06d0104713b4" />
+<Entry OldName="Manifest.Form2.progressBar3" NewName="Manifest.Form2.cc3c97cb0c2e09d4f89f9c3434447650e" />
+<Entry OldName="Manifest.Form2.Label1" NewName="Manifest.Form2.ca09002f6e972ef5de438005c84c432bf" />
+<Entry OldName="Manifest.Form2.ListBox1" NewName="Manifest.Form2.c2552ace526baac1c92aff9bde4c02e65" />
+<Entry OldName="Manifest.Form2.pbTruck" NewName="Manifest.Form2.c0adb4e70fdfbf1794235fcbfc6f56062" />
+<Entry OldName="Manifest.Form2.btnBack" NewName="Manifest.Form2.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.Form2.btnNext" NewName="Manifest.Form2.cc3c9562879796bbf4c5d3320c86e9855" />
+<Entry OldName="Manifest.Form2.pictureBox2" NewName="Manifest.Form2.c6b31c80e090cdb524bd0abf4d3e02cbf" />
+<Entry OldName="Manifest.Form2.pbShip" NewName="Manifest.Form2.cc3e618684792ff90ce8ab27359b10d31" />
+<Entry OldName="Manifest.Form2.pictureBox3" NewName="Manifest.Form2.c66a55a762502270ada72879a2307a7a1" />
+<Entry OldName="Manifest.Form2.pbAir" NewName="Manifest.Form2.c465ac498121834f62fce08725568327a" />
+<Entry OldName="Manifest.Form2.pictureBox7" NewName="Manifest.Form2.c0f271fc18b818029d5426266927330a0" />
+<Entry OldName="Manifest.Form2.btnLoad" NewName="Manifest.Form2.c7bc00db0b58d19ce596eb5e658fd6aab" />
+<Entry OldName="Manifest.Form2.openFileDialog1" NewName="Manifest.Form2.cd33da300b547b423bdf298100aff073e" />
+<Entry OldName="Manifest.Form3.EditID" NewName="Manifest.Form3.c26116563848559d4a983608234d81c72" />
+<Entry OldName="Manifest.Form3.Mode" NewName="Manifest.Form3.c04230d111c40f57b65d8fa1ceecb78ac" />
+<Entry OldName="Manifest.Form3.tCountryCityCode" NewName="Manifest.Form3.cb62d4583f44308c1fcc876f094025177" />
+<Entry OldName="Manifest.Form3.tCountryCode" NewName="Manifest.Form3.c19a612411222b1f6dc5fe558a5349766" />
+<Entry OldName="Manifest.Form3.tPortCode3" NewName="Manifest.Form3.ccc4f4247f89172329ec3082e1b8c4542" />
+<Entry OldName="Manifest.Form3.tPortCode5" NewName="Manifest.Form3.c1e44c79e80191d1c5c72dc65c41891a8" />
+<Entry OldName="Manifest.Form3.cPro" NewName="Manifest.Form3.c5ac3953440f667bed56d7617ceaceabb" />
+<Entry OldName="Manifest.Form3.components" NewName="Manifest.Form3.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form3.pbHeader" NewName="Manifest.Form3.c18627f5159ac8114b1b27341807439b6" />
+<Entry OldName="Manifest.Form3.progressBar3" NewName="Manifest.Form3.cc3c97cb0c2e09d4f89f9c3434447650e" />
+<Entry OldName="Manifest.Form3.progressBar2" NewName="Manifest.Form3.c401bd0238aefc883803b06d0104713b4" />
+<Entry OldName="Manifest.Form3.ProgressBar1" NewName="Manifest.Form3.ca1206260fbc29b2952144f8120d145d3" />
+<Entry OldName="Manifest.Form3.GroupBox1" NewName="Manifest.Form3.cae2bdf2c8d3bcb9f8d688eb0af10b3fb" />
+<Entry OldName="Manifest.Form3.cmbVoy5" NewName="Manifest.Form3.c2a2b6b5d8f3156290f286ff5fdac57c5" />
+<Entry OldName="Manifest.Form3.txtVoy7" NewName="Manifest.Form3.ca72c10cd4e3e126771255579fcb7c124" />
+<Entry OldName="Manifest.Form3.Label6" NewName="Manifest.Form3.cd12a5e3f34f5ab3d21ae7b241f9d6239" />
+<Entry OldName="Manifest.Form3.lblVoy3" NewName="Manifest.Form3.c750a3212292386d515ba3059140860a6" />
+<Entry OldName="Manifest.Form3.btnSearch" NewName="Manifest.Form3.c9d478a8babd87bfdb1cd968c8f887600" />
+<Entry OldName="Manifest.Form3.txtSearch" NewName="Manifest.Form3.c438d0eff10e8d89bf909a10140bdb3fe" />
+<Entry OldName="Manifest.Form3.gbBol" NewName="Manifest.Form3.c469b6e098222521862ed94011ba123cc" />
+<Entry OldName="Manifest.Form3.btnBolSave" NewName="Manifest.Form3.cc0172874bcc3d77c626ddd7b759522e3" />
+<Entry OldName="Manifest.Form3.TabControl1" NewName="Manifest.Form3.c95be5857a7b750ceff85db6a1e5f3346" />
+<Entry OldName="Manifest.Form3.TabPage1" NewName="Manifest.Form3.cbd38c2bf58669ded59d51e8ef76a4750" />
+<Entry OldName="Manifest.Form3.dt08" NewName="Manifest.Form3.c49f9f2a1c47169a31b0fd9819e6b10c0" />
+<Entry OldName="Manifest.Form3.Label19" NewName="Manifest.Form3.ca2c06c4cb214ff33c44994a65b0c2ea6" />
+<Entry OldName="Manifest.Form3.Label20" NewName="Manifest.Form3.c71977d2c63ff08a8486f9a59434cc075" />
+<Entry OldName="Manifest.Form3.Label22" NewName="Manifest.Form3.c6fe871bd811045dc0079d1fd777b1253" />
+<Entry OldName="Manifest.Form3.cmb05" NewName="Manifest.Form3.cd91088fd330aefa56dc8c42a256fa3e1" />
+<Entry OldName="Manifest.Form3.cmb18" NewName="Manifest.Form3.c679dd539aaaf470368235f43096ce9d9" />
+<Entry OldName="Manifest.Form3.Label14" NewName="Manifest.Form3.c2e5467b9f4b76e712f99f24699c58ddc" />
+<Entry OldName="Manifest.Form3.cmb07" NewName="Manifest.Form3.cb2125f198f4efc8ac25133def748ef94" />
+<Entry OldName="Manifest.Form3.cmb06" NewName="Manifest.Form3.c11fd63057a45fbe86cfde3597b96ad23" />
+<Entry OldName="Manifest.Form3.Label9" NewName="Manifest.Form3.cdde4ae4fc0aa40fe9f6346bf022f969c" />
+<Entry OldName="Manifest.Form3.Label10" NewName="Manifest.Form3.cee7ef4c7ecdfab7be27d23ae912efbbe" />
+<Entry OldName="Manifest.Form3.cmb04" NewName="Manifest.Form3.cd044aef0860b34b9794a0adc2fe96e27" />
+<Entry OldName="Manifest.Form3.Label11" NewName="Manifest.Form3.cdcb52814ebc2b14e93bd0d8b618acfa2" />
+<Entry OldName="Manifest.Form3.Label21" NewName="Manifest.Form3.c999e5ea656c8eb76a46b2eff87735020" />
+<Entry OldName="Manifest.Form3.Label15" NewName="Manifest.Form3.c9b48dd6cfb50339c3398aaefba4b2900" />
+<Entry OldName="Manifest.Form3.Label16" NewName="Manifest.Form3.cb1103e902765876cc5a5ef216611cea5" />
+<Entry OldName="Manifest.Form3.Label13" NewName="Manifest.Form3.c7f0df1b55b49c52fb949942a99b51fde" />
+<Entry OldName="Manifest.Form3.Label17" NewName="Manifest.Form3.cba6346022e62673eac8ca833f92b0db6" />
+<Entry OldName="Manifest.Form3.Label12" NewName="Manifest.Form3.c907210eaeef76daff5b74f8ffc7ef02d" />
+<Entry OldName="Manifest.Form3.Label18" NewName="Manifest.Form3.c9b007d1928e749031d664abf7b13fb2d" />
+<Entry OldName="Manifest.Form3.TabPage2" NewName="Manifest.Form3.ccfed8204bf88209cb645754b77dad56c" />
+<Entry OldName="Manifest.Form3.txt31" NewName="Manifest.Form3.c8ba236c34367954b7f49039a07ade004" />
+<Entry OldName="Manifest.Form3.Label37" NewName="Manifest.Form3.c9486975a4faa21f4ad9573cb1841eba9" />
+<Entry OldName="Manifest.Form3.txt20" NewName="Manifest.Form3.cd528f3c1e1e907f28994dce83d234e86" />
+<Entry OldName="Manifest.Form3.Label36" NewName="Manifest.Form3.caa6179b1b791adfae9c9941dac92f5fc" />
+<Entry OldName="Manifest.Form3.txt19" NewName="Manifest.Form3.c960b3456b9b8c79e58ceb7e50b263fc8" />
+<Entry OldName="Manifest.Form3.Label35" NewName="Manifest.Form3.ca8aaeafcc13bb6f62afa31fdcb9bba05" />
+<Entry OldName="Manifest.Form3.txt22" NewName="Manifest.Form3.c89c75c7de815e17ca6a7e71531421694" />
+<Entry OldName="Manifest.Form3.Label34" NewName="Manifest.Form3.ce4a10da88fefde5b5bd959653f911ec5" />
+<Entry OldName="Manifest.Form3.txt21" NewName="Manifest.Form3.cd5bf82cff24500fc885f777b88c68b6c" />
+<Entry OldName="Manifest.Form3.Label33" NewName="Manifest.Form3.c2858a29449f70275c2c9113eb3036e67" />
+<Entry OldName="Manifest.Form3.txt50" NewName="Manifest.Form3.c88098ba285c01a12489f1183a7a4ccbd" />
+<Entry OldName="Manifest.Form3.Label30" NewName="Manifest.Form3.c79a973b161c2c727a6549df277f7da84" />
+<Entry OldName="Manifest.Form3.cmb58" NewName="Manifest.Form3.ccc1c0d577063b9d7c38a77100b4d80ae" />
+<Entry OldName="Manifest.Form3.Label29" NewName="Manifest.Form3.c7b387060793a2a343fcf5c7fb90ddf50" />
+<Entry OldName="Manifest.Form3.cmb15" NewName="Manifest.Form3.cb55481c8e76424bbecd1ba296a644cda" />
+<Entry OldName="Manifest.Form3.Label28" NewName="Manifest.Form3.cdec0aa5d7233a39dc0006e50e1e16a12" />
+<Entry OldName="Manifest.Form3.cmb16" NewName="Manifest.Form3.c0314bcee5dfd96ea2435f740a0557dac" />
+<Entry OldName="Manifest.Form3.Label26" NewName="Manifest.Form3.c1c8e51c4b7b8272ead16714ea8e97944" />
+<Entry OldName="Manifest.Form3.cmb17" NewName="Manifest.Form3.c6371adf074cc93ae26bea413881ce9fc" />
+<Entry OldName="Manifest.Form3.Label25" NewName="Manifest.Form3.c492e943bada964d9a70f3b151d5ba7ca" />
+<Entry OldName="Manifest.Form3.cmb11" NewName="Manifest.Form3.cbf39ca1a9f3d650f86346737172ca521" />
+<Entry OldName="Manifest.Form3.Label27" NewName="Manifest.Form3.c298c6144c909e62f8a51b9e98538d33e" />
+<Entry OldName="Manifest.Form3.cmb14" NewName="Manifest.Form3.cabe14f6b6d71ab64c986b51ad7b734b3" />
+<Entry OldName="Manifest.Form3.txt34" NewName="Manifest.Form3.c668988e51b0b6e2852129426f0ebfbf0" />
+<Entry OldName="Manifest.Form3.cmb10" NewName="Manifest.Form3.cc2a6199e82eb70a3583a27831741efa7" />
+<Entry OldName="Manifest.Form3.txt33" NewName="Manifest.Form3.c0957282537e6b7523ae725848dd64077" />
+<Entry OldName="Manifest.Form3.Label23" NewName="Manifest.Form3.c0da909b3fefbc395382874b84f5a0093" />
+<Entry OldName="Manifest.Form3.Label24" NewName="Manifest.Form3.c79b6c0779a356f330969e58ab669fbbd" />
+<Entry OldName="Manifest.Form3.Label31" NewName="Manifest.Form3.cb16653096131994339126a0e8c01c3a3" />
+<Entry OldName="Manifest.Form3.Label32" NewName="Manifest.Form3.cb271ba1fe181e2c34b1326f7bc0494dc" />
+<Entry OldName="Manifest.Form3.txtVoy1" NewName="Manifest.Form3.cd73f56bde3294b5ef3ea7916ad6b14ba" />
+<Entry OldName="Manifest.Form3.txtVoy2" NewName="Manifest.Form3.cd1d9ed669c0ee81319faa6a2dd79d7e8" />
+<Entry OldName="Manifest.Form3.Label8" NewName="Manifest.Form3.ceb01f2f1346d8f4ed6814f5aae91ee25" />
+<Entry OldName="Manifest.Form3.dtVoy6" NewName="Manifest.Form3.c4619f9349ce7c9da4d1f9d8bfcdcb234" />
+<Entry OldName="Manifest.Form3.Label7" NewName="Manifest.Form3.cb8c1b91607698dd9ff0a56d9023a7ac0" />
+<Entry OldName="Manifest.Form3.Label5" NewName="Manifest.Form3.ca5d28128805d3d482c7015fa76612659" />
+<Entry OldName="Manifest.Form3.Label1" NewName="Manifest.Form3.ca09002f6e972ef5de438005c84c432bf" />
+<Entry OldName="Manifest.Form3.Label4" NewName="Manifest.Form3.c6e8738ee1db788f5d28312d796b0b0fe" />
+<Entry OldName="Manifest.Form3.Label2" NewName="Manifest.Form3.cf05d6465fd70764ca5d543a2442fa4a1" />
+<Entry OldName="Manifest.Form3.btnBack" NewName="Manifest.Form3.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.Form3.btnNext" NewName="Manifest.Form3.cc3c9562879796bbf4c5d3320c86e9855" />
+<Entry OldName="Manifest.Form3.GroupBox3" NewName="Manifest.Form3.c78f3242f8380baac6d65e1f6d8acd1ff" />
+<Entry OldName="Manifest.Form3.Label39" NewName="Manifest.Form3.c60a42202fe3a5ffb9c90e6f16cae2d19" />
+<Entry OldName="Manifest.Form3.Label38" NewName="Manifest.Form3.cb4f123d39d8587e1070278d02ed13f52" />
+<Entry OldName="Manifest.Form3.txtTotalGross" NewName="Manifest.Form3.c8c614ecce7d24b0041652c16a9109626" />
+<Entry OldName="Manifest.Form3.txtTotalNumber" NewName="Manifest.Form3.c62acd36893997debdfb0bf5566484703" />
+<Entry OldName="Manifest.Form3.toolTip1" NewName="Manifest.Form3.c2c3e5477058d965bcf94c25133e63741" />
+<Entry OldName="Manifest.Form3.dgv" NewName="Manifest.Form3.cf95b6c21691986b42831cebfde0936ea" />
+<Entry OldName="Manifest.Form3.dataGridViewImageColumn1" NewName="Manifest.Form3.ccc15e1ae3c9336f935d109c4cb23dcf7" />
+<Entry OldName="Manifest.Form3.dataGridViewImageColumn2" NewName="Manifest.Form3.c5b7486a26c72f9f3b96b00946bb716de" />
+<Entry OldName="Manifest.Form3.txtVoy10" NewName="Manifest.Form3.c483684c054b7edac164de136f4494f84" />
+<Entry OldName="Manifest.Form3.txt01" NewName="Manifest.Form3.c90aeba3d42ca0414f3c3588289d8ba30" />
+<Entry OldName="Manifest.Form3.txt02" NewName="Manifest.Form3.c53f13375aa12d4e00999ba31538601f9" />
+<Entry OldName="Manifest.Form3.txt03" NewName="Manifest.Form3.c9664690e72d9ee5a6367959a7543246f" />
+<Entry OldName="Manifest.Form3.txt26" NewName="Manifest.Form3.cd003c4571b0cc5124bdd0a0a1f15ce56" />
+<Entry OldName="Manifest.Form3.txt27" NewName="Manifest.Form3.cd66b11043bd11481770088e6182f25c1" />
+<Entry OldName="Manifest.Form3.txt44" NewName="Manifest.Form3.cad07f80a909b979eb25b7a7987b567e5" />
+<Entry OldName="Manifest.Form3.txt29" NewName="Manifest.Form3.c0df9c717f946f08f7646b6afabe97fa0" />
+<Entry OldName="Manifest.Form3.txt53" NewName="Manifest.Form3.ccc72e96a69fe45a589fe075b26c94d89" />
+<Entry OldName="Manifest.Form3.ID" NewName="Manifest.Form3.ca416934f06b554f6f2f0c58894c8a10e" />
+<Entry OldName="Manifest.Form3.No" NewName="Manifest.Form3.c5bf6bb91268c0b904d0ad5cff5a98079" />
+<Entry OldName="Manifest.Form3.Col1" NewName="Manifest.Form3.c05efe80fca9a9eb05599de08a4eca5c7" />
+<Entry OldName="Manifest.Form3.Col2" NewName="Manifest.Form3.cca38e9b284460342fa2f037c49ee987a" />
+<Entry OldName="Manifest.Form3.Col3" NewName="Manifest.Form3.c1bedf5d303ab18fe5ff2933ab3b1d0ca" />
+<Entry OldName="Manifest.Form3.Col4" NewName="Manifest.Form3.cb955ba100bdf3217f5ce2e7c1ed9847a" />
+<Entry OldName="Manifest.Form3.Col5" NewName="Manifest.Form3.c1cf2ed9ebd2e5d185bf39fe7aae3eafb" />
+<Entry OldName="Manifest.Form3.EditCol" NewName="Manifest.Form3.cd562f3e161f03963efb85fc94c811773" />
+<Entry OldName="Manifest.Form3.DelCol" NewName="Manifest.Form3.c3d1c8c53d21099d58f201881dd0c93a5" />
+<Entry OldName="Manifest.Form3.txtVoy3" NewName="Manifest.Form3.c1ae20734742598451eb737724becdf57" />
+<Entry OldName="Manifest.Form3.txtVoy4" NewName="Manifest.Form3.c3d705fece13986588605961b3e659c00" />
+<Entry OldName="Manifest.Form3.cmbVoy3" NewName="Manifest.Form3.c4a0b1293bedb0b302cf9e6b434cf3234" />
+<Entry OldName="Manifest.Form3.bw" NewName="Manifest.Form3.ca36a8f0a9caf477bd5f19b745712eafe" />
+<Entry OldName="Manifest.Form4.EditID" NewName="Manifest.Form4.c26116563848559d4a983608234d81c72" />
+<Entry OldName="Manifest.Form4.Mode" NewName="Manifest.Form4.c04230d111c40f57b65d8fa1ceecb78ac" />
+<Entry OldName="Manifest.Form4.components" NewName="Manifest.Form4.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form4.pbHeader" NewName="Manifest.Form4.c18627f5159ac8114b1b27341807439b6" />
+<Entry OldName="Manifest.Form4.progressBar2" NewName="Manifest.Form4.c401bd0238aefc883803b06d0104713b4" />
+<Entry OldName="Manifest.Form4.ProgressBar1" NewName="Manifest.Form4.ca1206260fbc29b2952144f8120d145d3" />
+<Entry OldName="Manifest.Form4.progressBar3" NewName="Manifest.Form4.cc3c97cb0c2e09d4f89f9c3434447650e" />
+<Entry OldName="Manifest.Form4.GroupBox1" NewName="Manifest.Form4.cae2bdf2c8d3bcb9f8d688eb0af10b3fb" />
+<Entry OldName="Manifest.Form4.cmbCtr3" NewName="Manifest.Form4.c2ceb88207150ec391e1d2710b8737735" />
+<Entry OldName="Manifest.Form4.btnSearch" NewName="Manifest.Form4.c9d478a8babd87bfdb1cd968c8f887600" />
+<Entry OldName="Manifest.Form4.txtSearch" NewName="Manifest.Form4.c438d0eff10e8d89bf909a10140bdb3fe" />
+<Entry OldName="Manifest.Form4.GroupBox2" NewName="Manifest.Form4.c6804b62139840588e97c0e38b92d5d7f" />
+<Entry OldName="Manifest.Form4.TabControl1" NewName="Manifest.Form4.c95be5857a7b750ceff85db6a1e5f3346" />
+<Entry OldName="Manifest.Form4.TabPage1" NewName="Manifest.Form4.cbd38c2bf58669ded59d51e8ef76a4750" />
+<Entry OldName="Manifest.Form4.cmbBlNo" NewName="Manifest.Form4.c9f4806200c622806b4c7de00f1128a0c" />
+<Entry OldName="Manifest.Form4.btnSave" NewName="Manifest.Form4.c650cec151a1fe3cb0323ef6f66c4382f" />
+<Entry OldName="Manifest.Form4.cmb08" NewName="Manifest.Form4.c53d60d6f9856e4a0d6380f999c522ac5" />
+<Entry OldName="Manifest.Form4.cmb07" NewName="Manifest.Form4.cb2125f198f4efc8ac25133def748ef94" />
+<Entry OldName="Manifest.Form4.Label11" NewName="Manifest.Form4.cdcb52814ebc2b14e93bd0d8b618acfa2" />
+<Entry OldName="Manifest.Form4.Label8" NewName="Manifest.Form4.ceb01f2f1346d8f4ed6814f5aae91ee25" />
+<Entry OldName="Manifest.Form4.Label10" NewName="Manifest.Form4.cee7ef4c7ecdfab7be27d23ae912efbbe" />
+<Entry OldName="Manifest.Form4.Label9" NewName="Manifest.Form4.cdde4ae4fc0aa40fe9f6346bf022f969c" />
+<Entry OldName="Manifest.Form4.Label7" NewName="Manifest.Form4.cb8c1b91607698dd9ff0a56d9023a7ac0" />
+<Entry OldName="Manifest.Form4.Label6" NewName="Manifest.Form4.cd12a5e3f34f5ab3d21ae7b241f9d6239" />
+<Entry OldName="Manifest.Form4.Label5" NewName="Manifest.Form4.ca5d28128805d3d482c7015fa76612659" />
+<Entry OldName="Manifest.Form4.TabPage2" NewName="Manifest.Form4.ccfed8204bf88209cb645754b77dad56c" />
+<Entry OldName="Manifest.Form4.PictureBox2" NewName="Manifest.Form4.c1dd3d8082f196a6354c9778034521a9f" />
+<Entry OldName="Manifest.Form4.Label17" NewName="Manifest.Form4.cba6346022e62673eac8ca833f92b0db6" />
+<Entry OldName="Manifest.Form4.txt09" NewName="Manifest.Form4.c3b0ef91718a12d724d146f8376dcdf65" />
+<Entry OldName="Manifest.Form4.Label16" NewName="Manifest.Form4.cb1103e902765876cc5a5ef216611cea5" />
+<Entry OldName="Manifest.Form4.txt01" NewName="Manifest.Form4.c90aeba3d42ca0414f3c3588289d8ba30" />
+<Entry OldName="Manifest.Form4.Label15" NewName="Manifest.Form4.c9b48dd6cfb50339c3398aaefba4b2900" />
+<Entry OldName="Manifest.Form4.txt02" NewName="Manifest.Form4.c53f13375aa12d4e00999ba31538601f9" />
+<Entry OldName="Manifest.Form4.cmb18" NewName="Manifest.Form4.c679dd539aaaf470368235f43096ce9d9" />
+<Entry OldName="Manifest.Form4.cmb12" NewName="Manifest.Form4.cb2219b95eee6fa08c5612828d2fa9684" />
+<Entry OldName="Manifest.Form4.Label14" NewName="Manifest.Form4.c2e5467b9f4b76e712f99f24699c58ddc" />
+<Entry OldName="Manifest.Form4.Label13" NewName="Manifest.Form4.c7f0df1b55b49c52fb949942a99b51fde" />
+<Entry OldName="Manifest.Form4.Label12" NewName="Manifest.Form4.c907210eaeef76daff5b74f8ffc7ef02d" />
+<Entry OldName="Manifest.Form4.txt11" NewName="Manifest.Form4.cafbc3b369838f6494e473af0204cfd19" />
+<Entry OldName="Manifest.Form4.txtCtr1" NewName="Manifest.Form4.cdc31d0a4c484ff968ce2ab898bcc97b9" />
+<Entry OldName="Manifest.Form4.txtCtr2" NewName="Manifest.Form4.c12b881348eb0950ad8547ab2cc295bce" />
+<Entry OldName="Manifest.Form4.txtCtr4" NewName="Manifest.Form4.c2292a00d6ac691ec77480dc588e4dbba" />
+<Entry OldName="Manifest.Form4.Label4" NewName="Manifest.Form4.c6e8738ee1db788f5d28312d796b0b0fe" />
+<Entry OldName="Manifest.Form4.Label1" NewName="Manifest.Form4.ca09002f6e972ef5de438005c84c432bf" />
+<Entry OldName="Manifest.Form4.Label3" NewName="Manifest.Form4.c983de5ac7e50439a4d04cf46fb4262eb" />
+<Entry OldName="Manifest.Form4.Label2" NewName="Manifest.Form4.cf05d6465fd70764ca5d543a2442fa4a1" />
+<Entry OldName="Manifest.Form4.GroupBox3" NewName="Manifest.Form4.c78f3242f8380baac6d65e1f6d8acd1ff" />
+<Entry OldName="Manifest.Form4.Label39" NewName="Manifest.Form4.c60a42202fe3a5ffb9c90e6f16cae2d19" />
+<Entry OldName="Manifest.Form4.Label38" NewName="Manifest.Form4.cb4f123d39d8587e1070278d02ed13f52" />
+<Entry OldName="Manifest.Form4.txtTotalGross" NewName="Manifest.Form4.c8c614ecce7d24b0041652c16a9109626" />
+<Entry OldName="Manifest.Form4.txtTotalNumber" NewName="Manifest.Form4.c62acd36893997debdfb0bf5566484703" />
+<Entry OldName="Manifest.Form4.btnBack" NewName="Manifest.Form4.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.Form4.btnNext" NewName="Manifest.Form4.cc3c9562879796bbf4c5d3320c86e9855" />
+<Entry OldName="Manifest.Form4.toolTip1" NewName="Manifest.Form4.c2c3e5477058d965bcf94c25133e63741" />
+<Entry OldName="Manifest.Form4.dgv" NewName="Manifest.Form4.cf95b6c21691986b42831cebfde0936ea" />
+<Entry OldName="Manifest.Form4.txt03" NewName="Manifest.Form4.c9664690e72d9ee5a6367959a7543246f" />
+<Entry OldName="Manifest.Form4.txt06" NewName="Manifest.Form4.c83746664ca0f8237e9e257a4f1d9b9bd" />
+<Entry OldName="Manifest.Form4.txt05" NewName="Manifest.Form4.cd960fc5bec0433d9607364a47f945316" />
+<Entry OldName="Manifest.Form4.txt10" NewName="Manifest.Form4.cfe78c553513cf8d3c7761947d68ffcaa" />
+<Entry OldName="Manifest.Form4.label18" NewName="Manifest.Form4.cf75e757e386c4047ec23449118316fbb" />
+<Entry OldName="Manifest.Form4.lblCtr3" NewName="Manifest.Form4.caeb8259a004a7ec7b4c35343a7c8ab20" />
+<Entry OldName="Manifest.Form4.ID" NewName="Manifest.Form4.ca416934f06b554f6f2f0c58894c8a10e" />
+<Entry OldName="Manifest.Form4.No" NewName="Manifest.Form4.c5bf6bb91268c0b904d0ad5cff5a98079" />
+<Entry OldName="Manifest.Form4.Col1" NewName="Manifest.Form4.c05efe80fca9a9eb05599de08a4eca5c7" />
+<Entry OldName="Manifest.Form4.Col2" NewName="Manifest.Form4.cca38e9b284460342fa2f037c49ee987a" />
+<Entry OldName="Manifest.Form4.Col3" NewName="Manifest.Form4.c1bedf5d303ab18fe5ff2933ab3b1d0ca" />
+<Entry OldName="Manifest.Form4.Col4" NewName="Manifest.Form4.cb955ba100bdf3217f5ce2e7c1ed9847a" />
+<Entry OldName="Manifest.Form4.Col5" NewName="Manifest.Form4.c1cf2ed9ebd2e5d185bf39fe7aae3eafb" />
+<Entry OldName="Manifest.Form4.EditCol" NewName="Manifest.Form4.cd562f3e161f03963efb85fc94c811773" />
+<Entry OldName="Manifest.Form4.DelCol" NewName="Manifest.Form4.c3d1c8c53d21099d58f201881dd0c93a5" />
+<Entry OldName="Manifest.Form4.chkFake" NewName="Manifest.Form4.cfaa4fc9950c4c2e3904f69debed37cfd" />
+<Entry OldName="Manifest.Form5.Mode" NewName="Manifest.Form5.c04230d111c40f57b65d8fa1ceecb78ac" />
+<Entry OldName="Manifest.Form5.FilePath" NewName="Manifest.Form5.cd52d20aa39dff29ea45e2d1d1d4808cc" />
+<Entry OldName="Manifest.Form5.ZipPath" NewName="Manifest.Form5.cb5a999b11cc35078773e37297fbf158c" />
+<Entry OldName="Manifest.Form5.outputfile" NewName="Manifest.Form5.c5d8a70b43967a9ee598451e7681777f6" />
+<Entry OldName="Manifest.Form5.components" NewName="Manifest.Form5.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form5.pbHeader" NewName="Manifest.Form5.c18627f5159ac8114b1b27341807439b6" />
+<Entry OldName="Manifest.Form5.progressBar3" NewName="Manifest.Form5.cc3c97cb0c2e09d4f89f9c3434447650e" />
+<Entry OldName="Manifest.Form5.progressBar2" NewName="Manifest.Form5.c401bd0238aefc883803b06d0104713b4" />
+<Entry OldName="Manifest.Form5.ProgressBar1" NewName="Manifest.Form5.ca1206260fbc29b2952144f8120d145d3" />
+<Entry OldName="Manifest.Form5.pbSave" NewName="Manifest.Form5.cec9cbbc0da0e1d042f37b545e26675fe" />
+<Entry OldName="Manifest.Form5.btnBack" NewName="Manifest.Form5.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.Form5.btnExit" NewName="Manifest.Form5.c86f815e58497d29acafa3056a768cdb1" />
+<Entry OldName="Manifest.Form5.btnSave" NewName="Manifest.Form5.c650cec151a1fe3cb0323ef6f66c4382f" />
+<Entry OldName="Manifest.Form5.DataSaveDialog" NewName="Manifest.Form5.ce8a457ce7b622d6ced9a321c33d2b078" />
+<Entry OldName="Manifest.Form5.zipDialog" NewName="Manifest.Form5.c143ab5a0b42ddf1b74d4e7b8bdf2bfac" />
+<Entry OldName="Manifest.Form5.folderBrowserDialog1" NewName="Manifest.Form5.c6840c4d4cc0159322cb86bd0c1df9f46" />
+<Entry OldName="Manifest.Form5.btnZipfile" NewName="Manifest.Form5.cf97a1fc82d77b34665eebd39a045e5da" />
+<Entry OldName="Manifest.Form5.timer1" NewName="Manifest.Form5.cbafb9fa3abfbf7711a7aa1a50c1d182b" />
+<Entry OldName="Manifest.Form6.ContainerEditID" NewName="Manifest.Form6.c1a76433ae5db6ff67e11b490f2a74439" />
+<Entry OldName="Manifest.Form6.KalaEditID" NewName="Manifest.Form6.c5876617ea5967bb8a3f37ca551697447" />
+<Entry OldName="Manifest.Form6.components" NewName="Manifest.Form6.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.Form6.pbHeader" NewName="Manifest.Form6.c18627f5159ac8114b1b27341807439b6" />
+<Entry OldName="Manifest.Form6.ProgressBar1" NewName="Manifest.Form6.ca1206260fbc29b2952144f8120d145d3" />
+<Entry OldName="Manifest.Form6.progressBar2" NewName="Manifest.Form6.c401bd0238aefc883803b06d0104713b4" />
+<Entry OldName="Manifest.Form6.progressBar3" NewName="Manifest.Form6.cc3c97cb0c2e09d4f89f9c3434447650e" />
+<Entry OldName="Manifest.Form6.GroupBox3" NewName="Manifest.Form6.c78f3242f8380baac6d65e1f6d8acd1ff" />
+<Entry OldName="Manifest.Form6.Label39" NewName="Manifest.Form6.c60a42202fe3a5ffb9c90e6f16cae2d19" />
+<Entry OldName="Manifest.Form6.Label38" NewName="Manifest.Form6.cb4f123d39d8587e1070278d02ed13f52" />
+<Entry OldName="Manifest.Form6.txtTotalGross" NewName="Manifest.Form6.c8c614ecce7d24b0041652c16a9109626" />
+<Entry OldName="Manifest.Form6.txtTotalNumber" NewName="Manifest.Form6.c62acd36893997debdfb0bf5566484703" />
+<Entry OldName="Manifest.Form6.btnNext" NewName="Manifest.Form6.cc3c9562879796bbf4c5d3320c86e9855" />
+<Entry OldName="Manifest.Form6.btnBack" NewName="Manifest.Form6.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.Form6.label18" NewName="Manifest.Form6.cf75e757e386c4047ec23449118316fbb" />
+<Entry OldName="Manifest.Form6.cmbBlNo" NewName="Manifest.Form6.c9f4806200c622806b4c7de00f1128a0c" />
+<Entry OldName="Manifest.Form6.Label5" NewName="Manifest.Form6.ca5d28128805d3d482c7015fa76612659" />
+<Entry OldName="Manifest.Form6.cmbCtr3" NewName="Manifest.Form6.c2ceb88207150ec391e1d2710b8737735" />
+<Entry OldName="Manifest.Form6.txtCtr1" NewName="Manifest.Form6.cdc31d0a4c484ff968ce2ab898bcc97b9" />
+<Entry OldName="Manifest.Form6.txtCtr2" NewName="Manifest.Form6.c12b881348eb0950ad8547ab2cc295bce" />
+<Entry OldName="Manifest.Form6.txtCtr4" NewName="Manifest.Form6.c2292a00d6ac691ec77480dc588e4dbba" />
+<Entry OldName="Manifest.Form6.Label4" NewName="Manifest.Form6.c6e8738ee1db788f5d28312d796b0b0fe" />
+<Entry OldName="Manifest.Form6.Label1" NewName="Manifest.Form6.ca09002f6e972ef5de438005c84c432bf" />
+<Entry OldName="Manifest.Form6.lblCtr3" NewName="Manifest.Form6.caeb8259a004a7ec7b4c35343a7c8ab20" />
+<Entry OldName="Manifest.Form6.Label3" NewName="Manifest.Form6.c983de5ac7e50439a4d04cf46fb4262eb" />
+<Entry OldName="Manifest.Form6.Label2" NewName="Manifest.Form6.cf05d6465fd70764ca5d543a2442fa4a1" />
+<Entry OldName="Manifest.Form6.cmbContainerNumber" NewName="Manifest.Form6.c9c693ad6c5fc0cf770080e60e0b709e1" />
+<Entry OldName="Manifest.Form6.label12" NewName="Manifest.Form6.ce5ed9eb35d5ecabed47ed2754e22e547" />
+<Entry OldName="Manifest.Form6.btnSaveContainer" NewName="Manifest.Form6.c23e0da783eb92f9cc5fe5f4af1a79d71" />
+<Entry OldName="Manifest.Form6.tabControl1" NewName="Manifest.Form6.cbfeade3c1213c6ed74c30bc054b37bc7" />
+<Entry OldName="Manifest.Form6.tabRequired" NewName="Manifest.Form6.c531fb869455b9965c0ebf399ae1c5326" />
+<Entry OldName="Manifest.Form6.tabOther" NewName="Manifest.Form6.c684a7a685554b0378c6cd2cae4852e1a" />
+<Entry OldName="Manifest.Form6.btnSaveKala" NewName="Manifest.Form6.cf59f4d7e20cfe1f785d19516b52bceca" />
+<Entry OldName="Manifest.Form6.Label6" NewName="Manifest.Form6.cd12a5e3f34f5ab3d21ae7b241f9d6239" />
+<Entry OldName="Manifest.Form6.Label7" NewName="Manifest.Form6.cb8c1b91607698dd9ff0a56d9023a7ac0" />
+<Entry OldName="Manifest.Form6.Label9" NewName="Manifest.Form6.cdde4ae4fc0aa40fe9f6346bf022f969c" />
+<Entry OldName="Manifest.Form6.txt10" NewName="Manifest.Form6.cfe78c553513cf8d3c7761947d68ffcaa" />
+<Entry OldName="Manifest.Form6.txt05" NewName="Manifest.Form6.cd960fc5bec0433d9607364a47f945316" />
+<Entry OldName="Manifest.Form6.Label8" NewName="Manifest.Form6.ceb01f2f1346d8f4ed6814f5aae91ee25" />
+<Entry OldName="Manifest.Form6.txt06" NewName="Manifest.Form6.c83746664ca0f8237e9e257a4f1d9b9bd" />
+<Entry OldName="Manifest.Form6.Label11" NewName="Manifest.Form6.cdcb52814ebc2b14e93bd0d8b618acfa2" />
+<Entry OldName="Manifest.Form6.txt03" NewName="Manifest.Form6.c9664690e72d9ee5a6367959a7543246f" />
+<Entry OldName="Manifest.Form6.cmb07" NewName="Manifest.Form6.cb2125f198f4efc8ac25133def748ef94" />
+<Entry OldName="Manifest.Form6.cmb08" NewName="Manifest.Form6.c53d60d6f9856e4a0d6380f999c522ac5" />
+<Entry OldName="Manifest.Form6.Label10" NewName="Manifest.Form6.cee7ef4c7ecdfab7be27d23ae912efbbe" />
+<Entry OldName="Manifest.Form6.cmb18" NewName="Manifest.Form6.c679dd539aaaf470368235f43096ce9d9" />
+<Entry OldName="Manifest.Form6.cmb12" NewName="Manifest.Form6.cb2219b95eee6fa08c5612828d2fa9684" />
+<Entry OldName="Manifest.Form6.label15" NewName="Manifest.Form6.ca58179b7af149c6fdbbe89b361be8a96" />
+<Entry OldName="Manifest.Form6.label16" NewName="Manifest.Form6.c348086615044a641d019994504896eab" />
+<Entry OldName="Manifest.Form6.label17" NewName="Manifest.Form6.cdf4633de2f34d9d8757f56c732af3815" />
+<Entry OldName="Manifest.Form6.txt11" NewName="Manifest.Form6.cafbc3b369838f6494e473af0204cfd19" />
+<Entry OldName="Manifest.Form6.label19" NewName="Manifest.Form6.c27d189a711dfe6c4fdb73bca7ad15ace" />
+<Entry OldName="Manifest.Form6.txt09" NewName="Manifest.Form6.c3b0ef91718a12d724d146f8376dcdf65" />
+<Entry OldName="Manifest.Form6.label20" NewName="Manifest.Form6.cf724e1a6ba652c95ae92566b3c18259e" />
+<Entry OldName="Manifest.Form6.txt01" NewName="Manifest.Form6.c90aeba3d42ca0414f3c3588289d8ba30" />
+<Entry OldName="Manifest.Form6.label21" NewName="Manifest.Form6.cecea41117dd6670349392a38865bf8eb" />
+<Entry OldName="Manifest.Form6.txt02" NewName="Manifest.Form6.c53f13375aa12d4e00999ba31538601f9" />
+<Entry OldName="Manifest.Form6.gbContainer" NewName="Manifest.Form6.c7d6004a7496e8ac394272eb5b5ef7306" />
+<Entry OldName="Manifest.Form6.gbKala" NewName="Manifest.Form6.c530f86bdcd6f06c26c4ac3615cc7d309" />
+<Entry OldName="Manifest.Form6.dgvKala" NewName="Manifest.Form6.c3e717d7397309d17af826e2afcbf8865" />
+<Entry OldName="Manifest.Form6.dgvContainer" NewName="Manifest.Form6.c88041042c12fd6ff488cf08a65be00e1" />
+<Entry OldName="Manifest.Form6.btnSearch" NewName="Manifest.Form6.c9d478a8babd87bfdb1cd968c8f887600" />
+<Entry OldName="Manifest.Form6.txtSearch" NewName="Manifest.Form6.c438d0eff10e8d89bf909a10140bdb3fe" />
+<Entry OldName="Manifest.Form6.btnRefreshKala" NewName="Manifest.Form6.cfffd7760fd9963d1983c6b26397852a8" />
+<Entry OldName="Manifest.Form6.KALA_ID" NewName="Manifest.Form6.c0fb7909dc329406943b7524efa8d4b6d" />
+<Entry OldName="Manifest.Form6.Kala_No" NewName="Manifest.Form6.c188ff87a051ba6bfe2fac0fe9c17b1b8" />
+<Entry OldName="Manifest.Form6.Column1" NewName="Manifest.Form6.cf458747cb6c532c67e6850765ce98efc" />
+<Entry OldName="Manifest.Form6.Column2" NewName="Manifest.Form6.cb7a1e3a90e7c2af9b5c6bc6d49ec3584" />
+<Entry OldName="Manifest.Form6.Column3" NewName="Manifest.Form6.c059f18d1ae923d5e90b0730c84bcb767" />
+<Entry OldName="Manifest.Form6.Column4" NewName="Manifest.Form6.cd5d80e30a80cf909714665317c765503" />
+<Entry OldName="Manifest.Form6.Column5" NewName="Manifest.Form6.cb36a0d7aa496649cb7bf9145ad18ce36" />
+<Entry OldName="Manifest.Form6.KalaEditCol" NewName="Manifest.Form6.cbf5df40df7b7cd15bf40517dc56e980f" />
+<Entry OldName="Manifest.Form6.KalaDelCol" NewName="Manifest.Form6.ce7f7f99fbc6bec915f3637d218159e24" />
+<Entry OldName="Manifest.Form6.ID" NewName="Manifest.Form6.ca416934f06b554f6f2f0c58894c8a10e" />
+<Entry OldName="Manifest.Form6.No" NewName="Manifest.Form6.c5bf6bb91268c0b904d0ad5cff5a98079" />
+<Entry OldName="Manifest.Form6.Col1" NewName="Manifest.Form6.c05efe80fca9a9eb05599de08a4eca5c7" />
+<Entry OldName="Manifest.Form6.Col2" NewName="Manifest.Form6.cca38e9b284460342fa2f037c49ee987a" />
+<Entry OldName="Manifest.Form6.Col3" NewName="Manifest.Form6.c1bedf5d303ab18fe5ff2933ab3b1d0ca" />
+<Entry OldName="Manifest.Form6.Col4" NewName="Manifest.Form6.cb955ba100bdf3217f5ce2e7c1ed9847a" />
+<Entry OldName="Manifest.Form6.Col5" NewName="Manifest.Form6.c1cf2ed9ebd2e5d185bf39fe7aae3eafb" />
+<Entry OldName="Manifest.Form6.EditCol" NewName="Manifest.Form6.cd562f3e161f03963efb85fc94c811773" />
+<Entry OldName="Manifest.Form6.DelCol" NewName="Manifest.Form6.c3d1c8c53d21099d58f201881dd0c93a5" />
+<Entry OldName="Manifest.Form6.toolTip1" NewName="Manifest.Form6.c2c3e5477058d965bcf94c25133e63741" />
+<Entry OldName="Manifest.frmCpp1.components" NewName="Manifest.frmCpp1.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.frmCpp1.pictureBox1" NewName="Manifest.frmCpp1.c2d94f74d8800062d5677102e67ef9cc3" />
+<Entry OldName="Manifest.frmCpp1.btnSearch" NewName="Manifest.frmCpp1.c9d478a8babd87bfdb1cd968c8f887600" />
+<Entry OldName="Manifest.frmCpp1.btnNote" NewName="Manifest.frmCpp1.c1ab9359f1344c325a1ff20686391bb34" />
+<Entry OldName="Manifest.frmCpp1.btnExit" NewName="Manifest.frmCpp1.c86f815e58497d29acafa3056a768cdb1" />
+<Entry OldName="Manifest.frmCpp1.btnBack" NewName="Manifest.frmCpp1.cbf33bebd665362560d438d0ce4530f4d" />
+<Entry OldName="Manifest.frmCpp1.label1" NewName="Manifest.frmCpp1.c311b7220afae06cad4440f47d524e1fe" />
+<Entry OldName="Manifest.frmCpp1.label2" NewName="Manifest.frmCpp1.cb6089136cc5c61f01a7b7fc721cf8bdf" />
+<Entry OldName="Manifest.frmCpp1.txtTarefehNumber" NewName="Manifest.frmCpp1.c59c20e8c1c60000f211708db4a1deb43" />
+<Entry OldName="Manifest.frmCpp1.txtKalaKind" NewName="Manifest.frmCpp1.cb67fd4442caf3b25c94834fd2cc68c2d" />
+<Entry OldName="Manifest.frmCpp1.dgv" NewName="Manifest.frmCpp1.cf95b6c21691986b42831cebfde0936ea" />
+<Entry OldName="Manifest.frmCpp1.ID" NewName="Manifest.frmCpp1.ca416934f06b554f6f2f0c58894c8a10e" />
+<Entry OldName="Manifest.frmCpp1.No" NewName="Manifest.frmCpp1.c5bf6bb91268c0b904d0ad5cff5a98079" />
+<Entry OldName="Manifest.frmCpp1.col1" NewName="Manifest.frmCpp1.c45dd25985f4f42dcbf1ab7abed469c19" />
+<Entry OldName="Manifest.frmCpp1.Col2" NewName="Manifest.frmCpp1.cca38e9b284460342fa2f037c49ee987a" />
+<Entry OldName="Manifest.frmCpp1.Col3" NewName="Manifest.frmCpp1.c1bedf5d303ab18fe5ff2933ab3b1d0ca" />
+<Entry OldName="Manifest.frmCpp1.Col4" NewName="Manifest.frmCpp1.cb955ba100bdf3217f5ce2e7c1ed9847a" />
+<Entry OldName="Manifest.frmCpp1.Col5" NewName="Manifest.frmCpp1.c1cf2ed9ebd2e5d185bf39fe7aae3eafb" />
+<Entry OldName="Manifest.frmCpp1.Col6" NewName="Manifest.frmCpp1.c759ad89054397d9e6c99afed22c42d50" />
+<Entry OldName="Manifest.frmCpp1.Col7" NewName="Manifest.frmCpp1.c655ca7d8afc612dd2822d47a19facc10" />
+<Entry OldName="Manifest.frmCpp1.cmbSearch" NewName="Manifest.frmCpp1.c96f1fa071b794baa542f15e63891a8c7" />
+<Entry OldName="Manifest.frmCpp1.txtSearch" NewName="Manifest.frmCpp1.c438d0eff10e8d89bf909a10140bdb3fe" />
+<Entry OldName="Manifest.frmCpp2.components" NewName="Manifest.frmCpp2.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.frmCpp2.groupBox1" NewName="Manifest.frmCpp2.c731c8e05b7196f119e1545496cd1bd94" />
+<Entry OldName="Manifest.frmCpp2.label2" NewName="Manifest.frmCpp2.cb6089136cc5c61f01a7b7fc721cf8bdf" />
+<Entry OldName="Manifest.frmCpp2.label1" NewName="Manifest.frmCpp2.c311b7220afae06cad4440f47d524e1fe" />
+<Entry OldName="Manifest.frmCpp2.groupBox2" NewName="Manifest.frmCpp2.c62cb53c431ae6dfbdf78b155864c66ac" />
+<Entry OldName="Manifest.frmCpp2.label5" NewName="Manifest.frmCpp2.cb8e3c8cc85cda115d80274d027ce8ffd" />
+<Entry OldName="Manifest.frmCpp2.label4" NewName="Manifest.frmCpp2.ca57789e5f11b6f5640e59dd77c728bdc" />
+<Entry OldName="Manifest.frmCpp2.label3" NewName="Manifest.frmCpp2.cfdab0bd3a184c126a190266ede3fbc9e" />
+<Entry OldName="Manifest.frmCpp2.label7" NewName="Manifest.frmCpp2.c6334abc207eff56ad997b62ddace6121" />
+<Entry OldName="Manifest.frmCpp2.label6" NewName="Manifest.frmCpp2.c9f9160977932991bbbd5580bd770ab15" />
+<Entry OldName="Manifest.frmCpp2.textBox2" NewName="Manifest.frmCpp2.ce6e6b3ecd4d185eb74f805831d54917b" />
+<Entry OldName="Manifest.frmCpp2.textBox1" NewName="Manifest.frmCpp2.c03c0339f7341e480c350c8d374939218" />
+<Entry OldName="Manifest.frmCpp2.textBox4" NewName="Manifest.frmCpp2.c5e33153b630755f1ddda0bbcfa6715c7" />
+<Entry OldName="Manifest.frmCpp2.textBox3" NewName="Manifest.frmCpp2.c4a3299bd382849ee7cfae1442f723c25" />
+<Entry OldName="Manifest.frmCpp2.richTextBox2" NewName="Manifest.frmCpp2.c721d5bea7b65d8f4ccaa3d6c48b94ea4" />
+<Entry OldName="Manifest.frmCpp2.richTextBox1" NewName="Manifest.frmCpp2.cc15d4c7feb3320a4159b79637d29e0fb" />
+<Entry OldName="Manifest.frmCpp2.groupBox3" NewName="Manifest.frmCpp2.cf643fb7c388fea8ddb063649e72ad729" />
+<Entry OldName="Manifest.frmCpp2.richTextBox4" NewName="Manifest.frmCpp2.cd392ae363083ed21f90dacf4ed98a009" />
+<Entry OldName="Manifest.frmCpp2.label9" NewName="Manifest.frmCpp2.cbe776425eaacb8b2115b25a39e6f317c" />
+<Entry OldName="Manifest.frmCpp2.groupBox4" NewName="Manifest.frmCpp2.c9338a6e2281ff410e491773baf049b46" />
+<Entry OldName="Manifest.frmCpp2.richTextBox3" NewName="Manifest.frmCpp2.c9fce5d13a96ac5894a176faefd9771ec" />
+<Entry OldName="Manifest.frmCpp2.label8" NewName="Manifest.frmCpp2.c51fe26c2364afd8c6c0df2367f61d107" />
+<Entry OldName="Manifest.frmCpp2.btnExit" NewName="Manifest.frmCpp2.c86f815e58497d29acafa3056a768cdb1" />
+<Entry OldName="Manifest.frmLicense.license" NewName="Manifest.frmLicense.c658532e87d36a6a35052517e5e2ff309" />
+<Entry OldName="Manifest.frmLicense.ValidationKey" NewName="Manifest.frmLicense.c0d082abf14ee998f5b40e79c3a35eebf" />
+<Entry OldName="Manifest.frmLicense.components" NewName="Manifest.frmLicense.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.frmLicense.btnExit" NewName="Manifest.frmLicense.c86f815e58497d29acafa3056a768cdb1" />
+<Entry OldName="Manifest.frmLicense.btnValidate" NewName="Manifest.frmLicense.cbb5eeb80bda02f413627f121d8338fd3" />
+<Entry OldName="Manifest.frmLicense.label1" NewName="Manifest.frmLicense.c311b7220afae06cad4440f47d524e1fe" />
+<Entry OldName="Manifest.frmLicense.label2" NewName="Manifest.frmLicense.cb6089136cc5c61f01a7b7fc721cf8bdf" />
+<Entry OldName="Manifest.frmLicense.label4" NewName="Manifest.frmLicense.ca57789e5f11b6f5640e59dd77c728bdc" />
+<Entry OldName="Manifest.frmLicense.label5" NewName="Manifest.frmLicense.cb8e3c8cc85cda115d80274d027ce8ffd" />
+<Entry OldName="Manifest.frmLicense.label6" NewName="Manifest.frmLicense.c9f9160977932991bbbd5580bd770ab15" />
+<Entry OldName="Manifest.frmLicense.txtMachineCode" NewName="Manifest.frmLicense.cedabd3f2ba0a0c60aa9413fcbdaa4479" />
+<Entry OldName="Manifest.frmLicense.txtLineCode" NewName="Manifest.frmLicense.cd92a00c5206762f120cac567285f7030" />
+<Entry OldName="Manifest.frmLicense.txtValidation" NewName="Manifest.frmLicense.c004ef51be3f4ea40878ae4a3506dddf7" />
+<Entry OldName="Manifest.frmLicense.txtCompany" NewName="Manifest.frmLicense.cd091445f55ed10863d22efaf35fb256f" />
+<Entry OldName="Manifest.frmLicense.txtWinVer" NewName="Manifest.frmLicense.cbfe82dd7a3a82bf6aaadc28d061b130a" />
+<Entry OldName="Manifest.frmLicense.txtWinName" NewName="Manifest.frmLicense.c5fac3659719c20417e55718cc816a593" />
+<Entry OldName="Manifest.frmLicense.label7" NewName="Manifest.frmLicense.c6334abc207eff56ad997b62ddace6121" />
+<Entry OldName="Manifest.frmLicense.label8" NewName="Manifest.frmLicense.c51fe26c2364afd8c6c0df2367f61d107" />
+<Entry OldName="Manifest.frmLicense.txtEmail" NewName="Manifest.frmLicense.ccd09daac61e8f4c6f2d0d95981b4325d" />
+<Entry OldName="Manifest.frmLicense.btnSend" NewName="Manifest.frmLicense.cb8401949cb07f012a264d7eccadae505" />
+<Entry OldName="Manifest.frmLicense.label10" NewName="Manifest.frmLicense.cd166f2518697019dbf76675d9dd18553" />
+<Entry OldName="Manifest.frmLicense.label3" NewName="Manifest.frmLicense.cfdab0bd3a184c126a190266ede3fbc9e" />
+<Entry OldName="Manifest.frmLicense.lblInternetStatus" NewName="Manifest.frmLicense.c85a8d68747b2d4c6e867493ce69339c3" />
+<Entry OldName="Manifest.frmLicense.label9" NewName="Manifest.frmLicense.cbe776425eaacb8b2115b25a39e6f317c" />
+<Entry OldName="Manifest.frmLicense.lblDateTime" NewName="Manifest.frmLicense.c96ed7c1220665b5cafaab681be08ea5a" />
+<Entry OldName="Manifest.frmLicense.txtBuyLic" NewName="Manifest.frmLicense.c135d834340f60dd4379c0ce606dd2993" />
+<Entry OldName="Manifest.frmLicense.label11" NewName="Manifest.frmLicense.c17b1d878fa0dd9b8caf5c155fc267a40" />
+<Entry OldName="Manifest.frmLicense.groupBox1" NewName="Manifest.frmLicense.c731c8e05b7196f119e1545496cd1bd94" />
+<Entry OldName="Manifest.frmLicense.groupBox2" NewName="Manifest.frmLicense.c62cb53c431ae6dfbdf78b155864c66ac" />
+<Entry OldName="Manifest.frmLicense.btnBuyLic" NewName="Manifest.frmLicense.c46c1017f87e76dcb9df32b6dbcc58fc9" />
+<Entry OldName="Manifest.frmLicense.btnHelp" NewName="Manifest.frmLicense.c1102a0f72ca29dde8aa19705d9d35c9d" />
+<Entry OldName="Manifest.frmWaiting.components" NewName="Manifest.frmWaiting.c7eca5426e6b371d8ad3cf48d3d8c08d8" />
+<Entry OldName="Manifest.frmWaiting.pictureBox1" NewName="Manifest.frmWaiting.c2d94f74d8800062d5677102e67ef9cc3" />
+<Entry OldName="Manifest.frmWaiting.label1" NewName="Manifest.frmWaiting.c311b7220afae06cad4440f47d524e1fe" />
+<Entry OldName="Manifest.Properties.Resources.resourceMan" NewName="A.c64cb699cc78e657c937a154c21fcd96d.cb78b12bf0697104b32b3571e1e912a7e" />
+<Entry OldName="Manifest.Properties.Resources.resourceCulture" NewName="A.c64cb699cc78e657c937a154c21fcd96d.c1edc41a160439b66a3cd1aa90e639e43" />
+<Entry OldName="Manifest.CONN.&lt;&gt;c.&lt;&gt;9" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.&lt;&gt;c.c89a63e3075ba84ef645f96afce3ec7d0" />
+<Entry OldName="Manifest.CONN.&lt;&gt;c.&lt;&gt;9__1_0" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.&lt;&gt;c.c87f0e873f4d11e0c7b7f2b949eb98406" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1..ctor(&lt;ID&gt;j__TPar ID)" NewName="A.c650f225120800f8f80862041e114c540`1..ctor(c18d3bcc8811d4b2e744d4ff599683484 ca416934f06b554f6f2f0c58894c8a10e)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.get_ID()" NewName="A.c650f225120800f8f80862041e114c540`1.get_ID()" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.Equals(Object value)" NewName="A.c650f225120800f8f80862041e114c540`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.GetHashCode()" NewName="A.c650f225120800f8f80862041e114c540`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1.ToString()" NewName="A.c650f225120800f8f80862041e114c540`1.ToString()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1..ctor(&lt;BolRef&gt;j__TPar BolRef)" NewName="A.c023523def50e7ef1e04b45865247dbe7`1..ctor(cbde5caff06a657bcb90ac255f0a475b3 c522e1f3a2f23b5e5502385d30045c1f1)" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.get_BolRef()" NewName="A.c023523def50e7ef1e04b45865247dbe7`1.get_BolRef()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.Equals(Object value)" NewName="A.c023523def50e7ef1e04b45865247dbe7`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.GetHashCode()" NewName="A.c023523def50e7ef1e04b45865247dbe7`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1.ToString()" NewName="A.c023523def50e7ef1e04b45865247dbe7`1.ToString()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1..ctor(&lt;CtrRef&gt;j__TPar CtrRef)" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1..ctor(c9859f3e0b6f29cfc614cf26b42995078 c387fdceb25a1abf04c309a99fbd1577f)" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1.get_CtrRef()" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1.get_CtrRef()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1.Equals(Object value)" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1.GetHashCode()" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1.ToString()" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1.ToString()" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1..ctor(&lt;Ref&gt;j__TPar Ref)" NewName="A.c71c66ca1d359f42921498078a1933c6b`1..ctor(c89ab04c23ed41d96ce68824544ee418a cddba7ecdd86cc2ef11294663cd2ba34d)" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1.get_Ref()" NewName="A.c71c66ca1d359f42921498078a1933c6b`1.get_Ref()" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1.Equals(Object value)" NewName="A.c71c66ca1d359f42921498078a1933c6b`1.Equals(Object value)" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1.GetHashCode()" NewName="A.c71c66ca1d359f42921498078a1933c6b`1.GetHashCode()" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1.ToString()" NewName="A.c71c66ca1d359f42921498078a1933c6b`1.ToString()" />
+<Entry OldName="Manifest.Airlines..ctor()" NewName="A.c7043cfd1c30e2f342f14ebf79b5afce7..ctor()" />
+<Entry OldName="Manifest.Airlines.GetAllData()" NewName="A.c7043cfd1c30e2f342f14ebf79b5afce7.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.BOL..ctor()" NewName="A.cbefaf08944d3828c6d36586ef1327693..ctor()" />
+<Entry OldName="Manifest.BOL.GetAllData()" NewName="A.cbefaf08944d3828c6d36586ef1327693.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.BOL.GetById(Int32 _ID)" NewName="A.cbefaf08944d3828c6d36586ef1327693.c8bbd781c974f7d3db9c1d5318d347a07(Int32 c9fd3a2adb918aac7c31365595a611726)" />
+<Entry OldName="Manifest.BOL.Insert(BOLViewModel _bol)" NewName="A.cbefaf08944d3828c6d36586ef1327693.c3a3d4aab0722c30994871592ce572609(BOLViewModel ced68e0e7e0c6d9e357f93afb7fdcf90f)" />
+<Entry OldName="Manifest.BOL.Update(BOLViewModel _bol)" NewName="A.cbefaf08944d3828c6d36586ef1327693.cc60218fb8313e9ffb09d8a5b934601b8(BOLViewModel ced68e0e7e0c6d9e357f93afb7fdcf90f)" />
+<Entry OldName="Manifest.BOL.Delete(Int32 _Id)" NewName="A.cbefaf08944d3828c6d36586ef1327693.c1d5d7d69ec2d568ba073c05a5f8db973(Int32 c351448fa294efc5ab0ee225190744555)" />
+<Entry OldName="Manifest.BOL.DeleteAll()" NewName="A.cbefaf08944d3828c6d36586ef1327693.c7e7a19476cf24a3e072b168991948e65()" />
+<Entry OldName="Manifest.CONN..ctor()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9..ctor()" />
+<Entry OldName="Manifest.CONN.GetAllData()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.CONN.GetAllDataSortedByBolNo()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.cce397b1f020f83968922ae7a5ce9abb7()" />
+<Entry OldName="Manifest.CONN.GetById(Int32 _ID)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c8bbd781c974f7d3db9c1d5318d347a07(Int32 c9fd3a2adb918aac7c31365595a611726)" />
+<Entry OldName="Manifest.CONN.Insert(CONNViewModel _con)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c3a3d4aab0722c30994871592ce572609(CONNViewModel c83fc798239075cda3535eb54791d2ce6)" />
+<Entry OldName="Manifest.CONN.Update(CONNViewModel _con)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.cc60218fb8313e9ffb09d8a5b934601b8(CONNViewModel c83fc798239075cda3535eb54791d2ce6)" />
+<Entry OldName="Manifest.CONN.Delete(Int32 _Id)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c1d5d7d69ec2d568ba073c05a5f8db973(Int32 c351448fa294efc5ab0ee225190744555)" />
+<Entry OldName="Manifest.CONN.DeleteByBolID(Int32 _BolId)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c5a2c8269b41ea6dbf5d8b08c8a344d55(Int32 c472bb32fcca22e278e802f1f9b16eebb)" />
+<Entry OldName="Manifest.CONN.DeleteByCTRID(Int32 _CtrId)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c958b0c36f348a4cdcad5aa9ca83fb6f1(Int32 cb00eb84f0200a1fc3d2f7fd39efeab6d)" />
+<Entry OldName="Manifest.CONN.GetByBolRef(Int32 _Ref)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.cb4bd4044d9a169a2404bf22728c58b0a(Int32 cc951ba9bccb0ee086d75c50325d90488)" />
+<Entry OldName="Manifest.CONN.GetByCtrRef(Int32 _Ref)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.ca378b589d5cdbc8dff01c39fe5c416ce(Int32 cc951ba9bccb0ee086d75c50325d90488)" />
+<Entry OldName="Manifest.CONN.DeleteAll()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.c7e7a19476cf24a3e072b168991948e65()" />
+<Entry OldName="Manifest.CountryCityCodes..ctor()" NewName="A.ce72fe33ed486b37912a3a9c2dc1bbaeb..ctor()" />
+<Entry OldName="Manifest.CountryCityCodes.GetAllData()" NewName="A.ce72fe33ed486b37912a3a9c2dc1bbaeb.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.CountryCodes..ctor()" NewName="A.caaef4bbe67635f5e95e4eef7f4a47362..ctor()" />
+<Entry OldName="Manifest.CountryCodes.GetAllData()" NewName="A.caaef4bbe67635f5e95e4eef7f4a47362.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.CTR..ctor()" NewName="A.c057d384246320ecd0de4295e61a2883c..ctor()" />
+<Entry OldName="Manifest.CTR.GetAllData()" NewName="A.c057d384246320ecd0de4295e61a2883c.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.CTR.GetById(Int32 _ID)" NewName="A.c057d384246320ecd0de4295e61a2883c.c8bbd781c974f7d3db9c1d5318d347a07(Int32 c9fd3a2adb918aac7c31365595a611726)" />
+<Entry OldName="Manifest.CTR.Insert(CTRViewModel _ctr)" NewName="A.c057d384246320ecd0de4295e61a2883c.c3a3d4aab0722c30994871592ce572609(CTRViewModel ca6fee53c29b13db92022bdab2ec6b3fb)" />
+<Entry OldName="Manifest.CTR.Update(CTRViewModel _ctr)" NewName="A.c057d384246320ecd0de4295e61a2883c.cc60218fb8313e9ffb09d8a5b934601b8(CTRViewModel ca6fee53c29b13db92022bdab2ec6b3fb)" />
+<Entry OldName="Manifest.CTR.Delete(Int32 _Id)" NewName="A.c057d384246320ecd0de4295e61a2883c.c1d5d7d69ec2d568ba073c05a5f8db973(Int32 c351448fa294efc5ab0ee225190744555)" />
+<Entry OldName="Manifest.CTR.DeleteByBolRef(Int32 _BolRef)" NewName="A.c057d384246320ecd0de4295e61a2883c.c2d9bf41955d314784cf08429bd76dd65(Int32 c11be187959b178ec6e7010cba017e233)" />
+<Entry OldName="Manifest.CTR.GetByRef(Int32 _Ref)" NewName="A.c057d384246320ecd0de4295e61a2883c.c079974433987adc43119feb14ed0f392(Int32 cc951ba9bccb0ee086d75c50325d90488)" />
+<Entry OldName="Manifest.CTR.IsFirstRecord()" NewName="A.c057d384246320ecd0de4295e61a2883c.cdf700f2f74da829705d7effdacc24ac2()" />
+<Entry OldName="Manifest.CTR.DeleteAll()" NewName="A.c057d384246320ecd0de4295e61a2883c.c7e7a19476cf24a3e072b168991948e65()" />
+<Entry OldName="Manifest.EX_IM98..ctor()" NewName="A.cf77fecd625512f48131e833eb3ceca65..ctor()" />
+<Entry OldName="Manifest.EX_IM98.GetAllData()" NewName="A.cf77fecd625512f48131e833eb3ceca65.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.PackageCodes..ctor()" NewName="A.cef07b8bd9f8cad592a799065f55b213c..ctor()" />
+<Entry OldName="Manifest.PackageCodes.GetAllData()" NewName="A.cef07b8bd9f8cad592a799065f55b213c.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.PortCodes3..ctor()" NewName="A.cf051d6ec553ab0e727c2c5d3b10cb4a2..ctor()" />
+<Entry OldName="Manifest.PortCodes3.GetAllData()" NewName="A.cf051d6ec553ab0e727c2c5d3b10cb4a2.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.PortCodes5..ctor()" NewName="A.c7cefa4807172c4fccd1ada923ca036c7..ctor()" />
+<Entry OldName="Manifest.PortCodes5.GetAllData()" NewName="A.c7cefa4807172c4fccd1ada923ca036c7.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.Setting..ctor()" NewName="A.cf3d24515726b9e5d0411571a1fd347f8..ctor()" />
+<Entry OldName="Manifest.Setting.CreateSettingtbl()" NewName="A.cf3d24515726b9e5d0411571a1fd347f8.c662c7080b5a13a59c47e5ea1a7bae477()" />
+<Entry OldName="Manifest.Setting.Insert(SettingViewModel _set)" NewName="A.cf3d24515726b9e5d0411571a1fd347f8.c3a3d4aab0722c30994871592ce572609(SettingViewModel c43a134248b90041c8726a7aef076fa84)" />
+<Entry OldName="Manifest.Setting.GetData(String _val)" NewName="A.cf3d24515726b9e5d0411571a1fd347f8.cc9d3ac14b5992dd6871bf7192d040975(String c516a13d9ff3cd569da30602bb908d04d)" />
+<Entry OldName="Manifest.Setting.Update(SettingViewModel _sett)" NewName="A.cf3d24515726b9e5d0411571a1fd347f8.cc60218fb8313e9ffb09d8a5b934601b8(SettingViewModel c8f29ff1f6e22e0f37649e9fe6115b7a0)" />
+<Entry OldName="Manifest.VOY..ctor()" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c..ctor()" />
+<Entry OldName="Manifest.VOY.GetAllData()" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.c25b005157cd0d83ce5a33b19c9ef554d()" />
+<Entry OldName="Manifest.VOY.GetById(Int32 _ID)" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.c8bbd781c974f7d3db9c1d5318d347a07(Int32 c9fd3a2adb918aac7c31365595a611726)" />
+<Entry OldName="Manifest.VOY.Insert(VOYViewModel _voy)" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.c3a3d4aab0722c30994871592ce572609(VOYViewModel c841cf6740b0f8be0a574b41251153b5d)" />
+<Entry OldName="Manifest.VOY.Update(VOYViewModel _voy)" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.cc60218fb8313e9ffb09d8a5b934601b8(VOYViewModel c841cf6740b0f8be0a574b41251153b5d)" />
+<Entry OldName="Manifest.VOY.Delete(Int32 _Id)" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.c1d5d7d69ec2d568ba073c05a5f8db973(Int32 c351448fa294efc5ab0ee225190744555)" />
+<Entry OldName="Manifest.VOY.DeleteAll()" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c.c7e7a19476cf24a3e072b168991948e65()" />
+<Entry OldName="Manifest.clsProgress..ctor()" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6..ctor()" />
+<Entry OldName="Manifest.clsProgress..cctor()" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6..cctor()" />
+<Entry OldName="Manifest.clsProgress.startProgress()" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6.c7d4e98fa67d46c82ea269e0abca6c1df()" />
+<Entry OldName="Manifest.clsProgress.showProgressForm()" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6.c973d7bdce6766980a3596a72ab8053d7()" />
+<Entry OldName="Manifest.clsProgress.stopProgress()" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6.c6534a5bcaaf49f8c2e13ffe3950116c3()" />
+<Entry OldName="Manifest.Form1.CryptoLicensing()" NewName="Manifest.Form1.c82b0f83e3cc44e9e3eef0806764bfcc9()" />
+<Entry OldName="Manifest.Form1.DoUpdate()" NewName="Manifest.Form1.c9fc880cb11788219406b0385f0a38b93()" />
+<Entry OldName="Manifest.Form1.Form1_Load(Object sender, EventArgs e)" NewName="Manifest.Form1.ca21b301419e4a5f25150d96d7e58c165(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.DoSearch(String sDir)" NewName="Manifest.Form1.c1ac336fe8baa08a8c2440c2a03634828(String c5dcc6aea8ab47a229ecb5d1da1688597)" />
+<Entry OldName="Manifest.Form1.chkAgreement_CheckedChanged(Object sender, EventArgs e)" NewName="Manifest.Form1.cdcc10811536aafb935f4b454bc1a16e6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.btnNext_Click(Object sender, EventArgs e)" NewName="Manifest.Form1.c12d9ee5a5e02568be82177978436be17(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.Form1_FormClosed(Object sender, FormClosedEventArgs e)" NewName="Manifest.Form1.c0df24ab5a51e9679a63029c0ce010f4c(Object cb1c0ed51e657267b8435ab8371ce3738, FormClosedEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.pbManifest_Click(Object sender, EventArgs e)" NewName="Manifest.Form1.c7756683aa44316df600b9dc3724039ff(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.pbCPP_Click(Object sender, EventArgs e)" NewName="Manifest.Form1.cbe18fc7be4c12986dab6b9857212f9b5(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.lblCompany_Click(Object sender, EventArgs e)" NewName="Manifest.Form1.c5a3922d9eb9e7e395f06672ba2ce7841(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.Form1_KeyUp(Object sender, KeyEventArgs e)" NewName="Manifest.Form1.c8e45313e197c28db618ab310c0468503(Object cb1c0ed51e657267b8435ab8371ce3738, KeyEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form1.InitializeComponent()" NewName="Manifest.Form1.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Form2.Form2_Load(Object sender, EventArgs e)" NewName="Manifest.Form2.c70094103a62a8762bbb2714fa0817ba1(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.pbTruck_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.c17b2fd3a7a9a1e38d04b02b601754075(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.pbShip_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.cb9e2f2a7cee95ca8db38345285b4883c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.pbAir_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.ccdf5e458293aa46d00232544d5b634fa(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.btnNext_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.c12d9ee5a5e02568be82177978436be17(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.btnLoad_Click(Object sender, EventArgs e)" NewName="Manifest.Form2.ce11f1f96e714463ed4b574d2105fd6fe(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.Form2_FormClosed(Object sender, FormClosedEventArgs e)" NewName="Manifest.Form2.ca241aaccb0d6c0e56d107c602b03fc2c(Object cb1c0ed51e657267b8435ab8371ce3738, FormClosedEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form2.InitializeComponent()" NewName="Manifest.Form2.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Form3.Form5_Load(Object sender, EventArgs e)" NewName="Manifest.Form3.ce7d6d667557a534e3e3e90c12136c510(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.SetDefaults()" NewName="Manifest.Form3.c50f67422a66a3470bf42aee2164f6401()" />
+<Entry OldName="Manifest.Form3.IsAllRequiredComboboxesFilled()" NewName="Manifest.Form3.cdc3473911422424037693bc43aee4631()" />
+<Entry OldName="Manifest.Form3.btnBolSave_Click(Object sender, EventArgs e)" NewName="Manifest.Form3.ccb443033f7fc8ab63449cc7e53ffb023(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.IsAllRequiredTextFilled()" NewName="Manifest.Form3.cd99a024f4dfd3313f1971d66ff5e00fb()" />
+<Entry OldName="Manifest.Form3.dgv_DataBindingComplete(Object sender, DataGridViewBindingCompleteEventArgs e)" NewName="Manifest.Form3.c0dae252a90a7724e3baa7c56a8e9db0c(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewBindingCompleteEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.dgv_CellContentClick(Object sender, DataGridViewCellEventArgs e)" NewName="Manifest.Form3.c7b04d1cb1b395d04941845eb80f7d82d(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewCellEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.btnSearch_Click(Object sender, EventArgs e)" NewName="Manifest.Form3.c43b95292fd509e8003095c71197a4162(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.btnNext_Click(Object sender, EventArgs e)" NewName="Manifest.Form3.c12d9ee5a5e02568be82177978436be17(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.Form3.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.JustNumberWithDot_KeyPress(Object sender, KeyPressEventArgs e)" NewName="Manifest.Form3.c8402c55a4a1425ebf649740906cb8826(Object cb1c0ed51e657267b8435ab8371ce3738, KeyPressEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb06_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.ce52f1f7127fbb89bcb6523eb345ae699(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb07_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.c79a3dd3f07806294c39a0b75894c35ed(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb04_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.ce311d13a9d3f621f7cbcfc0aa91bafbe(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb05_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.c57f8d67fdfa985f4083bd8e935c3e7c3(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb18_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.c405920b3c97a34fcee81a91e439c7233(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.Form3_Shown(Object sender, EventArgs e)" NewName="Manifest.Form3.cdf87422d2e15621126dbdeeb2cb497c5(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.HeavyLoad()" NewName="Manifest.Form3.cb15e9a31bfeef3f620f66ceae798794c()" />
+<Entry OldName="Manifest.Form3.cmbVoy3_Enter(Object sender, EventArgs e)" NewName="Manifest.Form3.c1715622328ef954f622a6953b1d68382(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb04_Enter(Object sender, EventArgs e)" NewName="Manifest.Form3.cd5fd82a6c3aab2583bbd183f593a4dd5(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb05_Enter(Object sender, EventArgs e)" NewName="Manifest.Form3.c2edc6ceffa16d4e9366de21379dbaa51(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.bw_DoWork(Object sender, DoWorkEventArgs e)" NewName="Manifest.Form3.c55d0f7d860c1da95991b9bd5aaf50289(Object cb1c0ed51e657267b8435ab8371ce3738, DoWorkEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmb18_Enter(Object sender, EventArgs e)" NewName="Manifest.Form3.c5417514cfb3b85146a72b7b18f826866(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.cmbVoy5_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.cb33d50f9f5d1e2df9db86f66827f0441(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.SetTooltips()" NewName="Manifest.Form3.ca67ae26db0acdd1005215ddca7243a2e()" />
+<Entry OldName="Manifest.Form3.txt01_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.c01cb772467642dc427f3e4337e31eaff(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.txt29_Leave(Object sender, EventArgs e)" NewName="Manifest.Form3.c65ae199dac3928213098ebe251eb5929(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form3.InitializeComponent()" NewName="Manifest.Form3.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Form4.GroupBox1_Enter(Object sender, EventArgs e)" NewName="Manifest.Form4.c62f77bbef020fae273bf3a35535c9f5a(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.Form6_Load(Object sender, EventArgs e)" NewName="Manifest.Form4.cbb2691e90dda0c6d3b94dd1fc09d939b(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.Form4.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.dgv_DataBindingComplete(Object sender, DataGridViewBindingCompleteEventArgs e)" NewName="Manifest.Form4.c0dae252a90a7724e3baa7c56a8e9db0c(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewBindingCompleteEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.dgv_CellContentClick(Object sender, DataGridViewCellEventArgs e)" NewName="Manifest.Form4.c7b04d1cb1b395d04941845eb80f7d82d(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewCellEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.btnSave_Click(Object sender, EventArgs e)" NewName="Manifest.Form4.c0504d786a59bb459bcd02348c09280dd(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.IsAllRequiredTextFilled()" NewName="Manifest.Form4.cd99a024f4dfd3313f1971d66ff5e00fb()" />
+<Entry OldName="Manifest.Form4.btnSearch_Click(Object sender, EventArgs e)" NewName="Manifest.Form4.c43b95292fd509e8003095c71197a4162(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.btnNext_Click(Object sender, EventArgs e)" NewName="Manifest.Form4.c12d9ee5a5e02568be82177978436be17(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.cmb07_Leave(Object sender, EventArgs e)" NewName="Manifest.Form4.c79a3dd3f07806294c39a0b75894c35ed(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.txtTotalNumber_TextChanged(Object sender, EventArgs e)" NewName="Manifest.Form4.c7e5639c878e0c249a7fbe4bb104da328(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.cmbCtr3_SelectedIndexChanged(Object sender, EventArgs e)" NewName="Manifest.Form4.c58501fbd0f3ec9bf0057d27d371935df(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.txt05_Leave(Object sender, EventArgs e)" NewName="Manifest.Form4.c60a549fafbb0500bcedb4c1643486653(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form4.InitializeComponent()" NewName="Manifest.Form4.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Form5.Form9_Load(Object sender, EventArgs e)" NewName="Manifest.Form5.ce244598ea80c8bbc646df6a8cabe7b69(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.btnExit_Click(Object sender, EventArgs e)" NewName="Manifest.Form5.cf6c7a0c46be48007c027c945df76139c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.Form5.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.btnSave_Click(Object sender, EventArgs e)" NewName="Manifest.Form5.c0504d786a59bb459bcd02348c09280dd(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.timer1_Tick(Object sender, EventArgs e)" NewName="Manifest.Form5.ce5fb70444ae6f52f3eb02813be25a2d8(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.btnZipfile_Click(Object sender, EventArgs e)" NewName="Manifest.Form5.cd277d8c612bb2211548851d95a4be2bd(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form5.InitializeComponent()" NewName="Manifest.Form5.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Form6.txtTotalNumber_TextChanged(Object sender, EventArgs e)" NewName="Manifest.Form6.c7e5639c878e0c249a7fbe4bb104da328(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.btnNext_Click(Object sender, EventArgs e)" NewName="Manifest.Form6.c12d9ee5a5e02568be82177978436be17(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.Form6.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.IsAllRequiredTextFilled()" NewName="Manifest.Form6.cd99a024f4dfd3313f1971d66ff5e00fb()" />
+<Entry OldName="Manifest.Form6.gbKalaStatus()" NewName="Manifest.Form6.cddeed6c825950c29fc50709de1db67d3()" />
+<Entry OldName="Manifest.Form6.Form6_Load(Object sender, EventArgs e)" NewName="Manifest.Form6.cbb2691e90dda0c6d3b94dd1fc09d939b(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.loadTooltips()" NewName="Manifest.Form6.c85948b1cecdf389fdc372d4914eb951e()" />
+<Entry OldName="Manifest.Form6.dgvContainer_DataBindingComplete(Object sender, DataGridViewBindingCompleteEventArgs e)" NewName="Manifest.Form6.cfccb17c97738070d322ea333ccd3846a(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewBindingCompleteEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.dgvContainer_CellContentClick(Object sender, DataGridViewCellEventArgs e)" NewName="Manifest.Form6.c84ae2447defbb91071fbb5bfc409e440(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewCellEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.RefreshCTR_cmb()" NewName="Manifest.Form6.cbfa3c74cfaf0b8de3835ba9db0edd6c2()" />
+<Entry OldName="Manifest.Form6.gbKala_EnabledChanged(Object sender, EventArgs e)" NewName="Manifest.Form6.c8a4629740173a6516318d282c84a61c1(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.btnSaveKala_Click(Object sender, EventArgs e)" NewName="Manifest.Form6.c698e2e7edb0d71ae4613a804987f4fd2(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.SetTabPage2Defaults()" NewName="Manifest.Form6.c1c8d7fba085076a0715f3c29ad05e43f()" />
+<Entry OldName="Manifest.Form6.dgvKala_CellContentClick(Object sender, DataGridViewCellEventArgs e)" NewName="Manifest.Form6.ce3827c0e9819cbb9859777c70bd04308(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewCellEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.dgvKala_DataBindingComplete(Object sender, DataGridViewBindingCompleteEventArgs e)" NewName="Manifest.Form6.c9cf775813d479b451a7337282787ca08(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewBindingCompleteEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.cmb07_Leave(Object sender, EventArgs e)" NewName="Manifest.Form6.c79a3dd3f07806294c39a0b75894c35ed(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.btnRefreshKala_Click(Object sender, EventArgs e)" NewName="Manifest.Form6.cb27ac589b79c03781352e7fc15ce78d8(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.dgvContainer_RowsAdded(Object sender, DataGridViewRowsAddedEventArgs e)" NewName="Manifest.Form6.c13e5108691db5f614669d988d7fc0fc6(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewRowsAddedEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.dgvContainer_RowsRemoved(Object sender, DataGridViewRowsRemovedEventArgs e)" NewName="Manifest.Form6.c3bb5687acd464540fa44509c16fceb4f(Object cb1c0ed51e657267b8435ab8371ce3738, DataGridViewRowsRemovedEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.txt05_Leave(Object sender, EventArgs e)" NewName="Manifest.Form6.c60a549fafbb0500bcedb4c1643486653(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.txtCtr1_Leave(Object sender, EventArgs e)" NewName="Manifest.Form6.c4a37100282ef152c1568024728c1106c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.cmbCtr3_Leave(Object sender, EventArgs e)" NewName="Manifest.Form6.c3f156c53f89c8eb81e700a35146b462b(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.btnSaveContainer_Click(Object sender, EventArgs e)" NewName="Manifest.Form6.cf95338a3be5060811fac9bf5d0defed0(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.Form6.InitializeComponent()" NewName="Manifest.Form6.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.frmCpp1.frmCpp1_Load(Object sender, EventArgs e)" NewName="Manifest.frmCpp1.c15643f25af346d2f4b3759e019f6fdb6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmCpp1.btnBack_Click(Object sender, EventArgs e)" NewName="Manifest.frmCpp1.c08399557d72419a608393d52655381f6(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmCpp1.btnExit_Click(Object sender, EventArgs e)" NewName="Manifest.frmCpp1.cf6c7a0c46be48007c027c945df76139c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmCpp1.InitializeComponent()" NewName="Manifest.frmCpp1.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.frmCpp2.frmCpp2_Load(Object sender, EventArgs e)" NewName="Manifest.frmCpp2.cf61bf9d40e264a160c8a450c20934fe4(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmCpp2.btnExit_Click(Object sender, EventArgs e)" NewName="Manifest.frmCpp2.cf6c7a0c46be48007c027c945df76139c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmCpp2.InitializeComponent()" NewName="Manifest.frmCpp2.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.frmLicense.frmLicense_Load(Object sender, EventArgs e)" NewName="Manifest.frmLicense.c971448d86fe49535039700cdc867ccce(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.btnExit_Click(Object sender, EventArgs e)" NewName="Manifest.frmLicense.cf6c7a0c46be48007c027c945df76139c(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.btnValidate_Click(Object sender, EventArgs e)" NewName="Manifest.frmLicense.cf480b1c7174d9bc145a5ddcd518e3497(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.txtValidation_TextChanged(Object sender, EventArgs e)" NewName="Manifest.frmLicense.cbdd38fce41baa6094dc85569129ae87a(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.CheckTexboxes()" NewName="Manifest.frmLicense.c9b6ef7a89f3422aa0df7c95f33fd01d8()" />
+<Entry OldName="Manifest.frmLicense.btnSend_Click(Object sender, EventArgs e)" NewName="Manifest.frmLicense.c6c9e640f3391d12417b35ec76c0a2773(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.txtLineCode_KeyPress(Object sender, KeyPressEventArgs e)" NewName="Manifest.frmLicense.cfa1d7a83531eba4e4d5292a9a89c717d(Object cb1c0ed51e657267b8435ab8371ce3738, KeyPressEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.txtLineCode_Leave(Object sender, EventArgs e)" NewName="Manifest.frmLicense.cd8d11eafbf876d533c6ce6e08ed335cb(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.btnBuyLic_Click(Object sender, EventArgs e)" NewName="Manifest.frmLicense.c3ad727f1f03bb830dddd1a5576e16037(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.btnHelp_Click(Object sender, EventArgs e)" NewName="Manifest.frmLicense.c2687110a60931645e026b91526d5102a(Object cb1c0ed51e657267b8435ab8371ce3738, EventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.txtBuyLic_KeyPress(Object sender, KeyPressEventArgs e)" NewName="Manifest.frmLicense.cda3a43493a7571c060af81a8ab36f73a(Object cb1c0ed51e657267b8435ab8371ce3738, KeyPressEventArgs c2338dc7b6d64695200ca1b5e3974e59a)" />
+<Entry OldName="Manifest.frmLicense.InitializeComponent()" NewName="Manifest.frmLicense.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.frmWaiting.InitializeComponent()" NewName="Manifest.frmWaiting.cb4d5f09f5fabad39866023512fe3c8af()" />
+<Entry OldName="Manifest.Program.Main()" NewName="A.cc4fe4246eb4c0016f6b0b7612d1a1d1b.cb75a5db2261e0aacbb11a17303589fc4()" />
+<Entry OldName="Manifest.Properties.Resources..ctor()" NewName="A.c64cb699cc78e657c937a154c21fcd96d..ctor()" />
+<Entry OldName="Manifest.Properties.Resources.get_ResourceManager()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_ResourceManager()" />
+<Entry OldName="Manifest.Properties.Resources.get_Culture()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Culture()" />
+<Entry OldName="Manifest.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c64cb699cc78e657c937a154c21fcd96d.set_Culture(CultureInfo value)" />
+<Entry OldName="Manifest.Properties.Resources.get_Airplan1()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Airplan1()" />
+<Entry OldName="Manifest.Properties.Resources.get_Airplan2()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Airplan2()" />
+<Entry OldName="Manifest.Properties.Resources.get_ajaxloading()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_ajaxloading()" />
+<Entry OldName="Manifest.Properties.Resources.get_cover1()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_cover1()" />
+<Entry OldName="Manifest.Properties.Resources.get_cover2()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_cover2()" />
+<Entry OldName="Manifest.Properties.Resources.get_cover3()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_cover3()" />
+<Entry OldName="Manifest.Properties.Resources.get_cover4()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_cover4()" />
+<Entry OldName="Manifest.Properties.Resources.get_Del()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Del()" />
+<Entry OldName="Manifest.Properties.Resources.get_Edit()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Edit()" />
+<Entry OldName="Manifest.Properties.Resources.get_Forklift()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Forklift()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder01()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder01()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder02()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder02()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder1()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder1()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder2()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder2()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder3()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder3()" />
+<Entry OldName="Manifest.Properties.Resources.get_Heder4()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Heder4()" />
+<Entry OldName="Manifest.Properties.Resources.get_Save()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Save()" />
+<Entry OldName="Manifest.Properties.Resources.get_Ship1()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Ship1()" />
+<Entry OldName="Manifest.Properties.Resources.get_Ship2()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Ship2()" />
+<Entry OldName="Manifest.Properties.Resources.get_Trial()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Trial()" />
+<Entry OldName="Manifest.Properties.Resources.get_Truck1()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Truck1()" />
+<Entry OldName="Manifest.Properties.Resources.get_Truck2()" NewName="A.c64cb699cc78e657c937a154c21fcd96d.get_Truck2()" />
+<Entry OldName="Manifest.CONN.&lt;&gt;c..cctor()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.&lt;&gt;c..cctor()" />
+<Entry OldName="Manifest.CONN.&lt;&gt;c..ctor()" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.&lt;&gt;c..ctor()" />
+<Entry OldName="Manifest.CONN.&lt;&gt;c.&lt;GetAllDataSortedByBolNo&gt;b__1_0(CONNViewModel x)" NewName="A.c86e5066a11d59cb19f36f00fe35605d9.&lt;&gt;c.c1ba6148f6d9f63fda319b076fc9201fa(CONNViewModel cdba8d9491aeba242aa12a789008c8186)" />
+<Entry OldName="&lt;&gt;f__AnonymousType0`1" NewName="A.c650f225120800f8f80862041e114c540`1" />
+<Entry OldName="&lt;&gt;f__AnonymousType1`1" NewName="A.c023523def50e7ef1e04b45865247dbe7`1" />
+<Entry OldName="&lt;&gt;f__AnonymousType2`1" NewName="A.c534e7aeba42bf98230cc096ab7cfca7b`1" />
+<Entry OldName="&lt;&gt;f__AnonymousType3`1" NewName="A.c71c66ca1d359f42921498078a1933c6b`1" />
+<Entry OldName="Manifest.Airlines" NewName="A.c7043cfd1c30e2f342f14ebf79b5afce7" />
+<Entry OldName="Manifest.BOL" NewName="A.cbefaf08944d3828c6d36586ef1327693" />
+<Entry OldName="Manifest.CONN+&lt;&gt;c" NewName="A.c86e5066a11d59cb19f36f00fe35605d9+&lt;&gt;c" />
+<Entry OldName="Manifest.CONN" NewName="A.c86e5066a11d59cb19f36f00fe35605d9" />
+<Entry OldName="Manifest.CountryCityCodes" NewName="A.ce72fe33ed486b37912a3a9c2dc1bbaeb" />
+<Entry OldName="Manifest.CountryCodes" NewName="A.caaef4bbe67635f5e95e4eef7f4a47362" />
+<Entry OldName="Manifest.CTR" NewName="A.c057d384246320ecd0de4295e61a2883c" />
+<Entry OldName="Manifest.EX_IM98" NewName="A.cf77fecd625512f48131e833eb3ceca65" />
+<Entry OldName="Manifest.PackageCodes" NewName="A.cef07b8bd9f8cad592a799065f55b213c" />
+<Entry OldName="Manifest.PortCodes3" NewName="A.cf051d6ec553ab0e727c2c5d3b10cb4a2" />
+<Entry OldName="Manifest.PortCodes5" NewName="A.c7cefa4807172c4fccd1ada923ca036c7" />
+<Entry OldName="Manifest.Setting" NewName="A.cf3d24515726b9e5d0411571a1fd347f8" />
+<Entry OldName="Manifest.VOY" NewName="A.cc733c0b00320eb5803f6ccc022a71a4c" />
+<Entry OldName="Manifest.clsProgress" NewName="A.cfd6aec1ab23b8f84c2659db63d8aa6d6" />
+<Entry OldName="Manifest.Program" NewName="A.cc4fe4246eb4c0016f6b0b7612d1a1d1b" />
+<Entry OldName="Manifest.Properties.Resources" NewName="A.c64cb699cc78e657c937a154c21fcd96d" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Airlines.cs" NewName="File0" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\BOL.cs" NewName="File1" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CONN.cs" NewName="File2" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CountryCityCodes.cs" NewName="File3" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CountryCodes.cs" NewName="File4" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CTR.cs" NewName="File5" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\DataAccess.cs" NewName="File6" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\EX_IM98.cs" NewName="File7" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PackageCodes.cs" NewName="File8" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PortCodes3.cs" NewName="File9" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PortCodes5.cs" NewName="File10" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Setting.cs" NewName="File11" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Utilities.cs" NewName="File12" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\VOY.cs" NewName="File13" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\WriteClass.cs" NewName="File14" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\clsProgress.cs" NewName="File15" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form1.cs" NewName="File16" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form1.Designer.cs" NewName="File17" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form2.cs" NewName="File18" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form2.Designer.cs" NewName="File19" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form3.cs" NewName="File20" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form3.Designer.cs" NewName="File21" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form4.cs" NewName="File22" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form4.Designer.cs" NewName="File23" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form5.cs" NewName="File24" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form5.Designer.cs" NewName="File25" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form6.cs" NewName="File26" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form6.Designer.cs" NewName="File27" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp1.cs" NewName="File28" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp1.Designer.cs" NewName="File29" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp2.cs" NewName="File30" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp2.Designer.cs" NewName="File31" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmLicense.cs" NewName="File32" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmLicense.Designer.cs" NewName="File33" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmWaiting.Designer.cs" NewName="File34" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmWaiting.cs" NewName="File35" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Program.cs" NewName="File36" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Properties\Resources.Designer.cs" NewName="File37" />
+<Entry OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Properties\Settings.Designer.cs" NewName="File38" />
+<Assembly Name="Manifest"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="&lt;&gt;f__AnonymousType0`1" />
+<Method Token="100663298" Name=".ctor" Variables="this;ID;" ParamCnt="2" />
+<Method Token="100663299" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663300" Name="Equals" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663301" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663302" Name="ToString" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Field Token="67108865" Name="&lt;ID&gt;i__Field" />
+<Type Token="33554436" Name="&lt;&gt;f__AnonymousType1`1" />
+<Method Token="100663304" Name=".ctor" Variables="this;BolRef;" ParamCnt="2" />
+<Method Token="100663305" Name="get_BolRef" Variables="this;" ParamCnt="1" />
+<Method Token="100663306" Name="Equals" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663307" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663308" Name="ToString" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Field Token="67108866" Name="&lt;BolRef&gt;i__Field" />
+<Type Token="33554437" Name="&lt;&gt;f__AnonymousType2`1" />
+<Method Token="100663309" Name=".ctor" Variables="this;CtrRef;" ParamCnt="2" />
+<Method Token="100663310" Name="get_CtrRef" Variables="this;" ParamCnt="1" />
+<Method Token="100663311" Name="Equals" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663312" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663313" Name="ToString" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Field Token="67108867" Name="&lt;CtrRef&gt;i__Field" />
+<Type Token="33554439" Name="&lt;&gt;f__AnonymousType3`1" />
+<Method Token="100663320" Name=".ctor" Variables="this;Ref;" ParamCnt="2" />
+<Method Token="100663321" Name="get_Ref" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name="Equals" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663323" Name="GetHashCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663324" Name="ToString" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Field Token="67108869" Name="&lt;Ref&gt;i__Field" />
+<Type Token="33554440" Name="Manifest.Airlines" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554441" Name="Manifest.AirLinesViewModel" />
+<Method Token="100663327" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663328" Name="get_Name" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="set_Name" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108870" Name="&lt;Name&gt;k__BackingField" />
+<Type Token="33554442" Name="Manifest.BOL" />
+<Method Token="100663330" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663332" Name="GetById" Variables="_ID;bol;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663333" Name="Insert" Variables="_bol;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663334" Name="Update" Variables="_bol;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663335" Name="Delete" Variables="_Id;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663336" Name="DeleteAll" Variables="db;query;V_2;V_3;V_4;" ParamCnt="0" />
+<Type Token="33554443" Name="Manifest.BOLViewModel" />
+<Method Token="100663337" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663340" Name="get_txt1" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name="set_txt1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663342" Name="get_txt2" Variables="this;" ParamCnt="1" />
+<Method Token="100663343" Name="set_txt2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663344" Name="get_txt3" Variables="this;" ParamCnt="1" />
+<Method Token="100663345" Name="set_txt3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663346" Name="get_txt4" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="set_txt4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663348" Name="get_txt5" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="set_txt5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663350" Name="get_txt6" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="set_txt6" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663352" Name="get_txt7" Variables="this;" ParamCnt="1" />
+<Method Token="100663353" Name="set_txt7" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663354" Name="get_txt8" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="set_txt8" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663356" Name="get_txt9" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="set_txt9" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663358" Name="get_txt10" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="set_txt10" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663360" Name="get_txt11" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="set_txt11" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663362" Name="get_txt12" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="set_txt12" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663364" Name="get_txt13" Variables="this;" ParamCnt="1" />
+<Method Token="100663365" Name="set_txt13" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663366" Name="get_txt14" Variables="this;" ParamCnt="1" />
+<Method Token="100663367" Name="set_txt14" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663368" Name="get_txt15" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name="set_txt15" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663370" Name="get_txt16" Variables="this;" ParamCnt="1" />
+<Method Token="100663371" Name="set_txt16" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663372" Name="get_txt17" Variables="this;" ParamCnt="1" />
+<Method Token="100663373" Name="set_txt17" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663374" Name="get_txt18" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name="set_txt18" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663376" Name="get_txt19" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="set_txt19" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663378" Name="get_txt20" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name="set_txt20" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663380" Name="get_txt21" Variables="this;" ParamCnt="1" />
+<Method Token="100663381" Name="set_txt21" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663382" Name="get_txt22" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name="set_txt22" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663384" Name="get_txt23" Variables="this;" ParamCnt="1" />
+<Method Token="100663385" Name="set_txt23" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663386" Name="get_txt24" Variables="this;" ParamCnt="1" />
+<Method Token="100663387" Name="set_txt24" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663388" Name="get_txt25" Variables="this;" ParamCnt="1" />
+<Method Token="100663389" Name="set_txt25" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663390" Name="get_txt26" Variables="this;" ParamCnt="1" />
+<Method Token="100663391" Name="set_txt26" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663392" Name="get_txt27" Variables="this;" ParamCnt="1" />
+<Method Token="100663393" Name="set_txt27" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663394" Name="get_txt28" Variables="this;" ParamCnt="1" />
+<Method Token="100663395" Name="set_txt28" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663396" Name="get_txt29" Variables="this;" ParamCnt="1" />
+<Method Token="100663397" Name="set_txt29" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663398" Name="get_txt30" Variables="this;" ParamCnt="1" />
+<Method Token="100663399" Name="set_txt30" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663400" Name="get_txt31" Variables="this;" ParamCnt="1" />
+<Method Token="100663401" Name="set_txt31" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663402" Name="get_txt32" Variables="this;" ParamCnt="1" />
+<Method Token="100663403" Name="set_txt32" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663404" Name="get_txt33" Variables="this;" ParamCnt="1" />
+<Method Token="100663405" Name="set_txt33" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663406" Name="get_txt34" Variables="this;" ParamCnt="1" />
+<Method Token="100663407" Name="set_txt34" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663408" Name="get_txt35" Variables="this;" ParamCnt="1" />
+<Method Token="100663409" Name="set_txt35" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663410" Name="get_txt36" Variables="this;" ParamCnt="1" />
+<Method Token="100663411" Name="set_txt36" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663412" Name="get_txt37" Variables="this;" ParamCnt="1" />
+<Method Token="100663413" Name="set_txt37" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663414" Name="get_txt38" Variables="this;" ParamCnt="1" />
+<Method Token="100663415" Name="set_txt38" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663416" Name="get_txt39" Variables="this;" ParamCnt="1" />
+<Method Token="100663417" Name="set_txt39" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663418" Name="get_txt40" Variables="this;" ParamCnt="1" />
+<Method Token="100663419" Name="set_txt40" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663420" Name="get_txt41" Variables="this;" ParamCnt="1" />
+<Method Token="100663421" Name="set_txt41" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663422" Name="get_txt42" Variables="this;" ParamCnt="1" />
+<Method Token="100663423" Name="set_txt42" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663424" Name="get_txt43" Variables="this;" ParamCnt="1" />
+<Method Token="100663425" Name="set_txt43" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663426" Name="get_txt44" Variables="this;" ParamCnt="1" />
+<Method Token="100663427" Name="set_txt44" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663428" Name="get_txt45" Variables="this;" ParamCnt="1" />
+<Method Token="100663429" Name="set_txt45" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663430" Name="get_txt46" Variables="this;" ParamCnt="1" />
+<Method Token="100663431" Name="set_txt46" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663432" Name="get_txt47" Variables="this;" ParamCnt="1" />
+<Method Token="100663433" Name="set_txt47" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663434" Name="get_txt48" Variables="this;" ParamCnt="1" />
+<Method Token="100663435" Name="set_txt48" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663436" Name="get_txt49" Variables="this;" ParamCnt="1" />
+<Method Token="100663437" Name="set_txt49" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663438" Name="get_txt50" Variables="this;" ParamCnt="1" />
+<Method Token="100663439" Name="set_txt50" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663440" Name="get_txt51" Variables="this;" ParamCnt="1" />
+<Method Token="100663441" Name="set_txt51" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663442" Name="get_txt52" Variables="this;" ParamCnt="1" />
+<Method Token="100663443" Name="set_txt52" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663444" Name="get_txt53" Variables="this;" ParamCnt="1" />
+<Method Token="100663445" Name="set_txt53" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663446" Name="get_txt54" Variables="this;" ParamCnt="1" />
+<Method Token="100663447" Name="set_txt54" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663448" Name="get_txt55" Variables="this;" ParamCnt="1" />
+<Method Token="100663449" Name="set_txt55" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663450" Name="get_txt56" Variables="this;" ParamCnt="1" />
+<Method Token="100663451" Name="set_txt56" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663452" Name="get_txt57" Variables="this;" ParamCnt="1" />
+<Method Token="100663453" Name="set_txt57" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663454" Name="get_txt58" Variables="this;" ParamCnt="1" />
+<Method Token="100663455" Name="set_txt58" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663456" Name="get_txt59" Variables="this;" ParamCnt="1" />
+<Method Token="100663457" Name="set_txt59" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663458" Name="get_txt60" Variables="this;" ParamCnt="1" />
+<Method Token="100663459" Name="set_txt60" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663460" Name="get_txt61" Variables="this;" ParamCnt="1" />
+<Method Token="100663461" Name="set_txt61" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663462" Name="get_txt62" Variables="this;" ParamCnt="1" />
+<Method Token="100663463" Name="set_txt62" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108871" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67108872" Name="&lt;txt1&gt;k__BackingField" />
+<Field Token="67108873" Name="&lt;txt2&gt;k__BackingField" />
+<Field Token="67108874" Name="&lt;txt3&gt;k__BackingField" />
+<Field Token="67108875" Name="&lt;txt4&gt;k__BackingField" />
+<Field Token="67108876" Name="&lt;txt5&gt;k__BackingField" />
+<Field Token="67108877" Name="&lt;txt6&gt;k__BackingField" />
+<Field Token="67108878" Name="&lt;txt7&gt;k__BackingField" />
+<Field Token="67108879" Name="&lt;txt8&gt;k__BackingField" />
+<Field Token="67108880" Name="&lt;txt9&gt;k__BackingField" />
+<Field Token="67108881" Name="&lt;txt10&gt;k__BackingField" />
+<Field Token="67108882" Name="&lt;txt11&gt;k__BackingField" />
+<Field Token="67108883" Name="&lt;txt12&gt;k__BackingField" />
+<Field Token="67108884" Name="&lt;txt13&gt;k__BackingField" />
+<Field Token="67108885" Name="&lt;txt14&gt;k__BackingField" />
+<Field Token="67108886" Name="&lt;txt15&gt;k__BackingField" />
+<Field Token="67108887" Name="&lt;txt16&gt;k__BackingField" />
+<Field Token="67108888" Name="&lt;txt17&gt;k__BackingField" />
+<Field Token="67108889" Name="&lt;txt18&gt;k__BackingField" />
+<Field Token="67108890" Name="&lt;txt19&gt;k__BackingField" />
+<Field Token="67108891" Name="&lt;txt20&gt;k__BackingField" />
+<Field Token="67108892" Name="&lt;txt21&gt;k__BackingField" />
+<Field Token="67108893" Name="&lt;txt22&gt;k__BackingField" />
+<Field Token="67108894" Name="&lt;txt23&gt;k__BackingField" />
+<Field Token="67108895" Name="&lt;txt24&gt;k__BackingField" />
+<Field Token="67108896" Name="&lt;txt25&gt;k__BackingField" />
+<Field Token="67108897" Name="&lt;txt26&gt;k__BackingField" />
+<Field Token="67108898" Name="&lt;txt27&gt;k__BackingField" />
+<Field Token="67108899" Name="&lt;txt28&gt;k__BackingField" />
+<Field Token="67108900" Name="&lt;txt29&gt;k__BackingField" />
+<Field Token="67108901" Name="&lt;txt30&gt;k__BackingField" />
+<Field Token="67108902" Name="&lt;txt31&gt;k__BackingField" />
+<Field Token="67108903" Name="&lt;txt32&gt;k__BackingField" />
+<Field Token="67108904" Name="&lt;txt33&gt;k__BackingField" />
+<Field Token="67108905" Name="&lt;txt34&gt;k__BackingField" />
+<Field Token="67108906" Name="&lt;txt35&gt;k__BackingField" />
+<Field Token="67108907" Name="&lt;txt36&gt;k__BackingField" />
+<Field Token="67108908" Name="&lt;txt37&gt;k__BackingField" />
+<Field Token="67108909" Name="&lt;txt38&gt;k__BackingField" />
+<Field Token="67108910" Name="&lt;txt39&gt;k__BackingField" />
+<Field Token="67108911" Name="&lt;txt40&gt;k__BackingField" />
+<Field Token="67108912" Name="&lt;txt41&gt;k__BackingField" />
+<Field Token="67108913" Name="&lt;txt42&gt;k__BackingField" />
+<Field Token="67108914" Name="&lt;txt43&gt;k__BackingField" />
+<Field Token="67108915" Name="&lt;txt44&gt;k__BackingField" />
+<Field Token="67108916" Name="&lt;txt45&gt;k__BackingField" />
+<Field Token="67108917" Name="&lt;txt46&gt;k__BackingField" />
+<Field Token="67108918" Name="&lt;txt47&gt;k__BackingField" />
+<Field Token="67108919" Name="&lt;txt48&gt;k__BackingField" />
+<Field Token="67108920" Name="&lt;txt49&gt;k__BackingField" />
+<Field Token="67108921" Name="&lt;txt50&gt;k__BackingField" />
+<Field Token="67108922" Name="&lt;txt51&gt;k__BackingField" />
+<Field Token="67108923" Name="&lt;txt52&gt;k__BackingField" />
+<Field Token="67108924" Name="&lt;txt53&gt;k__BackingField" />
+<Field Token="67108925" Name="&lt;txt54&gt;k__BackingField" />
+<Field Token="67108926" Name="&lt;txt55&gt;k__BackingField" />
+<Field Token="67108927" Name="&lt;txt56&gt;k__BackingField" />
+<Field Token="67108928" Name="&lt;txt57&gt;k__BackingField" />
+<Field Token="67108929" Name="&lt;txt58&gt;k__BackingField" />
+<Field Token="67108930" Name="&lt;txt59&gt;k__BackingField" />
+<Field Token="67108931" Name="&lt;txt60&gt;k__BackingField" />
+<Field Token="67108932" Name="&lt;txt61&gt;k__BackingField" />
+<Field Token="67108933" Name="&lt;txt62&gt;k__BackingField" />
+<Type Token="33554444" Name="Manifest.CONN" />
+<Method Token="100663464" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663465" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663466" Name="GetAllDataSortedByBolNo" Variables="" ParamCnt="0" />
+<Method Token="100663467" Name="GetById" Variables="_ID;bol;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663468" Name="Insert" Variables="_con;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663469" Name="Update" Variables="_con;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663470" Name="Delete" Variables="_Id;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663471" Name="DeleteByBolID" Variables="_BolId;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663472" Name="DeleteByCTRID" Variables="_CtrId;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663473" Name="GetByBolRef" Variables="_Ref;list;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663474" Name="GetByCtrRef" Variables="_Ref;list;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663475" Name="DeleteAll" Variables="db;query;V_2;V_3;V_4;" ParamCnt="0" />
+<Type Token="33554445" Name="Manifest.CONNViewModel" />
+<Method Token="100663476" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663477" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663478" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663479" Name="get_CTRRef" Variables="this;" ParamCnt="1" />
+<Method Token="100663480" Name="set_CTRRef" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663481" Name="get_CTRNo" Variables="this;" ParamCnt="1" />
+<Method Token="100663482" Name="set_CTRNo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663483" Name="get_BolRef" Variables="this;" ParamCnt="1" />
+<Method Token="100663484" Name="set_BolRef" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663485" Name="get_BolNo" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name="set_BolNo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663487" Name="get_txt1" Variables="this;" ParamCnt="1" />
+<Method Token="100663488" Name="set_txt1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663489" Name="get_txt2" Variables="this;" ParamCnt="1" />
+<Method Token="100663490" Name="set_txt2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663491" Name="get_txt3" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="set_txt3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663493" Name="get_txt4" Variables="this;" ParamCnt="1" />
+<Method Token="100663494" Name="set_txt4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663495" Name="get_txt5" Variables="this;" ParamCnt="1" />
+<Method Token="100663496" Name="set_txt5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663497" Name="get_txt6" Variables="this;" ParamCnt="1" />
+<Method Token="100663498" Name="set_txt6" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663499" Name="get_txt7" Variables="this;" ParamCnt="1" />
+<Method Token="100663500" Name="set_txt7" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663501" Name="get_txt8" Variables="this;" ParamCnt="1" />
+<Method Token="100663502" Name="set_txt8" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663503" Name="get_txt9" Variables="this;" ParamCnt="1" />
+<Method Token="100663504" Name="set_txt9" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663505" Name="get_txt10" Variables="this;" ParamCnt="1" />
+<Method Token="100663506" Name="set_txt10" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663507" Name="get_txt11" Variables="this;" ParamCnt="1" />
+<Method Token="100663508" Name="set_txt11" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663509" Name="get_txt12" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name="set_txt12" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663511" Name="get_txt13" Variables="this;" ParamCnt="1" />
+<Method Token="100663512" Name="set_txt13" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663513" Name="get_txt14" Variables="this;" ParamCnt="1" />
+<Method Token="100663514" Name="set_txt14" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663515" Name="get_txt15" Variables="this;" ParamCnt="1" />
+<Method Token="100663516" Name="set_txt15" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663517" Name="get_txt16" Variables="this;" ParamCnt="1" />
+<Method Token="100663518" Name="set_txt16" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663519" Name="get_txt17" Variables="this;" ParamCnt="1" />
+<Method Token="100663520" Name="set_txt17" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663521" Name="get_txt18" Variables="this;" ParamCnt="1" />
+<Method Token="100663522" Name="set_txt18" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663523" Name="get_txt19" Variables="this;" ParamCnt="1" />
+<Method Token="100663524" Name="set_txt19" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663525" Name="get_txt20" Variables="this;" ParamCnt="1" />
+<Method Token="100663526" Name="set_txt20" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663527" Name="get_txt21" Variables="this;" ParamCnt="1" />
+<Method Token="100663528" Name="set_txt21" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663529" Name="get_txt22" Variables="this;" ParamCnt="1" />
+<Method Token="100663530" Name="set_txt22" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108934" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67108935" Name="&lt;CTRRef&gt;k__BackingField" />
+<Field Token="67108936" Name="&lt;CTRNo&gt;k__BackingField" />
+<Field Token="67108937" Name="&lt;BolRef&gt;k__BackingField" />
+<Field Token="67108938" Name="&lt;BolNo&gt;k__BackingField" />
+<Field Token="67108939" Name="&lt;txt1&gt;k__BackingField" />
+<Field Token="67108940" Name="&lt;txt2&gt;k__BackingField" />
+<Field Token="67108941" Name="&lt;txt3&gt;k__BackingField" />
+<Field Token="67108942" Name="&lt;txt4&gt;k__BackingField" />
+<Field Token="67108943" Name="&lt;txt5&gt;k__BackingField" />
+<Field Token="67108944" Name="&lt;txt6&gt;k__BackingField" />
+<Field Token="67108945" Name="&lt;txt7&gt;k__BackingField" />
+<Field Token="67108946" Name="&lt;txt8&gt;k__BackingField" />
+<Field Token="67108947" Name="&lt;txt9&gt;k__BackingField" />
+<Field Token="67108948" Name="&lt;txt10&gt;k__BackingField" />
+<Field Token="67108949" Name="&lt;txt11&gt;k__BackingField" />
+<Field Token="67108950" Name="&lt;txt12&gt;k__BackingField" />
+<Field Token="67108951" Name="&lt;txt13&gt;k__BackingField" />
+<Field Token="67108952" Name="&lt;txt14&gt;k__BackingField" />
+<Field Token="67108953" Name="&lt;txt15&gt;k__BackingField" />
+<Field Token="67108954" Name="&lt;txt16&gt;k__BackingField" />
+<Field Token="67108955" Name="&lt;txt17&gt;k__BackingField" />
+<Field Token="67108956" Name="&lt;txt18&gt;k__BackingField" />
+<Field Token="67108957" Name="&lt;txt19&gt;k__BackingField" />
+<Field Token="67108958" Name="&lt;txt20&gt;k__BackingField" />
+<Field Token="67108959" Name="&lt;txt21&gt;k__BackingField" />
+<Field Token="67108960" Name="&lt;txt22&gt;k__BackingField" />
+<Type Token="33554446" Name="Manifest.CountryCityCodes" />
+<Method Token="100663531" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663532" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554447" Name="Manifest.CountryCityCodesViewModel" />
+<Method Token="100663533" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663534" Name="get_Country" Variables="this;" ParamCnt="1" />
+<Method Token="100663535" Name="set_Country" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663536" Name="get_City" Variables="this;" ParamCnt="1" />
+<Method Token="100663537" Name="set_City" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663538" Name="get_Code" Variables="this;" ParamCnt="1" />
+<Method Token="100663539" Name="set_Code" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663540" Name="get_Full" Variables="this;" ParamCnt="1" />
+<Field Token="67108961" Name="&lt;Country&gt;k__BackingField" />
+<Field Token="67108962" Name="&lt;City&gt;k__BackingField" />
+<Field Token="67108963" Name="&lt;Code&gt;k__BackingField" />
+<Type Token="33554448" Name="Manifest.CountryCodes" />
+<Method Token="100663541" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663542" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554450" Name="Manifest.CountryCodesViewModel" />
+<Method Token="100663546" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663547" Name="get_EN" Variables="this;" ParamCnt="1" />
+<Method Token="100663548" Name="set_EN" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663549" Name="get_FA" Variables="this;" ParamCnt="1" />
+<Method Token="100663550" Name="set_FA" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663551" Name="get_Full" Variables="this;" ParamCnt="1" />
+<Field Token="67108965" Name="&lt;EN&gt;k__BackingField" />
+<Field Token="67108966" Name="&lt;FA&gt;k__BackingField" />
+<Type Token="33554451" Name="Manifest.CTR" />
+<Method Token="100663552" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663553" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663554" Name="GetById" Variables="_ID;bol;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663555" Name="Insert" Variables="_ctr;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663556" Name="Update" Variables="_ctr;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663557" Name="Delete" Variables="_Id;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663558" Name="DeleteByBolRef" Variables="_BolRef;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663559" Name="GetByRef" Variables="_Ref;list;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663560" Name="IsFirstRecord" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663561" Name="DeleteAll" Variables="db;query;V_2;V_3;V_4;" ParamCnt="0" />
+<Type Token="33554452" Name="Manifest.CTRViewModel" />
+<Method Token="100663562" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663563" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663564" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663565" Name="get_BolRef" Variables="this;" ParamCnt="1" />
+<Method Token="100663566" Name="set_BolRef" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663567" Name="get_BolNo" Variables="this;" ParamCnt="1" />
+<Method Token="100663568" Name="set_BolNo" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663569" Name="get_txt1" Variables="this;" ParamCnt="1" />
+<Method Token="100663570" Name="set_txt1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663571" Name="get_txt2" Variables="this;" ParamCnt="1" />
+<Method Token="100663572" Name="set_txt2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663573" Name="get_txt3" Variables="this;" ParamCnt="1" />
+<Method Token="100663574" Name="set_txt3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663575" Name="get_txt4" Variables="this;" ParamCnt="1" />
+<Method Token="100663576" Name="set_txt4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663577" Name="get_txt5" Variables="this;" ParamCnt="1" />
+<Method Token="100663578" Name="set_txt5" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108967" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67108968" Name="&lt;BolRef&gt;k__BackingField" />
+<Field Token="67108969" Name="&lt;BolNo&gt;k__BackingField" />
+<Field Token="67108970" Name="&lt;txt1&gt;k__BackingField" />
+<Field Token="67108971" Name="&lt;txt2&gt;k__BackingField" />
+<Field Token="67108972" Name="&lt;txt3&gt;k__BackingField" />
+<Field Token="67108973" Name="&lt;txt4&gt;k__BackingField" />
+<Field Token="67108974" Name="&lt;txt5&gt;k__BackingField" />
+<Type Token="33554454" Name="Manifest.DataAccess" />
+<Method Token="100663586" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663587" Name="GetConnectionString" Variables="_id;" ParamCnt="1" />
+<Type Token="33554455" Name="Manifest.EX_IM98" />
+<Method Token="100663588" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663589" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554456" Name="Manifest.EX_IM98ViewModel" />
+<Method Token="100663590" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663591" Name="get_GroupID" Variables="this;" ParamCnt="1" />
+<Method Token="100663592" Name="set_GroupID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663593" Name="get_TName" Variables="this;" ParamCnt="1" />
+<Method Token="100663594" Name="set_TName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663595" Name="get_TKalaName" Variables="this;" ParamCnt="1" />
+<Method Token="100663596" Name="set_TKalaName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663597" Name="get_TVorodi" Variables="this;" ParamCnt="1" />
+<Method Token="100663598" Name="set_TVorodi" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663599" Name="get_TSUQ" Variables="this;" ParamCnt="1" />
+<Method Token="100663600" Name="set_TSUQ" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663601" Name="get_TDesc" Variables="this;" ParamCnt="1" />
+<Method Token="100663602" Name="set_TDesc" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663603" Name="get_TPreferential" Variables="this;" ParamCnt="1" />
+<Method Token="100663604" Name="set_TPreferential" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108981" Name="&lt;GroupID&gt;k__BackingField" />
+<Field Token="67108982" Name="&lt;TName&gt;k__BackingField" />
+<Field Token="67108983" Name="&lt;TKalaName&gt;k__BackingField" />
+<Field Token="67108984" Name="&lt;TVorodi&gt;k__BackingField" />
+<Field Token="67108985" Name="&lt;TSUQ&gt;k__BackingField" />
+<Field Token="67108986" Name="&lt;TDesc&gt;k__BackingField" />
+<Field Token="67108987" Name="&lt;TPreferential&gt;k__BackingField" />
+<Type Token="33554457" Name="Manifest.PackageCodes" />
+<Method Token="100663605" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663606" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554458" Name="Manifest.PCViewModel" />
+<Method Token="100663607" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663608" Name="get_Code" Variables="this;" ParamCnt="1" />
+<Method Token="100663609" Name="set_Code" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663610" Name="get_Fa_Des" Variables="this;" ParamCnt="1" />
+<Method Token="100663611" Name="set_Fa_Des" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663612" Name="get_FullFaCode" Variables="this;" ParamCnt="1" />
+<Field Token="67108988" Name="&lt;Code&gt;k__BackingField" />
+<Field Token="67108989" Name="&lt;Fa_Des&gt;k__BackingField" />
+<Type Token="33554459" Name="Manifest.PortCodes3" />
+<Method Token="100663613" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663614" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554460" Name="Manifest.PortCodes3ViewModel" />
+<Method Token="100663615" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663616" Name="get_EN" Variables="this;" ParamCnt="1" />
+<Method Token="100663617" Name="set_EN" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108990" Name="&lt;EN&gt;k__BackingField" />
+<Type Token="33554461" Name="Manifest.PortCodes5" />
+<Method Token="100663618" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663619" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Type Token="33554462" Name="Manifest.PortCodes5ViewModel" />
+<Method Token="100663620" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663621" Name="get_EN" Variables="this;" ParamCnt="1" />
+<Method Token="100663622" Name="set_EN" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108991" Name="&lt;EN&gt;k__BackingField" />
+<Type Token="33554463" Name="Manifest.Setting" />
+<Method Token="100663623" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663624" Name="CreateSettingtbl" Variables="db;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663625" Name="Insert" Variables="_set;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663626" Name="GetData" Variables="_val;sett;db;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663627" Name="Update" Variables="_sett;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Type Token="33554464" Name="Manifest.SettingViewModel" />
+<Method Token="100663628" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663629" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663630" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663631" Name="get_Ver" Variables="this;" ParamCnt="1" />
+<Method Token="100663632" Name="set_Ver" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663633" Name="get_Mode" Variables="this;" ParamCnt="1" />
+<Method Token="100663634" Name="set_Mode" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663635" Name="get_S1" Variables="this;" ParamCnt="1" />
+<Method Token="100663636" Name="set_S1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663637" Name="get_S2" Variables="this;" ParamCnt="1" />
+<Method Token="100663638" Name="set_S2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663639" Name="get_S3" Variables="this;" ParamCnt="1" />
+<Method Token="100663640" Name="set_S3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663641" Name="get_N1" Variables="this;" ParamCnt="1" />
+<Method Token="100663642" Name="set_N1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663643" Name="get_N2" Variables="this;" ParamCnt="1" />
+<Method Token="100663644" Name="set_N2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663645" Name="get_N3" Variables="this;" ParamCnt="1" />
+<Method Token="100663646" Name="set_N3" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108992" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67108993" Name="&lt;Ver&gt;k__BackingField" />
+<Field Token="67108994" Name="&lt;Mode&gt;k__BackingField" />
+<Field Token="67108995" Name="&lt;S1&gt;k__BackingField" />
+<Field Token="67108996" Name="&lt;S2&gt;k__BackingField" />
+<Field Token="67108997" Name="&lt;S3&gt;k__BackingField" />
+<Field Token="67108998" Name="&lt;N1&gt;k__BackingField" />
+<Field Token="67108999" Name="&lt;N2&gt;k__BackingField" />
+<Field Token="67109000" Name="&lt;N3&gt;k__BackingField" />
+<Type Token="33554465" Name="Manifest.Utilities" />
+<Method Token="100663647" Name="AddQutation" Variables="_str;i;" ParamCnt="1" />
+<Method Token="100663648" Name="SendError" Variables="_subject;_mess;Body;" ParamCnt="2" />
+<Method Token="100663649" Name="SendMail" Variables="_Subject;_Body;_to;mail;V_1;" ParamCnt="3" />
+<Method Token="100663650" Name="IsValidEmail" Variables="_EmailAddress;pattern;" ParamCnt="1" />
+<Type Token="33554466" Name="Manifest.VOY" />
+<Method Token="100663651" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663652" Name="GetAllData" Variables="list;db;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663653" Name="GetById" Variables="_ID;bol;db;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663654" Name="Insert" Variables="_voy;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663655" Name="Update" Variables="_voy;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663656" Name="Delete" Variables="_Id;db;query;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663657" Name="DeleteAll" Variables="db;query;V_2;V_3;V_4;" ParamCnt="0" />
+<Type Token="33554467" Name="Manifest.VOYViewModel" />
+<Method Token="100663658" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663659" Name="get_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663660" Name="set_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663661" Name="get_txt1" Variables="this;" ParamCnt="1" />
+<Method Token="100663662" Name="set_txt1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663663" Name="get_txt2" Variables="this;" ParamCnt="1" />
+<Method Token="100663664" Name="set_txt2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663665" Name="get_txt3" Variables="this;" ParamCnt="1" />
+<Method Token="100663666" Name="set_txt3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663667" Name="get_txt4" Variables="this;" ParamCnt="1" />
+<Method Token="100663668" Name="set_txt4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663669" Name="get_txt5" Variables="this;" ParamCnt="1" />
+<Method Token="100663670" Name="set_txt5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663671" Name="get_txt6" Variables="this;" ParamCnt="1" />
+<Method Token="100663672" Name="set_txt6" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663673" Name="get_txt7" Variables="this;" ParamCnt="1" />
+<Method Token="100663674" Name="set_txt7" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663675" Name="get_txt8" Variables="this;" ParamCnt="1" />
+<Method Token="100663676" Name="set_txt8" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663677" Name="get_txt9" Variables="this;" ParamCnt="1" />
+<Method Token="100663678" Name="set_txt9" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663679" Name="get_txt10" Variables="this;" ParamCnt="1" />
+<Method Token="100663680" Name="set_txt10" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663681" Name="get_txt11" Variables="this;" ParamCnt="1" />
+<Method Token="100663682" Name="set_txt11" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109001" Name="&lt;ID&gt;k__BackingField" />
+<Field Token="67109002" Name="&lt;txt1&gt;k__BackingField" />
+<Field Token="67109003" Name="&lt;txt2&gt;k__BackingField" />
+<Field Token="67109004" Name="&lt;txt3&gt;k__BackingField" />
+<Field Token="67109005" Name="&lt;txt4&gt;k__BackingField" />
+<Field Token="67109006" Name="&lt;txt5&gt;k__BackingField" />
+<Field Token="67109007" Name="&lt;txt6&gt;k__BackingField" />
+<Field Token="67109008" Name="&lt;txt7&gt;k__BackingField" />
+<Field Token="67109009" Name="&lt;txt8&gt;k__BackingField" />
+<Field Token="67109010" Name="&lt;txt9&gt;k__BackingField" />
+<Field Token="67109011" Name="&lt;txt10&gt;k__BackingField" />
+<Field Token="67109012" Name="&lt;txt11&gt;k__BackingField" />
+<Type Token="33554468" Name="Manifest.WriteClass" />
+<Method Token="100663683" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663684" Name="WriteToFile" Variables="fileName;arryLine;txt;objWriter;i;" ParamCnt="2" />
+<Method Token="100663685" Name="Append" Variables="fileName;arryLine;txt;objWriter;i;" ParamCnt="2" />
+<Method Token="100663686" Name="WriteVOY" Variables="_v;" ParamCnt="1" />
+<Method Token="100663687" Name="WriteBol" Variables="_b;" ParamCnt="1" />
+<Method Token="100663688" Name="WriteCtr" Variables="_ct;" ParamCnt="1" />
+<Method Token="100663689" Name="WriteCons" Variables="_cons;" ParamCnt="1" />
+<Type Token="33554469" Name="Manifest.clsProgress" />
+<Method Token="100663690" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663691" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663692" Name="startProgress" Variables="this;" ParamCnt="1" />
+<Method Token="100663693" Name="showProgressForm" Variables="" ParamCnt="0" />
+<Method Token="100663694" Name="stopProgress" Variables="this;" ParamCnt="1" />
+<Field Token="67109013" Name="th" />
+<Type Token="33554470" Name="Manifest.Form1" />
+<Method Token="100663695" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663696" Name="CryptoLicensing" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663697" Name="DoUpdate" Variables="this;ad;dde;ide;ioe;" ParamCnt="1" />
+<Method Token="100663698" Name="Form1_Load" Variables="this;sender;e;scr;V_1;V_2;eex;V_4;" ParamCnt="3" />
+<Method Token="100663699" Name="DoSearch" Variables="this;sDir;" ParamCnt="2" />
+<Method Token="100663700" Name="chkAgreement_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663701" Name="btnNext_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663702" Name="Form1_FormClosed" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663703" Name="pbManifest_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663704" Name="pbCPP_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663705" Name="lblCompany_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663706" Name="Form1_KeyUp" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663707" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663708" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109014" Name="ProgramMode" />
+<Field Token="67109015" Name="license" />
+<Field Token="67109016" Name="ValidationKey" />
+<Field Token="67109017" Name="upc" />
+<Field Token="67109018" Name="components" />
+<Field Token="67109019" Name="ListBox1" />
+<Field Token="67109020" Name="PictureBox3" />
+<Field Token="67109021" Name="pbManifest" />
+<Field Token="67109022" Name="pbCPP" />
+<Field Token="67109023" Name="chkAgreement" />
+<Field Token="67109024" Name="btnNext" />
+<Field Token="67109025" Name="lblCompany" />
+<Field Token="67109026" Name="lblVer" />
+<Field Token="67109027" Name="lblManifestVer" />
+<Field Token="67109028" Name="lblValidationDays" />
+<Field Token="67109029" Name="lblLicTitle" />
+<Type Token="33554471" Name="Manifest.Form2" />
+<Method Token="100663709" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663710" Name="Form2_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663711" Name="pbTruck_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663712" Name="pbShip_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663713" Name="pbAir_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663714" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663715" Name="btnNext_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663716" Name="btnLoad_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663717" Name="Form2_FormClosed" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663718" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663719" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109030" Name="mode" />
+<Field Token="67109031" Name="reload" />
+<Field Token="67109032" Name="components" />
+<Field Token="67109033" Name="pbHeader" />
+<Field Token="67109034" Name="ProgressBar1" />
+<Field Token="67109035" Name="progressBar2" />
+<Field Token="67109036" Name="progressBar3" />
+<Field Token="67109037" Name="Label1" />
+<Field Token="67109038" Name="ListBox1" />
+<Field Token="67109039" Name="pbTruck" />
+<Field Token="67109040" Name="btnBack" />
+<Field Token="67109041" Name="btnNext" />
+<Field Token="67109042" Name="pictureBox2" />
+<Field Token="67109043" Name="pbShip" />
+<Field Token="67109044" Name="pictureBox3" />
+<Field Token="67109045" Name="pbAir" />
+<Field Token="67109046" Name="pictureBox7" />
+<Field Token="67109047" Name="btnLoad" />
+<Field Token="67109048" Name="openFileDialog1" />
+<Type Token="33554472" Name="Manifest.Form3" />
+<Method Token="100663720" Name=".ctor" Variables="this;_mode;" ParamCnt="2" />
+<Method Token="100663721" Name="Form5_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663722" Name="SetDefaults" Variables="this;" ParamCnt="1" />
+<Method Token="100663723" Name="IsAllRequiredComboboxesFilled" Variables="this;" ParamCnt="1" />
+<Method Token="100663724" Name="btnBolSave_Click" Variables="this;sender;e;_voy;_bol;V_2;c2;V_4;" ParamCnt="3" />
+<Method Token="100663725" Name="IsAllRequiredTextFilled" Variables="this;V_0;c1;V_2;V_3;c2;" ParamCnt="1" />
+<Method Token="100663726" Name="dgv_DataBindingComplete" Variables="this;sender;e;sumTotalNumber;sumTotalGrossWeight;V_2;r;V_4;V_5;row;" ParamCnt="3" />
+<Method Token="100663727" Name="dgv_CellContentClick" Variables="this;sender;e;BL;_deleteID;V_2;" ParamCnt="3" />
+<Method Token="100663728" Name="btnSearch_Click" Variables="this;sender;e;searchValue;valueResult;V_2;row;i;rowIndex;V_6;" ParamCnt="3" />
+<Method Token="100663729" Name="btnNext_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663730" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663731" Name="JustNumberWithDot_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663732" Name="cmb06_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663733" Name="cmb07_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663734" Name="cmb04_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663735" Name="cmb05_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663736" Name="cmb18_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663737" Name="Form3_Shown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663738" Name="HeavyLoad" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663739" Name="cmbVoy3_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663740" Name="cmb04_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663741" Name="cmb05_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663742" Name="bw_DoWork" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663743" Name="cmb18_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663744" Name="cmbVoy5_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663745" Name="SetTooltips" Variables="this;" ParamCnt="1" />
+<Method Token="100663746" Name="txt01_Leave" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663747" Name="txt29_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663748" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663749" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109049" Name="EditID" />
+<Field Token="67109050" Name="Mode" />
+<Field Token="67109051" Name="Total" />
+<Field Token="67109052" Name="Gross" />
+<Field Token="67109053" Name="DefValue" />
+<Field Token="67109054" Name="lblVoy3Tooltip" />
+<Field Token="67109055" Name="tCountryCityCode" />
+<Field Token="67109056" Name="tCountryCode" />
+<Field Token="67109057" Name="tPortCode3" />
+<Field Token="67109058" Name="tPortCode5" />
+<Field Token="67109059" Name="cPro" />
+<Field Token="67109060" Name="components" />
+<Field Token="67109061" Name="pbHeader" />
+<Field Token="67109062" Name="progressBar3" />
+<Field Token="67109063" Name="progressBar2" />
+<Field Token="67109064" Name="ProgressBar1" />
+<Field Token="67109065" Name="GroupBox1" />
+<Field Token="67109066" Name="cmbVoy5" />
+<Field Token="67109067" Name="txtVoy7" />
+<Field Token="67109068" Name="Label6" />
+<Field Token="67109069" Name="lblVoy3" />
+<Field Token="67109070" Name="btnSearch" />
+<Field Token="67109071" Name="txtSearch" />
+<Field Token="67109072" Name="gbBol" />
+<Field Token="67109073" Name="btnBolSave" />
+<Field Token="67109074" Name="TabControl1" />
+<Field Token="67109075" Name="TabPage1" />
+<Field Token="67109076" Name="dt08" />
+<Field Token="67109077" Name="Label19" />
+<Field Token="67109078" Name="Label20" />
+<Field Token="67109079" Name="Label22" />
+<Field Token="67109080" Name="cmb05" />
+<Field Token="67109081" Name="cmb18" />
+<Field Token="67109082" Name="Label14" />
+<Field Token="67109083" Name="cmb07" />
+<Field Token="67109084" Name="cmb06" />
+<Field Token="67109085" Name="Label9" />
+<Field Token="67109086" Name="Label10" />
+<Field Token="67109087" Name="cmb04" />
+<Field Token="67109088" Name="Label11" />
+<Field Token="67109089" Name="Label21" />
+<Field Token="67109090" Name="Label15" />
+<Field Token="67109091" Name="Label16" />
+<Field Token="67109092" Name="Label13" />
+<Field Token="67109093" Name="Label17" />
+<Field Token="67109094" Name="Label12" />
+<Field Token="67109095" Name="Label18" />
+<Field Token="67109096" Name="TabPage2" />
+<Field Token="67109097" Name="txt31" />
+<Field Token="67109098" Name="Label37" />
+<Field Token="67109099" Name="txt20" />
+<Field Token="67109100" Name="Label36" />
+<Field Token="67109101" Name="txt19" />
+<Field Token="67109102" Name="Label35" />
+<Field Token="67109103" Name="txt22" />
+<Field Token="67109104" Name="Label34" />
+<Field Token="67109105" Name="txt21" />
+<Field Token="67109106" Name="Label33" />
+<Field Token="67109107" Name="txt50" />
+<Field Token="67109108" Name="Label30" />
+<Field Token="67109109" Name="cmb58" />
+<Field Token="67109110" Name="Label29" />
+<Field Token="67109111" Name="cmb15" />
+<Field Token="67109112" Name="Label28" />
+<Field Token="67109113" Name="cmb16" />
+<Field Token="67109114" Name="Label26" />
+<Field Token="67109115" Name="cmb17" />
+<Field Token="67109116" Name="Label25" />
+<Field Token="67109117" Name="cmb11" />
+<Field Token="67109118" Name="Label27" />
+<Field Token="67109119" Name="cmb14" />
+<Field Token="67109120" Name="txt34" />
+<Field Token="67109121" Name="cmb10" />
+<Field Token="67109122" Name="txt33" />
+<Field Token="67109123" Name="Label23" />
+<Field Token="67109124" Name="Label24" />
+<Field Token="67109125" Name="Label31" />
+<Field Token="67109126" Name="Label32" />
+<Field Token="67109127" Name="txtVoy1" />
+<Field Token="67109128" Name="txtVoy2" />
+<Field Token="67109129" Name="Label8" />
+<Field Token="67109130" Name="dtVoy6" />
+<Field Token="67109131" Name="Label7" />
+<Field Token="67109132" Name="Label5" />
+<Field Token="67109133" Name="Label1" />
+<Field Token="67109134" Name="Label4" />
+<Field Token="67109135" Name="Label2" />
+<Field Token="67109136" Name="btnBack" />
+<Field Token="67109137" Name="btnNext" />
+<Field Token="67109138" Name="GroupBox3" />
+<Field Token="67109139" Name="Label39" />
+<Field Token="67109140" Name="Label38" />
+<Field Token="67109141" Name="txtTotalGross" />
+<Field Token="67109142" Name="txtTotalNumber" />
+<Field Token="67109143" Name="toolTip1" />
+<Field Token="67109144" Name="dgv" />
+<Field Token="67109145" Name="dataGridViewImageColumn1" />
+<Field Token="67109146" Name="dataGridViewImageColumn2" />
+<Field Token="67109147" Name="txtVoy10" />
+<Field Token="67109148" Name="txt01" />
+<Field Token="67109149" Name="txt02" />
+<Field Token="67109150" Name="txt03" />
+<Field Token="67109151" Name="txt26" />
+<Field Token="67109152" Name="txt27" />
+<Field Token="67109153" Name="txt44" />
+<Field Token="67109154" Name="txt29" />
+<Field Token="67109155" Name="txt53" />
+<Field Token="67109156" Name="ID" />
+<Field Token="67109157" Name="No" />
+<Field Token="67109158" Name="Col1" />
+<Field Token="67109159" Name="Col2" />
+<Field Token="67109160" Name="Col3" />
+<Field Token="67109161" Name="Col4" />
+<Field Token="67109162" Name="Col5" />
+<Field Token="67109163" Name="EditCol" />
+<Field Token="67109164" Name="DelCol" />
+<Field Token="67109165" Name="txtVoy3" />
+<Field Token="67109166" Name="txtVoy4" />
+<Field Token="67109167" Name="cmbVoy3" />
+<Field Token="67109168" Name="bw" />
+<Type Token="33554473" Name="Manifest.Form4" />
+<Method Token="100663750" Name=".ctor" Variables="this;_mode;" ParamCnt="2" />
+<Method Token="100663751" Name="GroupBox1_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663752" Name="Form6_Load" Variables="this;sender;e;scr;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663753" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663754" Name="dgv_DataBindingComplete" Variables="this;sender;e;sumTotalNumber;sumTotalGrossWeight;V_2;r;V_4;V_5;row;" ParamCnt="3" />
+<Method Token="100663755" Name="dgv_CellContentClick" Variables="this;sender;e;con;" ParamCnt="3" />
+<Method Token="100663756" Name="btnSave_Click" Variables="this;sender;e;ctr;cons;V_2;c2;V_4;" ParamCnt="3" />
+<Method Token="100663757" Name="IsAllRequiredTextFilled" Variables="this;V_0;c1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663758" Name="btnSearch_Click" Variables="this;sender;e;searchValue;valueResult;V_2;row;i;rowIndex;V_6;" ParamCnt="3" />
+<Method Token="100663759" Name="btnNext_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663760" Name="cmb07_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663761" Name="txtTotalNumber_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663762" Name="cmbCtr3_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663763" Name="txt05_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663764" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663765" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109169" Name="EditID" />
+<Field Token="67109170" Name="Mode" />
+<Field Token="67109171" Name="components" />
+<Field Token="67109172" Name="pbHeader" />
+<Field Token="67109173" Name="progressBar2" />
+<Field Token="67109174" Name="ProgressBar1" />
+<Field Token="67109175" Name="progressBar3" />
+<Field Token="67109176" Name="GroupBox1" />
+<Field Token="67109177" Name="cmbCtr3" />
+<Field Token="67109178" Name="btnSearch" />
+<Field Token="67109179" Name="txtSearch" />
+<Field Token="67109180" Name="GroupBox2" />
+<Field Token="67109181" Name="TabControl1" />
+<Field Token="67109182" Name="TabPage1" />
+<Field Token="67109183" Name="cmbBlNo" />
+<Field Token="67109184" Name="btnSave" />
+<Field Token="67109185" Name="cmb08" />
+<Field Token="67109186" Name="cmb07" />
+<Field Token="67109187" Name="Label11" />
+<Field Token="67109188" Name="Label8" />
+<Field Token="67109189" Name="Label10" />
+<Field Token="67109190" Name="Label9" />
+<Field Token="67109191" Name="Label7" />
+<Field Token="67109192" Name="Label6" />
+<Field Token="67109193" Name="Label5" />
+<Field Token="67109194" Name="TabPage2" />
+<Field Token="67109195" Name="PictureBox2" />
+<Field Token="67109196" Name="Label17" />
+<Field Token="67109197" Name="txt09" />
+<Field Token="67109198" Name="Label16" />
+<Field Token="67109199" Name="txt01" />
+<Field Token="67109200" Name="Label15" />
+<Field Token="67109201" Name="txt02" />
+<Field Token="67109202" Name="cmb18" />
+<Field Token="67109203" Name="cmb12" />
+<Field Token="67109204" Name="Label14" />
+<Field Token="67109205" Name="Label13" />
+<Field Token="67109206" Name="Label12" />
+<Field Token="67109207" Name="txt11" />
+<Field Token="67109208" Name="txtCtr1" />
+<Field Token="67109209" Name="txtCtr2" />
+<Field Token="67109210" Name="txtCtr4" />
+<Field Token="67109211" Name="Label4" />
+<Field Token="67109212" Name="Label1" />
+<Field Token="67109213" Name="Label3" />
+<Field Token="67109214" Name="Label2" />
+<Field Token="67109215" Name="GroupBox3" />
+<Field Token="67109216" Name="Label39" />
+<Field Token="67109217" Name="Label38" />
+<Field Token="67109218" Name="txtTotalGross" />
+<Field Token="67109219" Name="txtTotalNumber" />
+<Field Token="67109220" Name="btnBack" />
+<Field Token="67109221" Name="btnNext" />
+<Field Token="67109222" Name="toolTip1" />
+<Field Token="67109223" Name="dgv" />
+<Field Token="67109224" Name="txt03" />
+<Field Token="67109225" Name="txt06" />
+<Field Token="67109226" Name="txt05" />
+<Field Token="67109227" Name="txt10" />
+<Field Token="67109228" Name="label18" />
+<Field Token="67109229" Name="lblCtr3" />
+<Field Token="67109230" Name="ID" />
+<Field Token="67109231" Name="No" />
+<Field Token="67109232" Name="Col1" />
+<Field Token="67109233" Name="Col2" />
+<Field Token="67109234" Name="Col3" />
+<Field Token="67109235" Name="Col4" />
+<Field Token="67109236" Name="Col5" />
+<Field Token="67109237" Name="EditCol" />
+<Field Token="67109238" Name="DelCol" />
+<Field Token="67109239" Name="chkFake" />
+<Type Token="33554474" Name="Manifest.Form5" />
+<Method Token="100663766" Name=".ctor" Variables="this;_mode;" ParamCnt="2" />
+<Method Token="100663767" Name="Form9_Load" Variables="this;sender;e;scr;V_1;" ParamCnt="3" />
+<Method Token="100663768" Name="btnExit_Click" Variables="this;sender;e;msg;" ParamCnt="3" />
+<Method Token="100663769" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663770" Name="btnSave_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663771" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663772" Name="btnZipfile_Click" Variables="this;sender;e;V_0;BolItem;V_2;connItem;BolItem;V_5;CtrItem;connItems;ex;" ParamCnt="3" />
+<Method Token="100663773" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663774" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109240" Name="Mode" />
+<Field Token="67109241" Name="FilePath" />
+<Field Token="67109242" Name="ZipPath" />
+<Field Token="67109243" Name="outputfile" />
+<Field Token="67109244" Name="components" />
+<Field Token="67109245" Name="pbHeader" />
+<Field Token="67109246" Name="progressBar3" />
+<Field Token="67109247" Name="progressBar2" />
+<Field Token="67109248" Name="ProgressBar1" />
+<Field Token="67109249" Name="pbSave" />
+<Field Token="67109250" Name="btnBack" />
+<Field Token="67109251" Name="btnExit" />
+<Field Token="67109252" Name="btnSave" />
+<Field Token="67109253" Name="DataSaveDialog" />
+<Field Token="67109254" Name="zipDialog" />
+<Field Token="67109255" Name="folderBrowserDialog1" />
+<Field Token="67109256" Name="btnZipfile" />
+<Field Token="67109257" Name="timer1" />
+<Type Token="33554475" Name="Manifest.Form6" />
+<Method Token="100663775" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663776" Name="txtTotalNumber_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663777" Name="btnNext_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663778" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663779" Name="IsAllRequiredTextFilled" Variables="this;V_0;c1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663780" Name="gbKalaStatus" Variables="this;" ParamCnt="1" />
+<Method Token="100663781" Name="Form6_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663782" Name="loadTooltips" Variables="this;" ParamCnt="1" />
+<Method Token="100663783" Name="dgvContainer_DataBindingComplete" Variables="this;sender;e;V_0;r;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663784" Name="dgvContainer_CellContentClick" Variables="this;sender;e;ctr;ex;ex;" ParamCnt="3" />
+<Method Token="100663785" Name="RefreshCTR_cmb" Variables="this;" ParamCnt="1" />
+<Method Token="100663786" Name="gbKala_EnabledChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663787" Name="btnSaveKala_Click" Variables="this;sender;e;cons;V_1;c1;V_3;" ParamCnt="3" />
+<Method Token="100663788" Name="SetTabPage2Defaults" Variables="this;" ParamCnt="1" />
+<Method Token="100663789" Name="dgvKala_CellContentClick" Variables="this;sender;e;conn;ex;" ParamCnt="3" />
+<Method Token="100663790" Name="dgvKala_DataBindingComplete" Variables="this;sender;e;sumTotalNumber;sumTotalGrossWeight;V_2;r;V_4;V_5;row;" ParamCnt="3" />
+<Method Token="100663791" Name="cmb07_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663792" Name="btnRefreshKala_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663793" Name="dgvContainer_RowsAdded" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663794" Name="dgvContainer_RowsRemoved" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663795" Name="txt05_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663796" Name="txtCtr1_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663797" Name="cmbCtr3_Leave" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663798" Name="btnSaveContainer_Click" Variables="this;sender;e;ctr;V_1;c;V_3;" ParamCnt="3" />
+<Method Token="100663799" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663800" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109258" Name="ContainerEditID" />
+<Field Token="67109259" Name="KalaEditID" />
+<Field Token="67109260" Name="components" />
+<Field Token="67109261" Name="pbHeader" />
+<Field Token="67109262" Name="ProgressBar1" />
+<Field Token="67109263" Name="progressBar2" />
+<Field Token="67109264" Name="progressBar3" />
+<Field Token="67109265" Name="GroupBox3" />
+<Field Token="67109266" Name="Label39" />
+<Field Token="67109267" Name="Label38" />
+<Field Token="67109268" Name="txtTotalGross" />
+<Field Token="67109269" Name="txtTotalNumber" />
+<Field Token="67109270" Name="btnNext" />
+<Field Token="67109271" Name="btnBack" />
+<Field Token="67109272" Name="label18" />
+<Field Token="67109273" Name="cmbBlNo" />
+<Field Token="67109274" Name="Label5" />
+<Field Token="67109275" Name="cmbCtr3" />
+<Field Token="67109276" Name="txtCtr1" />
+<Field Token="67109277" Name="txtCtr2" />
+<Field Token="67109278" Name="txtCtr4" />
+<Field Token="67109279" Name="Label4" />
+<Field Token="67109280" Name="Label1" />
+<Field Token="67109281" Name="lblCtr3" />
+<Field Token="67109282" Name="Label3" />
+<Field Token="67109283" Name="Label2" />
+<Field Token="67109284" Name="cmbContainerNumber" />
+<Field Token="67109285" Name="label12" />
+<Field Token="67109286" Name="btnSaveContainer" />
+<Field Token="67109287" Name="tabControl1" />
+<Field Token="67109288" Name="tabRequired" />
+<Field Token="67109289" Name="tabOther" />
+<Field Token="67109290" Name="btnSaveKala" />
+<Field Token="67109291" Name="Label6" />
+<Field Token="67109292" Name="Label7" />
+<Field Token="67109293" Name="Label9" />
+<Field Token="67109294" Name="txt10" />
+<Field Token="67109295" Name="txt05" />
+<Field Token="67109296" Name="Label8" />
+<Field Token="67109297" Name="txt06" />
+<Field Token="67109298" Name="Label11" />
+<Field Token="67109299" Name="txt03" />
+<Field Token="67109300" Name="cmb07" />
+<Field Token="67109301" Name="cmb08" />
+<Field Token="67109302" Name="Label10" />
+<Field Token="67109303" Name="cmb18" />
+<Field Token="67109304" Name="cmb12" />
+<Field Token="67109305" Name="label15" />
+<Field Token="67109306" Name="label16" />
+<Field Token="67109307" Name="label17" />
+<Field Token="67109308" Name="txt11" />
+<Field Token="67109309" Name="label19" />
+<Field Token="67109310" Name="txt09" />
+<Field Token="67109311" Name="label20" />
+<Field Token="67109312" Name="txt01" />
+<Field Token="67109313" Name="label21" />
+<Field Token="67109314" Name="txt02" />
+<Field Token="67109315" Name="gbContainer" />
+<Field Token="67109316" Name="gbKala" />
+<Field Token="67109317" Name="dgvKala" />
+<Field Token="67109318" Name="dgvContainer" />
+<Field Token="67109319" Name="btnSearch" />
+<Field Token="67109320" Name="txtSearch" />
+<Field Token="67109321" Name="btnRefreshKala" />
+<Field Token="67109322" Name="KALA_ID" />
+<Field Token="67109323" Name="Kala_No" />
+<Field Token="67109324" Name="Column1" />
+<Field Token="67109325" Name="Column2" />
+<Field Token="67109326" Name="Column3" />
+<Field Token="67109327" Name="Column4" />
+<Field Token="67109328" Name="Column5" />
+<Field Token="67109329" Name="KalaEditCol" />
+<Field Token="67109330" Name="KalaDelCol" />
+<Field Token="67109331" Name="ID" />
+<Field Token="67109332" Name="No" />
+<Field Token="67109333" Name="Col1" />
+<Field Token="67109334" Name="Col2" />
+<Field Token="67109335" Name="Col3" />
+<Field Token="67109336" Name="Col4" />
+<Field Token="67109337" Name="Col5" />
+<Field Token="67109338" Name="EditCol" />
+<Field Token="67109339" Name="DelCol" />
+<Field Token="67109340" Name="toolTip1" />
+<Type Token="33554476" Name="Manifest.frmCpp1" />
+<Method Token="100663801" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663802" Name="frmCpp1_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663803" Name="btnBack_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663804" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663805" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663806" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109341" Name="components" />
+<Field Token="67109342" Name="pictureBox1" />
+<Field Token="67109343" Name="btnSearch" />
+<Field Token="67109344" Name="btnNote" />
+<Field Token="67109345" Name="btnExit" />
+<Field Token="67109346" Name="btnBack" />
+<Field Token="67109347" Name="label1" />
+<Field Token="67109348" Name="label2" />
+<Field Token="67109349" Name="txtTarefehNumber" />
+<Field Token="67109350" Name="txtKalaKind" />
+<Field Token="67109351" Name="dgv" />
+<Field Token="67109352" Name="ID" />
+<Field Token="67109353" Name="No" />
+<Field Token="67109354" Name="col1" />
+<Field Token="67109355" Name="Col2" />
+<Field Token="67109356" Name="Col3" />
+<Field Token="67109357" Name="Col4" />
+<Field Token="67109358" Name="Col5" />
+<Field Token="67109359" Name="Col6" />
+<Field Token="67109360" Name="Col7" />
+<Field Token="67109361" Name="cmbSearch" />
+<Field Token="67109362" Name="txtSearch" />
+<Type Token="33554477" Name="Manifest.frmCpp2" />
+<Method Token="100663807" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663808" Name="frmCpp2_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663809" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663810" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663811" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109363" Name="components" />
+<Field Token="67109364" Name="groupBox1" />
+<Field Token="67109365" Name="label2" />
+<Field Token="67109366" Name="label1" />
+<Field Token="67109367" Name="groupBox2" />
+<Field Token="67109368" Name="label5" />
+<Field Token="67109369" Name="label4" />
+<Field Token="67109370" Name="label3" />
+<Field Token="67109371" Name="label7" />
+<Field Token="67109372" Name="label6" />
+<Field Token="67109373" Name="textBox2" />
+<Field Token="67109374" Name="textBox1" />
+<Field Token="67109375" Name="textBox4" />
+<Field Token="67109376" Name="textBox3" />
+<Field Token="67109377" Name="richTextBox2" />
+<Field Token="67109378" Name="richTextBox1" />
+<Field Token="67109379" Name="groupBox3" />
+<Field Token="67109380" Name="richTextBox4" />
+<Field Token="67109381" Name="label9" />
+<Field Token="67109382" Name="groupBox4" />
+<Field Token="67109383" Name="richTextBox3" />
+<Field Token="67109384" Name="label8" />
+<Field Token="67109385" Name="btnExit" />
+<Type Token="33554478" Name="Manifest.frmLicense" />
+<Method Token="100663812" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663813" Name="frmLicense_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663814" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663815" Name="GetNistTime" Variables="dt;" ParamCnt="0" />
+<Method Token="100663816" Name="btnValidate_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663817" Name="txtValidation_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663818" Name="CheckForInternetConnection" Variables="client;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663819" Name="CheckTexboxes" Variables="this;" ParamCnt="1" />
+<Method Token="100663820" Name="btnSend_Click" Variables="this;sender;e;MailBody;" ParamCnt="3" />
+<Method Token="100663821" Name="txtLineCode_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663822" Name="txtLineCode_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663823" Name="btnBuyLic_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663824" Name="btnHelp_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663825" Name="txtBuyLic_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663826" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663827" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109386" Name="license" />
+<Field Token="67109387" Name="ValidationKey" />
+<Field Token="67109388" Name="components" />
+<Field Token="67109389" Name="btnExit" />
+<Field Token="67109390" Name="btnValidate" />
+<Field Token="67109391" Name="label1" />
+<Field Token="67109392" Name="label2" />
+<Field Token="67109393" Name="label4" />
+<Field Token="67109394" Name="label5" />
+<Field Token="67109395" Name="label6" />
+<Field Token="67109396" Name="txtMachineCode" />
+<Field Token="67109397" Name="txtLineCode" />
+<Field Token="67109398" Name="txtValidation" />
+<Field Token="67109399" Name="txtCompany" />
+<Field Token="67109400" Name="txtWinVer" />
+<Field Token="67109401" Name="txtWinName" />
+<Field Token="67109402" Name="label7" />
+<Field Token="67109403" Name="label8" />
+<Field Token="67109404" Name="txtEmail" />
+<Field Token="67109405" Name="btnSend" />
+<Field Token="67109406" Name="label10" />
+<Field Token="67109407" Name="label3" />
+<Field Token="67109408" Name="lblInternetStatus" />
+<Field Token="67109409" Name="label9" />
+<Field Token="67109410" Name="lblDateTime" />
+<Field Token="67109411" Name="txtBuyLic" />
+<Field Token="67109412" Name="label11" />
+<Field Token="67109413" Name="groupBox1" />
+<Field Token="67109414" Name="groupBox2" />
+<Field Token="67109415" Name="btnBuyLic" />
+<Field Token="67109416" Name="btnHelp" />
+<Type Token="33554479" Name="Manifest.frmWaiting" />
+<Method Token="100663828" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663829" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663830" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109417" Name="components" />
+<Field Token="67109418" Name="pictureBox1" />
+<Field Token="67109419" Name="label1" />
+<Type Token="33554480" Name="Manifest.Program" />
+<Method Token="100663831" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554481" Name="Manifest.Properties.Resources" />
+<Method Token="100663832" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663833" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663834" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663835" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663836" Name="get_Airplan1" Variables="" ParamCnt="0" />
+<Method Token="100663837" Name="get_Airplan2" Variables="" ParamCnt="0" />
+<Method Token="100663838" Name="get_ajaxloading" Variables="" ParamCnt="0" />
+<Method Token="100663839" Name="get_cover1" Variables="" ParamCnt="0" />
+<Method Token="100663840" Name="get_cover2" Variables="" ParamCnt="0" />
+<Method Token="100663841" Name="get_cover3" Variables="" ParamCnt="0" />
+<Method Token="100663842" Name="get_cover4" Variables="" ParamCnt="0" />
+<Method Token="100663843" Name="get_Del" Variables="" ParamCnt="0" />
+<Method Token="100663844" Name="get_Edit" Variables="" ParamCnt="0" />
+<Method Token="100663845" Name="get_Forklift" Variables="" ParamCnt="0" />
+<Method Token="100663846" Name="get_Heder01" Variables="" ParamCnt="0" />
+<Method Token="100663847" Name="get_Heder02" Variables="" ParamCnt="0" />
+<Method Token="100663848" Name="get_Heder1" Variables="" ParamCnt="0" />
+<Method Token="100663849" Name="get_Heder2" Variables="" ParamCnt="0" />
+<Method Token="100663850" Name="get_Heder3" Variables="" ParamCnt="0" />
+<Method Token="100663851" Name="get_Heder4" Variables="" ParamCnt="0" />
+<Method Token="100663852" Name="get_Save" Variables="" ParamCnt="0" />
+<Method Token="100663853" Name="get_Ship1" Variables="" ParamCnt="0" />
+<Method Token="100663854" Name="get_Ship2" Variables="" ParamCnt="0" />
+<Method Token="100663855" Name="get_Trial" Variables="" ParamCnt="0" />
+<Method Token="100663856" Name="get_Truck1" Variables="" ParamCnt="0" />
+<Method Token="100663857" Name="get_Truck2" Variables="" ParamCnt="0" />
+<Field Token="67109420" Name="resourceMan" />
+<Field Token="67109421" Name="resourceCulture" />
+<Type Token="33554482" Name="Manifest.Properties.Settings" />
+<Method Token="100663858" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663859" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663860" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663861" Name="get_LineCode" Variables="this;" ParamCnt="1" />
+<Method Token="100663862" Name="set_LineCode" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663863" Name="get_FileName" Variables="this;" ParamCnt="1" />
+<Method Token="100663864" Name="set_FileName" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663865" Name="get_Company" Variables="this;" ParamCnt="1" />
+<Method Token="100663866" Name="set_Company" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663867" Name="get_OfflineCount" Variables="this;" ParamCnt="1" />
+<Method Token="100663868" Name="set_OfflineCount" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109422" Name="defaultInstance" />
+<Type Token="33554483" Name="Manifest.CONN/&lt;&gt;c" />
+<Method Token="100663869" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663870" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663871" Name="&lt;GetAllDataSortedByBolNo&gt;b__1_0" Variables="this;x;" ParamCnt="2" />
+<Field Token="67109423" Name="&lt;&gt;9" />
+<Field Token="67109424" Name="&lt;&gt;9__1_0" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663303" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Airlines.cs" NewName="File0" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\BOL.cs" NewName="File1" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CONN.cs" NewName="File2" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CountryCityCodes.cs" NewName="File3" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CountryCodes.cs" NewName="File4" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\CTR.cs" NewName="File5" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\DataAccess.cs" NewName="File6" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\EX_IM98.cs" NewName="File7" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PackageCodes.cs" NewName="File8" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PortCodes3.cs" NewName="File9" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\PortCodes5.cs" NewName="File10" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Setting.cs" NewName="File11" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\Utilities.cs" NewName="File12" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\VOY.cs" NewName="File13" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\WriteClass.cs" NewName="File14" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Classes\clsProgress.cs" NewName="File15" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form1.cs" NewName="File16" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form1.Designer.cs" NewName="File17" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form2.cs" NewName="File18" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form2.Designer.cs" NewName="File19" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form3.cs" NewName="File20" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form3.Designer.cs" NewName="File21" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form4.cs" NewName="File22" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form4.Designer.cs" NewName="File23" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form5.cs" NewName="File24" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form5.Designer.cs" NewName="File25" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form6.cs" NewName="File26" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Form6.Designer.cs" NewName="File27" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp1.cs" NewName="File28" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp1.Designer.cs" NewName="File29" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp2.cs" NewName="File30" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmCpp2.Designer.cs" NewName="File31" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmLicense.cs" NewName="File32" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmLicense.Designer.cs" NewName="File33" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmWaiting.Designer.cs" NewName="File34" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\frmWaiting.cs" NewName="File35" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Program.cs" NewName="File36" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Properties\Resources.Designer.cs" NewName="File37" />
+<File OldName="C:\Users\Ehsan\source\repos\Manifest\Manifest\Properties\Settings.Designer.cs" NewName="File38" />
+</Mappings>

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manifest", "Manifest\Manifest.csproj", "{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{297FAB19-001E-4294-B409-0F9B8E46182B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD0795D-D78D-4BA1-8F85-2388BA6A5BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146A59CD-B9AB-42CE-B4D1-13057B281D45}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/shahab2025
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Manifest\\Manifest.csproj
+		SccProjectName1 = Manifest
+		SccLocalPath1 = Manifest
+	EndGlobalSection
+EndGlobal
