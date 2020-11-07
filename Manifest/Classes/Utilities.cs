@@ -84,5 +84,22 @@ namespace Manifest
                 SendError("Error in Capture", "Win Name:" + Environment.MachineName);
             }
         }
+
+        public static bool CheckForInternetConnection()
+        {
+            try
+            {
+                using (WebClient client = new WebClient())
+                //using (client.OpenRead("http://clients3.google.com/generate_204"))
+                using (client.OpenRead("https://www.time.ir/"))
+                {
+                    return true;
+                }
+            }
+            catch
+            {
+                return false;
+            }
+        }
     }
 }

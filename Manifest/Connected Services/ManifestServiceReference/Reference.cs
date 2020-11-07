@@ -72,6 +72,13 @@ namespace Manifest.ManifestServiceReference {
         System.Threading.Tasks.Task<Manifest.ManifestServiceReference.ValidateDaysResponse> ValidateDaysAsync(Manifest.ManifestServiceReference.ValidateDaysRequest request);
         
         // CODEGEN: Generating message contract since element name lineCode from namespace http://e-manifest.ir/ is not marked nillable
+        [System.ServiceModel.OperationContractAttribute(Action="http://e-manifest.ir/ValidatePaymentNumber", ReplyAction="*")]
+        Manifest.ManifestServiceReference.ValidatePaymentNumberResponse ValidatePaymentNumber(Manifest.ManifestServiceReference.ValidatePaymentNumberRequest request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://e-manifest.ir/ValidatePaymentNumber", ReplyAction="*")]
+        System.Threading.Tasks.Task<Manifest.ManifestServiceReference.ValidatePaymentNumberResponse> ValidatePaymentNumberAsync(Manifest.ManifestServiceReference.ValidatePaymentNumberRequest request);
+        
+        // CODEGEN: Generating message contract since element name lineCode from namespace http://e-manifest.ir/ is not marked nillable
         [System.ServiceModel.OperationContractAttribute(Action="http://e-manifest.ir/CompanyName", ReplyAction="*")]
         Manifest.ManifestServiceReference.CompanyNameResponse CompanyName(Manifest.ManifestServiceReference.CompanyNameRequest request);
         
@@ -703,6 +710,78 @@ namespace Manifest.ManifestServiceReference {
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
     [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ValidatePaymentNumberRequest {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ValidatePaymentNumber", Namespace="http://e-manifest.ir/", Order=0)]
+        public Manifest.ManifestServiceReference.ValidatePaymentNumberRequestBody Body;
+        
+        public ValidatePaymentNumberRequest() {
+        }
+        
+        public ValidatePaymentNumberRequest(Manifest.ManifestServiceReference.ValidatePaymentNumberRequestBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://e-manifest.ir/")]
+    public partial class ValidatePaymentNumberRequestBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public string lineCode;
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=1)]
+        public string paymentNumber;
+        
+        public ValidatePaymentNumberRequestBody() {
+        }
+        
+        public ValidatePaymentNumberRequestBody(string lineCode, string paymentNumber) {
+            this.lineCode = lineCode;
+            this.paymentNumber = paymentNumber;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ValidatePaymentNumberResponse {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ValidatePaymentNumberResponse", Namespace="http://e-manifest.ir/", Order=0)]
+        public Manifest.ManifestServiceReference.ValidatePaymentNumberResponseBody Body;
+        
+        public ValidatePaymentNumberResponse() {
+        }
+        
+        public ValidatePaymentNumberResponse(Manifest.ManifestServiceReference.ValidatePaymentNumberResponseBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://e-manifest.ir/")]
+    public partial class ValidatePaymentNumberResponseBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(Order=0)]
+        public bool ValidatePaymentNumberResult;
+        
+        public ValidatePaymentNumberResponseBody() {
+        }
+        
+        public ValidatePaymentNumberResponseBody(bool ValidatePaymentNumberResult) {
+            this.ValidatePaymentNumberResult = ValidatePaymentNumberResult;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
     public partial class CompanyNameRequest {
         
         [System.ServiceModel.MessageBodyMemberAttribute(Name="CompanyName", Namespace="http://e-manifest.ir/", Order=0)]
@@ -1030,6 +1109,33 @@ namespace Manifest.ManifestServiceReference {
             inValue.Body = new Manifest.ManifestServiceReference.ValidateDaysRequestBody();
             inValue.Body.lineCode = lineCode;
             return ((Manifest.ManifestServiceReference.ManifestWSSoap)(this)).ValidateDaysAsync(inValue);
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        Manifest.ManifestServiceReference.ValidatePaymentNumberResponse Manifest.ManifestServiceReference.ManifestWSSoap.ValidatePaymentNumber(Manifest.ManifestServiceReference.ValidatePaymentNumberRequest request) {
+            return base.Channel.ValidatePaymentNumber(request);
+        }
+        
+        public bool ValidatePaymentNumber(string lineCode, string paymentNumber) {
+            Manifest.ManifestServiceReference.ValidatePaymentNumberRequest inValue = new Manifest.ManifestServiceReference.ValidatePaymentNumberRequest();
+            inValue.Body = new Manifest.ManifestServiceReference.ValidatePaymentNumberRequestBody();
+            inValue.Body.lineCode = lineCode;
+            inValue.Body.paymentNumber = paymentNumber;
+            Manifest.ManifestServiceReference.ValidatePaymentNumberResponse retVal = ((Manifest.ManifestServiceReference.ManifestWSSoap)(this)).ValidatePaymentNumber(inValue);
+            return retVal.Body.ValidatePaymentNumberResult;
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        System.Threading.Tasks.Task<Manifest.ManifestServiceReference.ValidatePaymentNumberResponse> Manifest.ManifestServiceReference.ManifestWSSoap.ValidatePaymentNumberAsync(Manifest.ManifestServiceReference.ValidatePaymentNumberRequest request) {
+            return base.Channel.ValidatePaymentNumberAsync(request);
+        }
+        
+        public System.Threading.Tasks.Task<Manifest.ManifestServiceReference.ValidatePaymentNumberResponse> ValidatePaymentNumberAsync(string lineCode, string paymentNumber) {
+            Manifest.ManifestServiceReference.ValidatePaymentNumberRequest inValue = new Manifest.ManifestServiceReference.ValidatePaymentNumberRequest();
+            inValue.Body = new Manifest.ManifestServiceReference.ValidatePaymentNumberRequestBody();
+            inValue.Body.lineCode = lineCode;
+            inValue.Body.paymentNumber = paymentNumber;
+            return ((Manifest.ManifestServiceReference.ManifestWSSoap)(this)).ValidatePaymentNumberAsync(inValue);
         }
         
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]

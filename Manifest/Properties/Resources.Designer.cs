@@ -19,7 +19,7 @@ namespace Manifest.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -86,6 +86,16 @@ namespace Manifest.Properties {
         internal static System.Drawing.Bitmap ajaxloading {
             get {
                 object obj = ResourceManager.GetObject("ajaxloading", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Close_icon2 {
+            get {
+                object obj = ResourceManager.GetObject("Close-icon2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -276,6 +286,16 @@ namespace Manifest.Properties {
         internal static System.Drawing.Bitmap Phone_2 {
             get {
                 object obj = ResourceManager.GetObject("Phone 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RegisterBG {
+            get {
+                object obj = ResourceManager.GetObject("RegisterBG", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

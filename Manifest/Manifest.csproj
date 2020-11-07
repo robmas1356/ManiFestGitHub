@@ -346,6 +346,9 @@
     <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.ValidateDaysResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Connected Services\ManifestServiceReference\Manifest.ManifestServiceReference.ValidatePaymentNumberResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Connected Services\ManifestServiceReference\ManifestWS.wsdl" />
     <None Include="Connected Services\ServiceReference\Manifest.ServiceReference.GetUnverifiedTransactionsResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -462,6 +465,8 @@
     <None Include="Resources\Customs Logo.png" />
     <None Include="Resources\Cover 99 BW.jpg" />
     <None Include="Resources\Cover 99 Color.jpg" />
+    <None Include="Resources\RegisterBG.jpg" />
+    <None Include="Resources\Close-icon2.png" />
     <Content Include="x64\SQLite.Interop.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

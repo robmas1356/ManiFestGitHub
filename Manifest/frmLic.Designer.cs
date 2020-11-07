@@ -53,11 +53,11 @@
             this.grpRegister = new System.Windows.Forms.GroupBox();
             this.flp = new System.Windows.Forms.FlowLayoutPanel();
             this.grbRenew = new System.Windows.Forms.GroupBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.btnSwitch = new System.Windows.Forms.Button();
+            this.btnAddClient = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.txtRenewLineCode = new System.Windows.Forms.TextBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.btnAddClient = new System.Windows.Forms.Button();
-            this.btnSwitch = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtQty)).BeginInit();
             this.grpRegister.SuspendLayout();
@@ -318,7 +318,7 @@
             this.flp.Location = new System.Drawing.Point(0, 0);
             this.flp.Name = "flp";
             this.flp.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.flp.Size = new System.Drawing.Size(317, 399);
+            this.flp.Size = new System.Drawing.Size(317, 785);
             this.flp.TabIndex = 24;
             // 
             // grbRenew
@@ -333,6 +333,39 @@
             this.grbRenew.Size = new System.Drawing.Size(302, 357);
             this.grbRenew.TabIndex = 25;
             this.grbRenew.TabStop = false;
+            // 
+            // label10
+            // 
+            this.label10.Location = new System.Drawing.Point(6, 19);
+            this.label10.Name = "label10";
+            this.label10.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.label10.Size = new System.Drawing.Size(282, 101);
+            this.label10.TabIndex = 3;
+            this.label10.Text = resources.GetString("label10.Text");
+            // 
+            // btnSwitch
+            // 
+            this.btnSwitch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnSwitch.Location = new System.Drawing.Point(22, 290);
+            this.btnSwitch.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.btnSwitch.Name = "btnSwitch";
+            this.btnSwitch.Size = new System.Drawing.Size(263, 27);
+            this.btnSwitch.TabIndex = 9;
+            this.btnSwitch.Text = "پرداخت هزینه لایسنس";
+            this.btnSwitch.UseVisualStyleBackColor = true;
+            this.btnSwitch.Click += new System.EventHandler(this.btnSwitch_Click);
+            // 
+            // btnAddClient
+            // 
+            this.btnAddClient.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnAddClient.Location = new System.Drawing.Point(22, 174);
+            this.btnAddClient.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.btnAddClient.Name = "btnAddClient";
+            this.btnAddClient.Size = new System.Drawing.Size(263, 27);
+            this.btnAddClient.TabIndex = 9;
+            this.btnAddClient.Text = "ثبت کامپیوتر برای شناسه شرکت";
+            this.btnAddClient.UseVisualStyleBackColor = true;
+            this.btnAddClient.Click += new System.EventHandler(this.btnAddClient_Click);
             // 
             // label6
             // 
@@ -352,44 +385,11 @@
             this.txtRenewLineCode.TabIndex = 1;
             this.txtRenewLineCode.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // label10
-            // 
-            this.label10.Location = new System.Drawing.Point(6, 19);
-            this.label10.Name = "label10";
-            this.label10.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label10.Size = new System.Drawing.Size(282, 101);
-            this.label10.TabIndex = 3;
-            this.label10.Text = resources.GetString("label10.Text");
-            // 
-            // btnAddClient
-            // 
-            this.btnAddClient.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnAddClient.Location = new System.Drawing.Point(22, 174);
-            this.btnAddClient.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.btnAddClient.Name = "btnAddClient";
-            this.btnAddClient.Size = new System.Drawing.Size(263, 27);
-            this.btnAddClient.TabIndex = 9;
-            this.btnAddClient.Text = "ثبت کامپیوتر برای شناسه شرکت";
-            this.btnAddClient.UseVisualStyleBackColor = true;
-            this.btnAddClient.Click += new System.EventHandler(this.btnAddClient_Click);
-            // 
-            // btnSwitch
-            // 
-            this.btnSwitch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnSwitch.Location = new System.Drawing.Point(22, 290);
-            this.btnSwitch.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.btnSwitch.Name = "btnSwitch";
-            this.btnSwitch.Size = new System.Drawing.Size(263, 27);
-            this.btnSwitch.TabIndex = 9;
-            this.btnSwitch.Text = "پرداخت هزینه لایسنس";
-            this.btnSwitch.UseVisualStyleBackColor = true;
-            this.btnSwitch.Click += new System.EventHandler(this.btnSwitch_Click);
-            // 
             // frmLic
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(317, 399);
+            this.ClientSize = new System.Drawing.Size(317, 785);
             this.ControlBox = false;
             this.Controls.Add(this.flp);
             this.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));

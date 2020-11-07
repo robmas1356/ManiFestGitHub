@@ -45,7 +45,8 @@ namespace Manifest
                 if (!CryptoLicensing(Properties.Settings.Default.IsNewLic))
                 //new frmLicense().ShowDialog();
                 {
-                    new frmLic().ShowDialog();
+                    // new frmLic().ShowDialog();
+                    new frmOpenLicense().ShowDialog();
                     Application.Exit();
                 }
             }
@@ -73,7 +74,25 @@ namespace Manifest
                 {
                     int days = manifestWS.ValidateDays(Properties.Settings.Default.LineCode);
                     //Console.WriteLine("Days:"+days.ToString());
-                    return days > 0 ? true : false;
+                    if( days > 0)
+                    {
+                        if (Properties.Settings.Default.OfflineCount != 0)
+                        {
+                            Properties.Settings.Default.OfflineCount = 0;
+                            Properties.Settings.Default.Save();
+                        }
+                        return true;
+                    }
+                    else
+                    {
+                        Properties.Settings.Default.OfflineCount += 1;
+                        Properties.Settings.Default.Save();
+
+                        if (Properties.Settings.Default.OfflineCount < 5)
+                            return true;
+                        else
+                            return false;
+                    }
                 }
                 catch (Exception ex)
                 {

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="4ThoeRTcamAU7zrri085qZZU5YU=">
+<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="55K64e3EFpG4Eyo6nD2cwcb5FiPrhRiRkmC4ReV7lbg=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="basicHttpBinding" name="ManifestWSSoap">
       <properties>

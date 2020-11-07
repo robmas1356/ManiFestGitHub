@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Manifest
@@ -17,9 +10,36 @@ namespace Manifest
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnActive_Click(object sender, EventArgs e)
         {
+            Hide();
+            DialogResult Res = new frmActiveLicense().ShowDialog();
+            Show();
+        }
 
+        private void pbClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnBuy_Click(object sender, EventArgs e)
+        {
+            Hide();
+            DialogResult Res = new frmBuyLicense(false).ShowDialog();
+            Show();
+        }
+
+        private void btnRenew_Click(object sender, EventArgs e)
+        {
+            Hide();
+            DialogResult Res = new frmBuyLicense(true).ShowDialog();
+            Show();
+        }
+
+        private void frmOpenLicense_Load(object sender, EventArgs e)
+        {
+            Properties.Settings.Default.IsNewLic = true;
+            Properties.Settings.Default.Save();
         }
     }
 }

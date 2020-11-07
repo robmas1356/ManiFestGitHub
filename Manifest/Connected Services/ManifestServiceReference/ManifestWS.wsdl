@@ -133,6 +133,21 @@
           </s:sequence>
         </s:complexType>
       </s:element>
+      <s:element name="ValidatePaymentNumber">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lineCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="paymentNumber" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidatePaymentNumberResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidatePaymentNumberResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
       <s:element name="CompanyName">
         <s:complexType>
           <s:sequence>
@@ -197,6 +212,12 @@
   <wsdl:message name="ValidateDaysSoapOut">
     <wsdl:part name="parameters" element="tns:ValidateDaysResponse" />
   </wsdl:message>
+  <wsdl:message name="ValidatePaymentNumberSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidatePaymentNumber" />
+  </wsdl:message>
+  <wsdl:message name="ValidatePaymentNumberSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidatePaymentNumberResponse" />
+  </wsdl:message>
   <wsdl:message name="CompanyNameSoapIn">
     <wsdl:part name="parameters" element="tns:CompanyName" />
   </wsdl:message>
@@ -235,6 +256,10 @@
     <wsdl:operation name="ValidateDays">
       <wsdl:input message="tns:ValidateDaysSoapIn" />
       <wsdl:output message="tns:ValidateDaysSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidatePaymentNumber">
+      <wsdl:input message="tns:ValidatePaymentNumberSoapIn" />
+      <wsdl:output message="tns:ValidatePaymentNumberSoapOut" />
     </wsdl:operation>
     <wsdl:operation name="CompanyName">
       <wsdl:input message="tns:CompanyNameSoapIn" />
@@ -308,6 +333,15 @@
     </wsdl:operation>
     <wsdl:operation name="ValidateDays">
       <soap:operation soapAction="http://e-manifest.ir/ValidateDays" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidatePaymentNumber">
+      <soap:operation soapAction="http://e-manifest.ir/ValidatePaymentNumber" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>
@@ -392,6 +426,15 @@
     </wsdl:operation>
     <wsdl:operation name="ValidateDays">
       <soap12:operation soapAction="http://e-manifest.ir/ValidateDays" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidatePaymentNumber">
+      <soap12:operation soapAction="http://e-manifest.ir/ValidatePaymentNumber" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>

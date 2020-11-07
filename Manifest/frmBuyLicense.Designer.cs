@@ -28,13 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.lblAmount = new System.Windows.Forms.Label();
             this.btnCalc = new System.Windows.Forms.Button();
             this.txtQty = new System.Windows.Forms.NumericUpDown();
-            this.lblInternetStatus = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
@@ -46,37 +43,17 @@
             this.txtCompany = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtMobile = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblInternetStatus = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.pbClose = new System.Windows.Forms.PictureBox();
+            this.pbBG = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.txtQty)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbClose)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbBG)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Image = global::Manifest.Properties.Resources.loginpic;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(795, 450);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.Red;
-            this.pictureBox2.Image = global::Manifest.Properties.Resources.Close_Window;
-            this.pictureBox2.Location = new System.Drawing.Point(749, 21);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(24, 25);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 5;
-            this.pictureBox2.TabStop = false;
             // 
             // label3
             // 
@@ -136,16 +113,6 @@
             0,
             0,
             0});
-            // 
-            // lblInternetStatus
-            // 
-            this.lblInternetStatus.Font = new System.Drawing.Font("Shabnam", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.lblInternetStatus.Location = new System.Drawing.Point(32, 98);
-            this.lblInternetStatus.Name = "lblInternetStatus";
-            this.lblInternetStatus.Size = new System.Drawing.Size(82, 16);
-            this.lblInternetStatus.TabIndex = 22;
-            this.lblInternetStatus.Text = "----";
-            this.lblInternetStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
@@ -269,16 +236,16 @@
             this.txtMobile.TabIndex = 36;
             this.txtMobile.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // label1
+            // lblInternetStatus
             // 
-            this.label1.BackColor = System.Drawing.Color.White;
-            this.label1.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.label1.Location = new System.Drawing.Point(15, 26);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 16);
-            this.label1.TabIndex = 37;
-            this.label1.Text = "----";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblInternetStatus.BackColor = System.Drawing.Color.White;
+            this.lblInternetStatus.Font = new System.Drawing.Font("Tahoma", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.lblInternetStatus.Location = new System.Drawing.Point(15, 26);
+            this.lblInternetStatus.Name = "lblInternetStatus";
+            this.lblInternetStatus.Size = new System.Drawing.Size(82, 16);
+            this.lblInternetStatus.TabIndex = 37;
+            this.lblInternetStatus.Text = "----";
+            this.lblInternetStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox1
             // 
@@ -317,29 +284,53 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "محاسبه قیمت :";
             // 
+            // pbClose
+            // 
+            this.pbClose.BackColor = System.Drawing.Color.Transparent;
+            this.pbClose.Image = global::Manifest.Properties.Resources.Close_icon2;
+            this.pbClose.Location = new System.Drawing.Point(749, 21);
+            this.pbClose.Name = "pbClose";
+            this.pbClose.Size = new System.Drawing.Size(24, 25);
+            this.pbClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbClose.TabIndex = 5;
+            this.pbClose.TabStop = false;
+            this.pbClose.Click += new System.EventHandler(this.pbClose_Click);
+            // 
+            // pbBG
+            // 
+            this.pbBG.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pbBG.Image = global::Manifest.Properties.Resources.RegisterBG;
+            this.pbBG.Location = new System.Drawing.Point(0, 0);
+            this.pbBG.Name = "pbBG";
+            this.pbBG.Size = new System.Drawing.Size(795, 450);
+            this.pbBG.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbBG.TabIndex = 1;
+            this.pbBG.TabStop = false;
+            // 
             // frmBuyLicense
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(795, 450);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblInternetStatus);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.lblInternetStatus);
+            this.Controls.Add(this.pbClose);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.pbBG);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmBuyLicense";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "frmBuyLicense";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.Load += new System.EventHandler(this.frmBuyLicense_Load);
             ((System.ComponentModel.ISupportInitialize)(this.txtQty)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbClose)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbBG)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -347,13 +338,12 @@
 
         #endregion
 
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pbBG;
+        private System.Windows.Forms.PictureBox pbClose;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label lblAmount;
         private System.Windows.Forms.Button btnCalc;
         private System.Windows.Forms.NumericUpDown txtQty;
-        private System.Windows.Forms.Label lblInternetStatus;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label9;
@@ -365,7 +355,7 @@
         private System.Windows.Forms.TextBox txtCompany;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.TextBox txtMobile;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblInternetStatus;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
     }
