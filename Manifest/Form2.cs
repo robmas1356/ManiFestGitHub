@@ -85,19 +85,18 @@ namespace Manifest
                     }
                     else
                     {
-                        Properties.Settings.Default.OfflineCount += 1;
-                        Properties.Settings.Default.Save();
-
-                        if (Properties.Settings.Default.OfflineCount < 5)
-                            return true;
-                        else
-                            return false;
+                        return false; 
                     }
                 }
-                catch (Exception ex)
+                catch 
                 {
-                    Console.WriteLine(ex.Message);
-                    return false;
+                    Properties.Settings.Default.OfflineCount += 1;
+                    Properties.Settings.Default.Save();
+
+                    if (Properties.Settings.Default.OfflineCount < 5)
+                        return true;
+                    else
+                        return false;
                 }
             }
             else

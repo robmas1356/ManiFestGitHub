@@ -38,7 +38,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnPay = new System.Windows.Forms.Button();
             this.txtLineCode = new System.Windows.Forms.TextBox();
             this.txtCompany = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
@@ -69,14 +69,14 @@
             // 
             // lblAmount
             // 
-            this.lblAmount.AutoSize = true;
             this.lblAmount.BackColor = System.Drawing.SystemColors.Control;
             this.lblAmount.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.lblAmount.Location = new System.Drawing.Point(193, 95);
+            this.lblAmount.Location = new System.Drawing.Point(133, 95);
             this.lblAmount.Name = "lblAmount";
-            this.lblAmount.Size = new System.Drawing.Size(16, 18);
+            this.lblAmount.Size = new System.Drawing.Size(104, 18);
             this.lblAmount.TabIndex = 21;
             this.lblAmount.Text = "0";
+            this.lblAmount.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCalc
             // 
@@ -89,6 +89,7 @@
             this.btnCalc.TabIndex = 7;
             this.btnCalc.Text = "محاسبه قیمت لایسنس";
             this.btnCalc.UseVisualStyleBackColor = false;
+            this.btnCalc.Click += new System.EventHandler(this.btnCalc_Click);
             // 
             // txtQty
             // 
@@ -186,17 +187,18 @@
             this.label7.TabIndex = 31;
             this.label7.Text = "تومان";
             // 
-            // button1
+            // btnPay
             // 
-            this.button1.BackColor = System.Drawing.Color.LawnGreen;
-            this.button1.Font = new System.Drawing.Font("Shabnam", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
-            this.button1.Location = new System.Drawing.Point(11, 414);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(132, 31);
-            this.button1.TabIndex = 32;
-            this.button1.Text = "پرداخت ";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnPay.BackColor = System.Drawing.Color.LawnGreen;
+            this.btnPay.Font = new System.Drawing.Font("Shabnam", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.btnPay.Location = new System.Drawing.Point(11, 414);
+            this.btnPay.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.btnPay.Name = "btnPay";
+            this.btnPay.Size = new System.Drawing.Size(132, 31);
+            this.btnPay.TabIndex = 32;
+            this.btnPay.Text = "پرداخت ";
+            this.btnPay.UseVisualStyleBackColor = false;
+            this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
             // 
             // txtLineCode
             // 
@@ -212,6 +214,7 @@
             // 
             this.txtCompany.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.txtCompany.Location = new System.Drawing.Point(6, 74);
+            this.txtCompany.MaxLength = 100;
             this.txtCompany.Name = "txtCompany";
             this.txtCompany.Size = new System.Drawing.Size(246, 26);
             this.txtCompany.TabIndex = 34;
@@ -221,6 +224,7 @@
             // 
             this.txtEmail.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.txtEmail.Location = new System.Drawing.Point(6, 115);
+            this.txtEmail.MaxLength = 100;
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(246, 26);
             this.txtEmail.TabIndex = 35;
@@ -314,7 +318,7 @@
             this.ClientSize = new System.Drawing.Size(795, 450);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.lblInternetStatus);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnPay);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.pbClose);
             this.Controls.Add(this.groupBox1);
@@ -350,7 +354,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnPay;
         private System.Windows.Forms.TextBox txtLineCode;
         private System.Windows.Forms.TextBox txtCompany;
         private System.Windows.Forms.TextBox txtEmail;

@@ -106,7 +106,7 @@ namespace Manifest
         //}
         private void Form1_Load(object sender, EventArgs e)
         {
-            lblCompany.Text =new Form2().CryptoLicensing(Properties.Settings.Default.IsNewLic)
+            lblCompany.Text = new Form2().CryptoLicensing(Properties.Settings.Default.IsNewLic)
                 ? string.Format("این نرم افزار به نام {0} ثبت شده است", Properties.Settings.Default.Company.ToString())
                 : "این نرم افزار فعال نیست و شما از نسخه رایگان استفاده میکنید";
 
